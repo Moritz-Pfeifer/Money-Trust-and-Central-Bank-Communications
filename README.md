@@ -13,10 +13,10 @@ For the purpose of this study, I collected 21 years of public documents from the
 
 The processed data can be found in this folder.
 
-● Tone Analysis 
+● [Tone Analysis]https://github.com/Moritz-Pfeifer/Money-Trust-and-Central-Bank-Communications/tree/main/Tone_analysis
 
 The tools for analyising the data can be found in the Tone analysis folder. 
 
-● Webscraping and datasourcing 
+● [Webscraping and datasourcing]https://github.com/Moritz-Pfeifer/Money-Trust-and-Central-Bank-Communications/tree/main/Webscraping
 
 The tools for collecting the data and setting up the databse itself can be found in the Data folder.
