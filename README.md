@@ -1,7 +1,7 @@
 
 ![alt text](https://i.ibb.co/gtYf4Dg/1920px-Logo-Universite-Paris-Nanterre.png)
-## Money Trust and Central Bank Communication
-#Data and Scripts PhD Nanterre University  
+# Money Trust and Central Bank Communication
+## Data and Scripts PhD Nanterre University  
 
 This dissertation examines the role of monetary trust in monetary theory and policy and its implications for an empirical study on central bank communications. The first part critically examines the role monetary trust has played in economic theory in order to distinguish between two schools of thought. In the first school, monetary trust is defined as a horizontal relation between individuals, an approach to monetary trust that was developed by the neoclassical tradition and that continues to influence monetary theory and policy to this day. In the second approach, monetary trust is viewed from a vertical perspective, focusing on the institutional context and social embeddedness of trust relationships. The conclusion that monetary trust is fundamentally hierarchical drawn from this analysis, motivates the empirical study of the second part. This part analyzes whether German and French central bankers are able to efficiently manage the communicative challenge of pandering to the different demands of their three distinct target audiences—the markets, the state, and the public at large. 
 
