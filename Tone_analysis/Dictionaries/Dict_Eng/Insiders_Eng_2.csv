@@ -1,0 +1,2340 @@
+Adjetives_Verbs,Nouns_Dependent,Adjetive_Type
+accomodat*,bailout,Positive
+balance*,bailout,Positive
+benefit*,bailout,Positive
+better,bailout,Positive
+recover,bailout,Positive
+efficient,bailout,Positive
+encouraging,bailout,Positive
+enhance,bailout,Positive
+expand*,bailout,Positive
+firm*,bailout,Positive
+generous*,bailout,Positive
+great,bailout,Positive
+grow*,bailout,Positive
+healthy,bailout,Positive
+high*,bailout,Positive
+improv*,bailout,Positive
+increas*,bailout,Positive
+positive,bailout,Positive
+powerful,bailout,Positive
+promis*,bailout,Positive
+protect*,bailout,Positive
+rais*,bailout,Positive
+relief,bailout,Positive
+rescue,bailout,Positive
+responsib*,bailout,Positive
+risi*,bailout,Positive
+robust,bailout,Positive
+solid,bailout,Positive
+sound,bailout,Positive
+stable,bailout,Positive
+steadfast,bailout,Positive
+steady ,bailout,Positive
+stimul*,bailout,Positive
+strong*,bailout,Positive
+success*,bailout,Positive
+support*,bailout,Positive
+unlimited,bailout,Positive
+accomodat*,bail-out ,Positive
+balance*,bail-out ,Positive
+benefit*,bail-out ,Positive
+better,bail-out ,Positive
+recover,bail-out ,Positive
+efficient,bail-out ,Positive
+encouraging,bail-out ,Positive
+enhance,bail-out ,Positive
+expand*,bail-out ,Positive
+firm*,bail-out ,Positive
+generous*,bail-out ,Positive
+great,bail-out ,Positive
+grow*,bail-out ,Positive
+healthy,bail-out ,Positive
+high*,bail-out ,Positive
+improv*,bail-out ,Positive
+increas*,bail-out ,Positive
+positive,bail-out ,Positive
+powerful,bail-out ,Positive
+promis*,bail-out ,Positive
+protect*,bail-out ,Positive
+rais*,bail-out ,Positive
+relief,bail-out ,Positive
+rescue,bail-out ,Positive
+responsib*,bail-out ,Positive
+risi*,bail-out ,Positive
+robust,bail-out ,Positive
+solid,bail-out ,Positive
+sound,bail-out ,Positive
+stable,bail-out ,Positive
+steadfast,bail-out ,Positive
+steady ,bail-out ,Positive
+stimul*,bail-out ,Positive
+strong*,bail-out ,Positive
+success*,bail-out ,Positive
+support*,bail-out ,Positive
+unlimited,bail-out ,Positive
+accomodat*,bond*,Positive
+balance*,bond*,Positive
+benefit*,bond*,Positive
+better,bond*,Positive
+recover,bond*,Positive
+efficient,bond*,Positive
+encouraging,bond*,Positive
+enhance,bond*,Positive
+expand*,bond*,Positive
+firm*,bond*,Positive
+generous*,bond*,Positive
+great,bond*,Positive
+grow*,bond*,Positive
+healthy,bond*,Positive
+high*,bond*,Positive
+improv*,bond*,Positive
+increas*,bond*,Positive
+positive,bond*,Positive
+powerful,bond*,Positive
+promis*,bond*,Positive
+protect*,bond*,Positive
+rais*,bond*,Positive
+relief,bond*,Positive
+rescue,bond*,Positive
+responsib*,bond*,Positive
+risi*,bond*,Positive
+robust,bond*,Positive
+solid,bond*,Positive
+sound,bond*,Positive
+stable,bond*,Positive
+steadfast,bond*,Positive
+steady ,bond*,Positive
+stimul*,bond*,Positive
+strong*,bond*,Positive
+success*,bond*,Positive
+support*,bond*,Positive
+unlimited,bond*,Positive
+accomodat*,domestic demand,Positive
+balance*,domestic demand,Positive
+benefit*,domestic demand,Positive
+better,domestic demand,Positive
+recover,domestic demand,Positive
+efficient,domestic demand,Positive
+encouraging,domestic demand,Positive
+enhance,domestic demand,Positive
+expand*,domestic demand,Positive
+firm*,domestic demand,Positive
+generous*,domestic demand,Positive
+great,domestic demand,Positive
+grow*,domestic demand,Positive
+healthy,domestic demand,Positive
+high*,domestic demand,Positive
+improv*,domestic demand,Positive
+increas*,domestic demand,Positive
+positive,domestic demand,Positive
+powerful,domestic demand,Positive
+promis*,domestic demand,Positive
+protect*,domestic demand,Positive
+rais*,domestic demand,Positive
+relief,domestic demand,Positive
+rescue,domestic demand,Positive
+responsib*,domestic demand,Positive
+risi*,domestic demand,Positive
+robust,domestic demand,Positive
+solid,domestic demand,Positive
+sound,domestic demand,Positive
+stable,domestic demand,Positive
+steadfast,domestic demand,Positive
+steady ,domestic demand,Positive
+stimul*,domestic demand,Positive
+strong*,domestic demand,Positive
+success*,domestic demand,Positive
+support*,domestic demand,Positive
+unlimited,domestic demand,Positive
+accomodat*,employee*,Positive
+balance*,employee*,Positive
+benefit*,employee*,Positive
+better,employee*,Positive
+recover,employee*,Positive
+efficient,employee*,Positive
+encouraging,employee*,Positive
+enhance,employee*,Positive
+expand*,employee*,Positive
+firm*,employee*,Positive
+generous*,employee*,Positive
+great,employee*,Positive
+grow*,employee*,Positive
+healthy,employee*,Positive
+high*,employee*,Positive
+improv*,employee*,Positive
+increas*,employee*,Positive
+positive,employee*,Positive
+powerful,employee*,Positive
+promis*,employee*,Positive
+protect*,employee*,Positive
+rais*,employee*,Positive
+relief,employee*,Positive
+rescue,employee*,Positive
+responsib*,employee*,Positive
+risi*,employee*,Positive
+robust,employee*,Positive
+solid,employee*,Positive
+sound,employee*,Positive
+stable,employee*,Positive
+steadfast,employee*,Positive
+steady ,employee*,Positive
+stimul*,employee*,Positive
+strong*,employee*,Positive
+success*,employee*,Positive
+support*,employee*,Positive
+unlimited,employee*,Positive
+accomodat*,employer*,Positive
+balance*,employer*,Positive
+benefit*,employer*,Positive
+better,employer*,Positive
+recover,employer*,Positive
+efficient,employer*,Positive
+encouraging,employer*,Positive
+enhance,employer*,Positive
+expand*,employer*,Positive
+firm*,employer*,Positive
+generous*,employer*,Positive
+great,employer*,Positive
+grow*,employer*,Positive
+healthy,employer*,Positive
+high*,employer*,Positive
+improv*,employer*,Positive
+increas*,employer*,Positive
+positive,employer*,Positive
+powerful,employer*,Positive
+promis*,employer*,Positive
+protect*,employer*,Positive
+rais*,employer*,Positive
+relief,employer*,Positive
+rescue,employer*,Positive
+responsib*,employer*,Positive
+risi*,employer*,Positive
+robust,employer*,Positive
+solid,employer*,Positive
+sound,employer*,Positive
+stable,employer*,Positive
+steadfast,employer*,Positive
+steady ,employer*,Positive
+stimul*,employer*,Positive
+strong*,employer*,Positive
+success*,employer*,Positive
+support*,employer*,Positive
+unlimited,employer*,Positive
+accomodat*,export*,Positive
+balance*,export*,Positive
+benefit*,export*,Positive
+better,export*,Positive
+recover,export*,Positive
+efficient,export*,Positive
+encouraging,export*,Positive
+enhance,export*,Positive
+expand*,export*,Positive
+firm*,export*,Positive
+generous*,export*,Positive
+great,export*,Positive
+grow*,export*,Positive
+healthy,export*,Positive
+high*,export*,Positive
+improv*,export*,Positive
+increas*,export*,Positive
+positive,export*,Positive
+powerful,export*,Positive
+promis*,export*,Positive
+protect*,export*,Positive
+rais*,export*,Positive
+relief,export*,Positive
+rescue,export*,Positive
+responsib*,export*,Positive
+risi*,export*,Positive
+robust,export*,Positive
+solid,export*,Positive
+sound,export*,Positive
+stable,export*,Positive
+steadfast,export*,Positive
+steady ,export*,Positive
+stimul*,export*,Positive
+strong*,export*,Positive
+success*,export*,Positive
+support*,export*,Positive
+unlimited,export*,Positive
+accomodat*,fiscal,Positive
+balance*,fiscal,Positive
+benefit*,fiscal,Positive
+better,fiscal,Positive
+recover,fiscal,Positive
+efficient,fiscal,Positive
+encouraging,fiscal,Positive
+enhance,fiscal,Positive
+expand*,fiscal,Positive
+firm*,fiscal,Positive
+generous*,fiscal,Positive
+great,fiscal,Positive
+grow*,fiscal,Positive
+healthy,fiscal,Positive
+high*,fiscal,Positive
+improv*,fiscal,Positive
+increas*,fiscal,Positive
+positive,fiscal,Positive
+powerful,fiscal,Positive
+promis*,fiscal,Positive
+protect*,fiscal,Positive
+rais*,fiscal,Positive
+relief,fiscal,Positive
+rescue,fiscal,Positive
+responsib*,fiscal,Positive
+risi*,fiscal,Positive
+robust,fiscal,Positive
+solid,fiscal,Positive
+sound,fiscal,Positive
+stable,fiscal,Positive
+steadfast,fiscal,Positive
+steady ,fiscal,Positive
+stimul*,fiscal,Positive
+strong*,fiscal,Positive
+success*,fiscal,Positive
+support*,fiscal,Positive
+unlimited,fiscal,Positive
+accomodat*,foreign demand,Positive
+balance*,foreign demand,Positive
+benefit*,foreign demand,Positive
+better,foreign demand,Positive
+recover,foreign demand,Positive
+efficient,foreign demand,Positive
+encouraging,foreign demand,Positive
+enhance,foreign demand,Positive
+expand*,foreign demand,Positive
+firm*,foreign demand,Positive
+generous*,foreign demand,Positive
+great,foreign demand,Positive
+grow*,foreign demand,Positive
+healthy,foreign demand,Positive
+high*,foreign demand,Positive
+improv*,foreign demand,Positive
+increas*,foreign demand,Positive
+positive,foreign demand,Positive
+powerful,foreign demand,Positive
+promis*,foreign demand,Positive
+protect*,foreign demand,Positive
+rais*,foreign demand,Positive
+relief,foreign demand,Positive
+rescue,foreign demand,Positive
+responsib*,foreign demand,Positive
+risi*,foreign demand,Positive
+robust,foreign demand,Positive
+solid,foreign demand,Positive
+sound,foreign demand,Positive
+stable,foreign demand,Positive
+steadfast,foreign demand,Positive
+steady ,foreign demand,Positive
+stimul*,foreign demand,Positive
+strong*,foreign demand,Positive
+success*,foreign demand,Positive
+support*,foreign demand,Positive
+unlimited,foreign demand,Positive
+accomodat*,fundamental*,Positive
+balance*,fundamental*,Positive
+benefit*,fundamental*,Positive
+better,fundamental*,Positive
+recover,fundamental*,Positive
+efficient,fundamental*,Positive
+encouraging,fundamental*,Positive
+enhance,fundamental*,Positive
+expand*,fundamental*,Positive
+firm*,fundamental*,Positive
+generous*,fundamental*,Positive
+great,fundamental*,Positive
+grow*,fundamental*,Positive
+healthy,fundamental*,Positive
+high*,fundamental*,Positive
+improv*,fundamental*,Positive
+increas*,fundamental*,Positive
+positive,fundamental*,Positive
+powerful,fundamental*,Positive
+promis*,fundamental*,Positive
+protect*,fundamental*,Positive
+rais*,fundamental*,Positive
+relief,fundamental*,Positive
+rescue,fundamental*,Positive
+responsib*,fundamental*,Positive
+risi*,fundamental*,Positive
+robust,fundamental*,Positive
+solid,fundamental*,Positive
+sound,fundamental*,Positive
+stable,fundamental*,Positive
+steadfast,fundamental*,Positive
+steady ,fundamental*,Positive
+stimul*,fundamental*,Positive
+strong*,fundamental*,Positive
+success*,fundamental*,Positive
+support*,fundamental*,Positive
+unlimited,fundamental*,Positive
+accomodat*,government balance sheet*,Positive
+balance*,government balance sheet*,Positive
+benefit*,government balance sheet*,Positive
+better,government balance sheet*,Positive
+recover,government balance sheet*,Positive
+efficient,government balance sheet*,Positive
+encouraging,government balance sheet*,Positive
+enhance,government balance sheet*,Positive
+expand*,government balance sheet*,Positive
+firm*,government balance sheet*,Positive
+generous*,government balance sheet*,Positive
+great,government balance sheet*,Positive
+grow*,government balance sheet*,Positive
+healthy,government balance sheet*,Positive
+high*,government balance sheet*,Positive
+improv*,government balance sheet*,Positive
+increas*,government balance sheet*,Positive
+positive,government balance sheet*,Positive
+powerful,government balance sheet*,Positive
+promis*,government balance sheet*,Positive
+protect*,government balance sheet*,Positive
+rais*,government balance sheet*,Positive
+relief,government balance sheet*,Positive
+rescue,government balance sheet*,Positive
+responsib*,government balance sheet*,Positive
+risi*,government balance sheet*,Positive
+robust,government balance sheet*,Positive
+solid,government balance sheet*,Positive
+sound,government balance sheet*,Positive
+stable,government balance sheet*,Positive
+steadfast,government balance sheet*,Positive
+steady ,government balance sheet*,Positive
+stimul*,government balance sheet*,Positive
+strong*,government balance sheet*,Positive
+success*,government balance sheet*,Positive
+support*,government balance sheet*,Positive
+unlimited,government balance sheet*,Positive
+accomodat*,government bond*,Positive
+balance*,government bond*,Positive
+benefit*,government bond*,Positive
+better,government bond*,Positive
+recover,government bond*,Positive
+efficient,government bond*,Positive
+encouraging,government bond*,Positive
+enhance,government bond*,Positive
+expand*,government bond*,Positive
+firm*,government bond*,Positive
+generous*,government bond*,Positive
+great,government bond*,Positive
+grow*,government bond*,Positive
+healthy,government bond*,Positive
+high*,government bond*,Positive
+improv*,government bond*,Positive
+increas*,government bond*,Positive
+positive,government bond*,Positive
+powerful,government bond*,Positive
+promis*,government bond*,Positive
+protect*,government bond*,Positive
+rais*,government bond*,Positive
+relief,government bond*,Positive
+rescue,government bond*,Positive
+responsib*,government bond*,Positive
+risi*,government bond*,Positive
+robust,government bond*,Positive
+solid,government bond*,Positive
+sound,government bond*,Positive
+stable,government bond*,Positive
+steadfast,government bond*,Positive
+steady ,government bond*,Positive
+stimul*,government bond*,Positive
+strong*,government bond*,Positive
+success*,government bond*,Positive
+support*,government bond*,Positive
+unlimited,government bond*,Positive
+accomodat*,government budget,Positive
+balance*,government budget,Positive
+benefit*,government budget,Positive
+better,government budget,Positive
+recover,government budget,Positive
+efficient,government budget,Positive
+encouraging,government budget,Positive
+enhance,government budget,Positive
+expand*,government budget,Positive
+firm*,government budget,Positive
+generous*,government budget,Positive
+great,government budget,Positive
+grow*,government budget,Positive
+healthy,government budget,Positive
+high*,government budget,Positive
+improv*,government budget,Positive
+increas*,government budget,Positive
+positive,government budget,Positive
+powerful,government budget,Positive
+promis*,government budget,Positive
+protect*,government budget,Positive
+rais*,government budget,Positive
+relief,government budget,Positive
+rescue,government budget,Positive
+responsib*,government budget,Positive
+risi*,government budget,Positive
+robust,government budget,Positive
+solid,government budget,Positive
+sound,government budget,Positive
+stable,government budget,Positive
+steadfast,government budget,Positive
+steady ,government budget,Positive
+stimul*,government budget,Positive
+strong*,government budget,Positive
+success*,government budget,Positive
+support*,government budget,Positive
+unlimited,government budget,Positive
+accomodat*,import*,Positive
+balance*,import*,Positive
+benefit*,import*,Positive
+better,import*,Positive
+recover,import*,Positive
+efficient,import*,Positive
+encouraging,import*,Positive
+enhance,import*,Positive
+expand*,import*,Positive
+firm*,import*,Positive
+generous*,import*,Positive
+great,import*,Positive
+grow*,import*,Positive
+healthy,import*,Positive
+high*,import*,Positive
+improv*,import*,Positive
+increas*,import*,Positive
+positive,import*,Positive
+powerful,import*,Positive
+promis*,import*,Positive
+protect*,import*,Positive
+rais*,import*,Positive
+relief,import*,Positive
+rescue,import*,Positive
+responsib*,import*,Positive
+risi*,import*,Positive
+robust,import*,Positive
+solid,import*,Positive
+sound,import*,Positive
+stable,import*,Positive
+steadfast,import*,Positive
+steady ,import*,Positive
+stimul*,import*,Positive
+strong*,import*,Positive
+success*,import*,Positive
+support*,import*,Positive
+unlimited,import*,Positive
+accomodat*,integration,Positive
+balance*,integration,Positive
+benefit*,integration,Positive
+better,integration,Positive
+recover,integration,Positive
+efficient,integration,Positive
+encouraging,integration,Positive
+enhance,integration,Positive
+expand*,integration,Positive
+firm*,integration,Positive
+generous*,integration,Positive
+great,integration,Positive
+grow*,integration,Positive
+healthy,integration,Positive
+high*,integration,Positive
+improv*,integration,Positive
+increas*,integration,Positive
+positive,integration,Positive
+powerful,integration,Positive
+promis*,integration,Positive
+protect*,integration,Positive
+rais*,integration,Positive
+relief,integration,Positive
+rescue,integration,Positive
+responsib*,integration,Positive
+risi*,integration,Positive
+robust,integration,Positive
+solid,integration,Positive
+sound,integration,Positive
+stable,integration,Positive
+steadfast,integration,Positive
+steady ,integration,Positive
+stimul*,integration,Positive
+strong*,integration,Positive
+success*,integration,Positive
+support*,integration,Positive
+unlimited,integration,Positive
+accomodat*,labo(u)r,Positive
+balance*,labo(u)r,Positive
+benefit*,labo(u)r,Positive
+better,labo(u)r,Positive
+recover,labo(u)r,Positive
+efficient,labo(u)r,Positive
+encouraging,labo(u)r,Positive
+enhance,labo(u)r,Positive
+expand*,labo(u)r,Positive
+firm*,labo(u)r,Positive
+generous*,labo(u)r,Positive
+great,labo(u)r,Positive
+grow*,labo(u)r,Positive
+healthy,labo(u)r,Positive
+high*,labo(u)r,Positive
+improv*,labo(u)r,Positive
+increas*,labo(u)r,Positive
+positive,labo(u)r,Positive
+powerful,labo(u)r,Positive
+promis*,labo(u)r,Positive
+protect*,labo(u)r,Positive
+rais*,labo(u)r,Positive
+relief,labo(u)r,Positive
+rescue,labo(u)r,Positive
+responsib*,labo(u)r,Positive
+risi*,labo(u)r,Positive
+robust,labo(u)r,Positive
+solid,labo(u)r,Positive
+sound,labo(u)r,Positive
+stable,labo(u)r,Positive
+steadfast,labo(u)r,Positive
+steady ,labo(u)r,Positive
+stimul*,labo(u)r,Positive
+strong*,labo(u)r,Positive
+success*,labo(u)r,Positive
+support*,labo(u)r,Positive
+unlimited,labo(u)r,Positive
+accomodat*,package,Positive
+balance*,package,Positive
+benefit*,package,Positive
+better,package,Positive
+recover,package,Positive
+efficient,package,Positive
+encouraging,package,Positive
+enhance,package,Positive
+expand*,package,Positive
+firm*,package,Positive
+generous*,package,Positive
+great,package,Positive
+grow*,package,Positive
+healthy,package,Positive
+high*,package,Positive
+improv*,package,Positive
+increas*,package,Positive
+positive,package,Positive
+powerful,package,Positive
+promis*,package,Positive
+protect*,package,Positive
+rais*,package,Positive
+relief,package,Positive
+rescue,package,Positive
+responsib*,package,Positive
+risi*,package,Positive
+robust,package,Positive
+solid,package,Positive
+sound,package,Positive
+stable,package,Positive
+steadfast,package,Positive
+steady ,package,Positive
+stimul*,package,Positive
+strong*,package,Positive
+success*,package,Positive
+support*,package,Positive
+unlimited,package,Positive
+accomodat*,political unity ,Positive
+balance*,political unity ,Positive
+benefit*,political unity ,Positive
+better,political unity ,Positive
+recover,political unity ,Positive
+efficient,political unity ,Positive
+encouraging,political unity ,Positive
+enhance,political unity ,Positive
+expand*,political unity ,Positive
+firm*,political unity ,Positive
+generous*,political unity ,Positive
+great,political unity ,Positive
+grow*,political unity ,Positive
+healthy,political unity ,Positive
+high*,political unity ,Positive
+improv*,political unity ,Positive
+increas*,political unity ,Positive
+positive,political unity ,Positive
+powerful,political unity ,Positive
+promis*,political unity ,Positive
+protect*,political unity ,Positive
+rais*,political unity ,Positive
+relief,political unity ,Positive
+rescue,political unity ,Positive
+responsib*,political unity ,Positive
+risi*,political unity ,Positive
+robust,political unity ,Positive
+solid,political unity ,Positive
+sound,political unity ,Positive
+stable,political unity ,Positive
+steadfast,political unity ,Positive
+steady ,political unity ,Positive
+stimul*,political unity ,Positive
+strong*,political unity ,Positive
+success*,political unity ,Positive
+support*,political unity ,Positive
+unlimited,political unity ,Positive
+accomodat*,program*,Positive
+balance*,program*,Positive
+benefit*,program*,Positive
+better,program*,Positive
+recover,program*,Positive
+efficient,program*,Positive
+encouraging,program*,Positive
+enhance,program*,Positive
+expand*,program*,Positive
+firm*,program*,Positive
+generous*,program*,Positive
+great,program*,Positive
+grow*,program*,Positive
+healthy,program*,Positive
+high*,program*,Positive
+improv*,program*,Positive
+increas*,program*,Positive
+positive,program*,Positive
+powerful,program*,Positive
+promis*,program*,Positive
+protect*,program*,Positive
+rais*,program*,Positive
+relief,program*,Positive
+rescue,program*,Positive
+responsib*,program*,Positive
+risi*,program*,Positive
+robust,program*,Positive
+solid,program*,Positive
+sound,program*,Positive
+stable,program*,Positive
+steadfast,program*,Positive
+steady ,program*,Positive
+stimul*,program*,Positive
+strong*,program*,Positive
+success*,program*,Positive
+support*,program*,Positive
+unlimited,program*,Positive
+accomodat*,public sector ,Positive
+balance*,public sector ,Positive
+benefit*,public sector ,Positive
+better,public sector ,Positive
+recover,public sector ,Positive
+efficient,public sector ,Positive
+encouraging,public sector ,Positive
+enhance,public sector ,Positive
+expand*,public sector ,Positive
+firm*,public sector ,Positive
+generous*,public sector ,Positive
+great,public sector ,Positive
+grow*,public sector ,Positive
+healthy,public sector ,Positive
+high*,public sector ,Positive
+improv*,public sector ,Positive
+increas*,public sector ,Positive
+positive,public sector ,Positive
+powerful,public sector ,Positive
+promis*,public sector ,Positive
+protect*,public sector ,Positive
+rais*,public sector ,Positive
+relief,public sector ,Positive
+rescue,public sector ,Positive
+responsib*,public sector ,Positive
+risi*,public sector ,Positive
+robust,public sector ,Positive
+solid,public sector ,Positive
+sound,public sector ,Positive
+stable,public sector ,Positive
+steadfast,public sector ,Positive
+steady ,public sector ,Positive
+stimul*,public sector ,Positive
+strong*,public sector ,Positive
+success*,public sector ,Positive
+support*,public sector ,Positive
+unlimited,public sector ,Positive
+accomodat*,public service*,Positive
+balance*,public service*,Positive
+benefit*,public service*,Positive
+better,public service*,Positive
+recover,public service*,Positive
+efficient,public service*,Positive
+encouraging,public service*,Positive
+enhance,public service*,Positive
+expand*,public service*,Positive
+firm*,public service*,Positive
+generous*,public service*,Positive
+great,public service*,Positive
+grow*,public service*,Positive
+healthy,public service*,Positive
+high*,public service*,Positive
+improv*,public service*,Positive
+increas*,public service*,Positive
+positive,public service*,Positive
+powerful,public service*,Positive
+promis*,public service*,Positive
+protect*,public service*,Positive
+rais*,public service*,Positive
+relief,public service*,Positive
+rescue,public service*,Positive
+responsib*,public service*,Positive
+risi*,public service*,Positive
+robust,public service*,Positive
+solid,public service*,Positive
+sound,public service*,Positive
+stable,public service*,Positive
+steadfast,public service*,Positive
+steady ,public service*,Positive
+stimul*,public service*,Positive
+strong*,public service*,Positive
+success*,public service*,Positive
+support*,public service*,Positive
+unlimited,public service*,Positive
+accomodat*,redistribut*,Positive
+balance*,redistribut*,Positive
+benefit*,redistribut*,Positive
+better,redistribut*,Positive
+recover,redistribut*,Positive
+efficient,redistribut*,Positive
+encouraging,redistribut*,Positive
+enhance,redistribut*,Positive
+expand*,redistribut*,Positive
+firm*,redistribut*,Positive
+generous*,redistribut*,Positive
+great,redistribut*,Positive
+grow*,redistribut*,Positive
+healthy,redistribut*,Positive
+high*,redistribut*,Positive
+improv*,redistribut*,Positive
+increas*,redistribut*,Positive
+positive,redistribut*,Positive
+powerful,redistribut*,Positive
+promis*,redistribut*,Positive
+protect*,redistribut*,Positive
+rais*,redistribut*,Positive
+relief,redistribut*,Positive
+rescue,redistribut*,Positive
+responsib*,redistribut*,Positive
+risi*,redistribut*,Positive
+robust,redistribut*,Positive
+solid,redistribut*,Positive
+sound,redistribut*,Positive
+stable,redistribut*,Positive
+steadfast,redistribut*,Positive
+steady ,redistribut*,Positive
+stimul*,redistribut*,Positive
+strong*,redistribut*,Positive
+success*,redistribut*,Positive
+support*,redistribut*,Positive
+unlimited,redistribut*,Positive
+accomodat*,reform*,Positive
+balance*,reform*,Positive
+benefit*,reform*,Positive
+better,reform*,Positive
+recover,reform*,Positive
+efficient,reform*,Positive
+encouraging,reform*,Positive
+enhance,reform*,Positive
+expand*,reform*,Positive
+firm*,reform*,Positive
+generous*,reform*,Positive
+great,reform*,Positive
+grow*,reform*,Positive
+healthy,reform*,Positive
+high*,reform*,Positive
+improv*,reform*,Positive
+increas*,reform*,Positive
+positive,reform*,Positive
+powerful,reform*,Positive
+promis*,reform*,Positive
+protect*,reform*,Positive
+rais*,reform*,Positive
+relief,reform*,Positive
+rescue,reform*,Positive
+responsib*,reform*,Positive
+risi*,reform*,Positive
+robust,reform*,Positive
+solid,reform*,Positive
+sound,reform*,Positive
+stable,reform*,Positive
+steadfast,reform*,Positive
+steady ,reform*,Positive
+stimul*,reform*,Positive
+strong*,reform*,Positive
+success*,reform*,Positive
+support*,reform*,Positive
+unlimited,reform*,Positive
+accomodat*,small and medium,Positive
+balance*,small and medium,Positive
+benefit*,small and medium,Positive
+better,small and medium,Positive
+recover,small and medium,Positive
+efficient,small and medium,Positive
+encouraging,small and medium,Positive
+enhance,small and medium,Positive
+expand*,small and medium,Positive
+firm*,small and medium,Positive
+generous*,small and medium,Positive
+great,small and medium,Positive
+grow*,small and medium,Positive
+healthy,small and medium,Positive
+high*,small and medium,Positive
+improv*,small and medium,Positive
+increas*,small and medium,Positive
+positive,small and medium,Positive
+powerful,small and medium,Positive
+promis*,small and medium,Positive
+protect*,small and medium,Positive
+rais*,small and medium,Positive
+relief,small and medium,Positive
+rescue,small and medium,Positive
+responsib*,small and medium,Positive
+risi*,small and medium,Positive
+robust,small and medium,Positive
+solid,small and medium,Positive
+sound,small and medium,Positive
+stable,small and medium,Positive
+steadfast,small and medium,Positive
+steady ,small and medium,Positive
+stimul*,small and medium,Positive
+strong*,small and medium,Positive
+success*,small and medium,Positive
+support*,small and medium,Positive
+unlimited,small and medium,Positive
+accomodat*,SME*,Positive
+balance*,SME*,Positive
+benefit*,SME*,Positive
+better,SME*,Positive
+recover,SME*,Positive
+efficient,SME*,Positive
+encouraging,SME*,Positive
+enhance,SME*,Positive
+expand*,SME*,Positive
+firm*,SME*,Positive
+generous*,SME*,Positive
+great,SME*,Positive
+grow*,SME*,Positive
+healthy,SME*,Positive
+high*,SME*,Positive
+improv*,SME*,Positive
+increas*,SME*,Positive
+positive,SME*,Positive
+powerful,SME*,Positive
+promis*,SME*,Positive
+protect*,SME*,Positive
+rais*,SME*,Positive
+relief,SME*,Positive
+rescue,SME*,Positive
+responsib*,SME*,Positive
+risi*,SME*,Positive
+robust,SME*,Positive
+solid,SME*,Positive
+sound,SME*,Positive
+stable,SME*,Positive
+steadfast,SME*,Positive
+steady ,SME*,Positive
+stimul*,SME*,Positive
+strong*,SME*,Positive
+success*,SME*,Positive
+support*,SME*,Positive
+unlimited,SME*,Positive
+accomodat*,sovereign bond*,Positive
+balance*,sovereign bond*,Positive
+benefit*,sovereign bond*,Positive
+better,sovereign bond*,Positive
+recover,sovereign bond*,Positive
+efficient,sovereign bond*,Positive
+encouraging,sovereign bond*,Positive
+enhance,sovereign bond*,Positive
+expand*,sovereign bond*,Positive
+firm*,sovereign bond*,Positive
+generous*,sovereign bond*,Positive
+great,sovereign bond*,Positive
+grow*,sovereign bond*,Positive
+healthy,sovereign bond*,Positive
+high*,sovereign bond*,Positive
+improv*,sovereign bond*,Positive
+increas*,sovereign bond*,Positive
+positive,sovereign bond*,Positive
+powerful,sovereign bond*,Positive
+promis*,sovereign bond*,Positive
+protect*,sovereign bond*,Positive
+rais*,sovereign bond*,Positive
+relief,sovereign bond*,Positive
+rescue,sovereign bond*,Positive
+responsib*,sovereign bond*,Positive
+risi*,sovereign bond*,Positive
+robust,sovereign bond*,Positive
+solid,sovereign bond*,Positive
+sound,sovereign bond*,Positive
+stable,sovereign bond*,Positive
+steadfast,sovereign bond*,Positive
+steady ,sovereign bond*,Positive
+stimul*,sovereign bond*,Positive
+strong*,sovereign bond*,Positive
+success*,sovereign bond*,Positive
+support*,sovereign bond*,Positive
+unlimited,sovereign bond*,Positive
+accomodat*,spending,Positive
+balance*,spending,Positive
+benefit*,spending,Positive
+better,spending,Positive
+recover,spending,Positive
+efficient,spending,Positive
+encouraging,spending,Positive
+enhance,spending,Positive
+expand*,spending,Positive
+firm*,spending,Positive
+generous*,spending,Positive
+great,spending,Positive
+grow*,spending,Positive
+healthy,spending,Positive
+high*,spending,Positive
+improv*,spending,Positive
+increas*,spending,Positive
+positive,spending,Positive
+powerful,spending,Positive
+promis*,spending,Positive
+protect*,spending,Positive
+rais*,spending,Positive
+relief,spending,Positive
+rescue,spending,Positive
+responsib*,spending,Positive
+risi*,spending,Positive
+robust,spending,Positive
+solid,spending,Positive
+sound,spending,Positive
+stable,spending,Positive
+steadfast,spending,Positive
+steady ,spending,Positive
+stimul*,spending,Positive
+strong*,spending,Positive
+success*,spending,Positive
+support*,spending,Positive
+unlimited,spending,Positive
+accomodat*,state budget ,Positive
+balance*,state budget ,Positive
+benefit*,state budget ,Positive
+better,state budget ,Positive
+recover,state budget ,Positive
+efficient,state budget ,Positive
+encouraging,state budget ,Positive
+enhance,state budget ,Positive
+expand*,state budget ,Positive
+firm*,state budget ,Positive
+generous*,state budget ,Positive
+great,state budget ,Positive
+grow*,state budget ,Positive
+healthy,state budget ,Positive
+high*,state budget ,Positive
+improv*,state budget ,Positive
+increas*,state budget ,Positive
+positive,state budget ,Positive
+powerful,state budget ,Positive
+promis*,state budget ,Positive
+protect*,state budget ,Positive
+rais*,state budget ,Positive
+relief,state budget ,Positive
+rescue,state budget ,Positive
+responsib*,state budget ,Positive
+risi*,state budget ,Positive
+robust,state budget ,Positive
+solid,state budget ,Positive
+sound,state budget ,Positive
+stable,state budget ,Positive
+steadfast,state budget ,Positive
+steady ,state budget ,Positive
+stimul*,state budget ,Positive
+strong*,state budget ,Positive
+success*,state budget ,Positive
+support*,state budget ,Positive
+unlimited,state budget ,Positive
+accomodat*,state securit*,Positive
+balance*,state securit*,Positive
+benefit*,state securit*,Positive
+better,state securit*,Positive
+recover,state securit*,Positive
+efficient,state securit*,Positive
+encouraging,state securit*,Positive
+enhance,state securit*,Positive
+expand*,state securit*,Positive
+firm*,state securit*,Positive
+generous*,state securit*,Positive
+great,state securit*,Positive
+grow*,state securit*,Positive
+healthy,state securit*,Positive
+high*,state securit*,Positive
+improv*,state securit*,Positive
+increas*,state securit*,Positive
+positive,state securit*,Positive
+powerful,state securit*,Positive
+promis*,state securit*,Positive
+protect*,state securit*,Positive
+rais*,state securit*,Positive
+relief,state securit*,Positive
+rescue,state securit*,Positive
+responsib*,state securit*,Positive
+risi*,state securit*,Positive
+robust,state securit*,Positive
+solid,state securit*,Positive
+sound,state securit*,Positive
+stable,state securit*,Positive
+steadfast,state securit*,Positive
+steady ,state securit*,Positive
+stimul*,state securit*,Positive
+strong*,state securit*,Positive
+success*,state securit*,Positive
+support*,state securit*,Positive
+unlimited,state securit*,Positive
+accomodat*,transmission ,Positive
+balance*,transmission ,Positive
+benefit*,transmission ,Positive
+better,transmission ,Positive
+recover,transmission ,Positive
+efficient,transmission ,Positive
+encouraging,transmission ,Positive
+enhance,transmission ,Positive
+expand*,transmission ,Positive
+firm*,transmission ,Positive
+generous*,transmission ,Positive
+great,transmission ,Positive
+grow*,transmission ,Positive
+healthy,transmission ,Positive
+high*,transmission ,Positive
+improv*,transmission ,Positive
+increas*,transmission ,Positive
+positive,transmission ,Positive
+powerful,transmission ,Positive
+promis*,transmission ,Positive
+protect*,transmission ,Positive
+rais*,transmission ,Positive
+relief,transmission ,Positive
+rescue,transmission ,Positive
+responsib*,transmission ,Positive
+risi*,transmission ,Positive
+robust,transmission ,Positive
+solid,transmission ,Positive
+sound,transmission ,Positive
+stable,transmission ,Positive
+steadfast,transmission ,Positive
+steady ,transmission ,Positive
+stimul*,transmission ,Positive
+strong*,transmission ,Positive
+success*,transmission ,Positive
+support*,transmission ,Positive
+unlimited,transmission ,Positive
+accomodat*,wage*,Positive
+balance*,wage*,Positive
+benefit*,wage*,Positive
+better,wage*,Positive
+recover,wage*,Positive
+efficient,wage*,Positive
+encouraging,wage*,Positive
+enhance,wage*,Positive
+expand*,wage*,Positive
+firm*,wage*,Positive
+generous*,wage*,Positive
+great,wage*,Positive
+grow*,wage*,Positive
+healthy,wage*,Positive
+high*,wage*,Positive
+improv*,wage*,Positive
+increas*,wage*,Positive
+positive,wage*,Positive
+powerful,wage*,Positive
+promis*,wage*,Positive
+protect*,wage*,Positive
+rais*,wage*,Positive
+relief,wage*,Positive
+rescue,wage*,Positive
+responsib*,wage*,Positive
+risi*,wage*,Positive
+robust,wage*,Positive
+solid,wage*,Positive
+sound,wage*,Positive
+stable,wage*,Positive
+steadfast,wage*,Positive
+steady ,wage*,Positive
+stimul*,wage*,Positive
+strong*,wage*,Positive
+success*,wage*,Positive
+support*,wage*,Positive
+unlimited,wage*,Positive
+consolidat*,bailout,Negative
+corrupt ,bailout,Negative
+declin*,bailout,Negative
+destabili*,bailout,Negative
+deteriorat*,bailout,Negative
+diffic*,bailout,Negative
+diminish,bailout,Negative
+discipline*,bailout,Negative
+fail*,bailout,Negative
+fall*,bailout,Negative
+fraud*,bailout,Negative
+inefficient,bailout,Negative
+insufficient ,bailout,Negative
+involuntary,bailout,Negative
+irresponsib*,bailout,Negative
+low*,bailout,Negative
+meager,bailout,Negative
+negative,bailout,Negative
+problem*,bailout,Negative
+restrict*,bailout,Negative
+rigid,bailout,Negative
+severe,bailout,Negative
+shaky ,bailout,Negative
+shrink*,bailout,Negative
+slim,bailout,Negative
+slow,bailout,Negative
+small*,bailout,Negative
+structural ,bailout,Negative
+struggling,bailout,Negative
+tight,bailout,Negative
+troubl*,bailout,Negative
+unbalance*,bailout,Negative
+unstable,bailout,Negative
+unsustainable,bailout,Negative
+urgent*,bailout,Negative
+weak*,bailout,Negative
+worse*,bailout,Negative
+consolidat*,bail-out ,Negative
+corrupt ,bail-out ,Negative
+declin*,bail-out ,Negative
+destabili*,bail-out ,Negative
+deteriorat*,bail-out ,Negative
+diffic*,bail-out ,Negative
+diminish,bail-out ,Negative
+discipline*,bail-out ,Negative
+fail*,bail-out ,Negative
+fall*,bail-out ,Negative
+fraud*,bail-out ,Negative
+inefficient,bail-out ,Negative
+insufficient ,bail-out ,Negative
+involuntary,bail-out ,Negative
+irresponsib*,bail-out ,Negative
+low*,bail-out ,Negative
+meager,bail-out ,Negative
+negative,bail-out ,Negative
+problem*,bail-out ,Negative
+restrict*,bail-out ,Negative
+rigid,bail-out ,Negative
+severe,bail-out ,Negative
+shaky ,bail-out ,Negative
+shrink*,bail-out ,Negative
+slim,bail-out ,Negative
+slow,bail-out ,Negative
+small*,bail-out ,Negative
+structural ,bail-out ,Negative
+struggling,bail-out ,Negative
+tight,bail-out ,Negative
+troubl*,bail-out ,Negative
+unbalance*,bail-out ,Negative
+unstable,bail-out ,Negative
+unsustainable,bail-out ,Negative
+urgent*,bail-out ,Negative
+weak*,bail-out ,Negative
+worse*,bail-out ,Negative
+consolidat*,bond*,Negative
+corrupt ,bond*,Negative
+declin*,bond*,Negative
+destabili*,bond*,Negative
+deteriorat*,bond*,Negative
+diffic*,bond*,Negative
+diminish,bond*,Negative
+discipline*,bond*,Negative
+fail*,bond*,Negative
+fall*,bond*,Negative
+fraud*,bond*,Negative
+inefficient,bond*,Negative
+insufficient ,bond*,Negative
+involuntary,bond*,Negative
+irresponsib*,bond*,Negative
+low*,bond*,Negative
+meager,bond*,Negative
+negative,bond*,Negative
+problem*,bond*,Negative
+restrict*,bond*,Negative
+rigid,bond*,Negative
+severe,bond*,Negative
+shaky ,bond*,Negative
+shrink*,bond*,Negative
+slim,bond*,Negative
+slow,bond*,Negative
+small*,bond*,Negative
+structural ,bond*,Negative
+struggling,bond*,Negative
+tight,bond*,Negative
+troubl*,bond*,Negative
+unbalance*,bond*,Negative
+unstable,bond*,Negative
+unsustainable,bond*,Negative
+urgent*,bond*,Negative
+weak*,bond*,Negative
+worse*,bond*,Negative
+consolidat*,domestic demand,Negative
+corrupt ,domestic demand,Negative
+declin*,domestic demand,Negative
+destabili*,domestic demand,Negative
+deteriorat*,domestic demand,Negative
+diffic*,domestic demand,Negative
+diminish,domestic demand,Negative
+discipline*,domestic demand,Negative
+fail*,domestic demand,Negative
+fall*,domestic demand,Negative
+fraud*,domestic demand,Negative
+inefficient,domestic demand,Negative
+insufficient ,domestic demand,Negative
+involuntary,domestic demand,Negative
+irresponsib*,domestic demand,Negative
+low*,domestic demand,Negative
+meager,domestic demand,Negative
+negative,domestic demand,Negative
+problem*,domestic demand,Negative
+restrict*,domestic demand,Negative
+rigid,domestic demand,Negative
+severe,domestic demand,Negative
+shaky ,domestic demand,Negative
+shrink*,domestic demand,Negative
+slim,domestic demand,Negative
+slow,domestic demand,Negative
+small*,domestic demand,Negative
+structural ,domestic demand,Negative
+struggling,domestic demand,Negative
+tight,domestic demand,Negative
+troubl*,domestic demand,Negative
+unbalance*,domestic demand,Negative
+unstable,domestic demand,Negative
+unsustainable,domestic demand,Negative
+urgent*,domestic demand,Negative
+weak*,domestic demand,Negative
+worse*,domestic demand,Negative
+consolidat*,employee*,Negative
+corrupt ,employee*,Negative
+declin*,employee*,Negative
+destabili*,employee*,Negative
+deteriorat*,employee*,Negative
+diffic*,employee*,Negative
+diminish,employee*,Negative
+discipline*,employee*,Negative
+fail*,employee*,Negative
+fall*,employee*,Negative
+fraud*,employee*,Negative
+inefficient,employee*,Negative
+insufficient ,employee*,Negative
+involuntary,employee*,Negative
+irresponsib*,employee*,Negative
+low*,employee*,Negative
+meager,employee*,Negative
+negative,employee*,Negative
+problem*,employee*,Negative
+restrict*,employee*,Negative
+rigid,employee*,Negative
+severe,employee*,Negative
+shaky ,employee*,Negative
+shrink*,employee*,Negative
+slim,employee*,Negative
+slow,employee*,Negative
+small*,employee*,Negative
+structural ,employee*,Negative
+struggling,employee*,Negative
+tight,employee*,Negative
+troubl*,employee*,Negative
+unbalance*,employee*,Negative
+unstable,employee*,Negative
+unsustainable,employee*,Negative
+urgent*,employee*,Negative
+weak*,employee*,Negative
+worse*,employee*,Negative
+consolidat*,employer*,Negative
+corrupt ,employer*,Negative
+declin*,employer*,Negative
+destabili*,employer*,Negative
+deteriorat*,employer*,Negative
+diffic*,employer*,Negative
+diminish,employer*,Negative
+discipline*,employer*,Negative
+fail*,employer*,Negative
+fall*,employer*,Negative
+fraud*,employer*,Negative
+inefficient,employer*,Negative
+insufficient ,employer*,Negative
+involuntary,employer*,Negative
+irresponsib*,employer*,Negative
+low*,employer*,Negative
+meager,employer*,Negative
+negative,employer*,Negative
+problem*,employer*,Negative
+restrict*,employer*,Negative
+rigid,employer*,Negative
+severe,employer*,Negative
+shaky ,employer*,Negative
+shrink*,employer*,Negative
+slim,employer*,Negative
+slow,employer*,Negative
+small*,employer*,Negative
+structural ,employer*,Negative
+struggling,employer*,Negative
+tight,employer*,Negative
+troubl*,employer*,Negative
+unbalance*,employer*,Negative
+unstable,employer*,Negative
+unsustainable,employer*,Negative
+urgent*,employer*,Negative
+weak*,employer*,Negative
+worse*,employer*,Negative
+consolidat*,export*,Negative
+corrupt ,export*,Negative
+declin*,export*,Negative
+destabili*,export*,Negative
+deteriorat*,export*,Negative
+diffic*,export*,Negative
+diminish,export*,Negative
+discipline*,export*,Negative
+fail*,export*,Negative
+fall*,export*,Negative
+fraud*,export*,Negative
+inefficient,export*,Negative
+insufficient ,export*,Negative
+involuntary,export*,Negative
+irresponsib*,export*,Negative
+low*,export*,Negative
+meager,export*,Negative
+negative,export*,Negative
+problem*,export*,Negative
+restrict*,export*,Negative
+rigid,export*,Negative
+severe,export*,Negative
+shaky ,export*,Negative
+shrink*,export*,Negative
+slim,export*,Negative
+slow,export*,Negative
+small*,export*,Negative
+structural ,export*,Negative
+struggling,export*,Negative
+tight,export*,Negative
+troubl*,export*,Negative
+unbalance*,export*,Negative
+unstable,export*,Negative
+unsustainable,export*,Negative
+urgent*,export*,Negative
+weak*,export*,Negative
+worse*,export*,Negative
+consolidat*,fiscal,Negative
+corrupt ,fiscal,Negative
+declin*,fiscal,Negative
+destabili*,fiscal,Negative
+deteriorat*,fiscal,Negative
+diffic*,fiscal,Negative
+diminish,fiscal,Negative
+discipline*,fiscal,Negative
+fail*,fiscal,Negative
+fall*,fiscal,Negative
+fraud*,fiscal,Negative
+inefficient,fiscal,Negative
+insufficient ,fiscal,Negative
+involuntary,fiscal,Negative
+irresponsib*,fiscal,Negative
+low*,fiscal,Negative
+meager,fiscal,Negative
+negative,fiscal,Negative
+problem*,fiscal,Negative
+restrict*,fiscal,Negative
+rigid,fiscal,Negative
+severe,fiscal,Negative
+shaky ,fiscal,Negative
+shrink*,fiscal,Negative
+slim,fiscal,Negative
+slow,fiscal,Negative
+small*,fiscal,Negative
+structural ,fiscal,Negative
+struggling,fiscal,Negative
+tight,fiscal,Negative
+troubl*,fiscal,Negative
+unbalance*,fiscal,Negative
+unstable,fiscal,Negative
+unsustainable,fiscal,Negative
+urgent*,fiscal,Negative
+weak*,fiscal,Negative
+worse*,fiscal,Negative
+consolidat*,foreign demand,Negative
+corrupt ,foreign demand,Negative
+declin*,foreign demand,Negative
+destabili*,foreign demand,Negative
+deteriorat*,foreign demand,Negative
+diffic*,foreign demand,Negative
+diminish,foreign demand,Negative
+discipline*,foreign demand,Negative
+fail*,foreign demand,Negative
+fall*,foreign demand,Negative
+fraud*,foreign demand,Negative
+inefficient,foreign demand,Negative
+insufficient ,foreign demand,Negative
+involuntary,foreign demand,Negative
+irresponsib*,foreign demand,Negative
+low*,foreign demand,Negative
+meager,foreign demand,Negative
+negative,foreign demand,Negative
+problem*,foreign demand,Negative
+restrict*,foreign demand,Negative
+rigid,foreign demand,Negative
+severe,foreign demand,Negative
+shaky ,foreign demand,Negative
+shrink*,foreign demand,Negative
+slim,foreign demand,Negative
+slow,foreign demand,Negative
+small*,foreign demand,Negative
+structural ,foreign demand,Negative
+struggling,foreign demand,Negative
+tight,foreign demand,Negative
+troubl*,foreign demand,Negative
+unbalance*,foreign demand,Negative
+unstable,foreign demand,Negative
+unsustainable,foreign demand,Negative
+urgent*,foreign demand,Negative
+weak*,foreign demand,Negative
+worse*,foreign demand,Negative
+consolidat*,fundamental*,Negative
+corrupt ,fundamental*,Negative
+declin*,fundamental*,Negative
+destabili*,fundamental*,Negative
+deteriorat*,fundamental*,Negative
+diffic*,fundamental*,Negative
+diminish,fundamental*,Negative
+discipline*,fundamental*,Negative
+fail*,fundamental*,Negative
+fall*,fundamental*,Negative
+fraud*,fundamental*,Negative
+inefficient,fundamental*,Negative
+insufficient ,fundamental*,Negative
+involuntary,fundamental*,Negative
+irresponsib*,fundamental*,Negative
+low*,fundamental*,Negative
+meager,fundamental*,Negative
+negative,fundamental*,Negative
+problem*,fundamental*,Negative
+restrict*,fundamental*,Negative
+rigid,fundamental*,Negative
+severe,fundamental*,Negative
+shaky ,fundamental*,Negative
+shrink*,fundamental*,Negative
+slim,fundamental*,Negative
+slow,fundamental*,Negative
+small*,fundamental*,Negative
+structural ,fundamental*,Negative
+struggling,fundamental*,Negative
+tight,fundamental*,Negative
+troubl*,fundamental*,Negative
+unbalance*,fundamental*,Negative
+unstable,fundamental*,Negative
+unsustainable,fundamental*,Negative
+urgent*,fundamental*,Negative
+weak*,fundamental*,Negative
+worse*,fundamental*,Negative
+consolidat*,government balance sheet*,Negative
+corrupt ,government balance sheet*,Negative
+declin*,government balance sheet*,Negative
+destabili*,government balance sheet*,Negative
+deteriorat*,government balance sheet*,Negative
+diffic*,government balance sheet*,Negative
+diminish,government balance sheet*,Negative
+discipline*,government balance sheet*,Negative
+fail*,government balance sheet*,Negative
+fall*,government balance sheet*,Negative
+fraud*,government balance sheet*,Negative
+inefficient,government balance sheet*,Negative
+insufficient ,government balance sheet*,Negative
+involuntary,government balance sheet*,Negative
+irresponsib*,government balance sheet*,Negative
+low*,government balance sheet*,Negative
+meager,government balance sheet*,Negative
+negative,government balance sheet*,Negative
+problem*,government balance sheet*,Negative
+restrict*,government balance sheet*,Negative
+rigid,government balance sheet*,Negative
+severe,government balance sheet*,Negative
+shaky ,government balance sheet*,Negative
+shrink*,government balance sheet*,Negative
+slim,government balance sheet*,Negative
+slow,government balance sheet*,Negative
+small*,government balance sheet*,Negative
+structural ,government balance sheet*,Negative
+struggling,government balance sheet*,Negative
+tight,government balance sheet*,Negative
+troubl*,government balance sheet*,Negative
+unbalance*,government balance sheet*,Negative
+unstable,government balance sheet*,Negative
+unsustainable,government balance sheet*,Negative
+urgent*,government balance sheet*,Negative
+weak*,government balance sheet*,Negative
+worse*,government balance sheet*,Negative
+consolidat*,government bond*,Negative
+corrupt ,government bond*,Negative
+declin*,government bond*,Negative
+destabili*,government bond*,Negative
+deteriorat*,government bond*,Negative
+diffic*,government bond*,Negative
+diminish,government bond*,Negative
+discipline*,government bond*,Negative
+fail*,government bond*,Negative
+fall*,government bond*,Negative
+fraud*,government bond*,Negative
+inefficient,government bond*,Negative
+insufficient ,government bond*,Negative
+involuntary,government bond*,Negative
+irresponsib*,government bond*,Negative
+low*,government bond*,Negative
+meager,government bond*,Negative
+negative,government bond*,Negative
+problem*,government bond*,Negative
+restrict*,government bond*,Negative
+rigid,government bond*,Negative
+severe,government bond*,Negative
+shaky ,government bond*,Negative
+shrink*,government bond*,Negative
+slim,government bond*,Negative
+slow,government bond*,Negative
+small*,government bond*,Negative
+structural ,government bond*,Negative
+struggling,government bond*,Negative
+tight,government bond*,Negative
+troubl*,government bond*,Negative
+unbalance*,government bond*,Negative
+unstable,government bond*,Negative
+unsustainable,government bond*,Negative
+urgent*,government bond*,Negative
+weak*,government bond*,Negative
+worse*,government bond*,Negative
+consolidat*,government budget,Negative
+corrupt ,government budget,Negative
+declin*,government budget,Negative
+destabili*,government budget,Negative
+deteriorat*,government budget,Negative
+diffic*,government budget,Negative
+diminish,government budget,Negative
+discipline*,government budget,Negative
+fail*,government budget,Negative
+fall*,government budget,Negative
+fraud*,government budget,Negative
+inefficient,government budget,Negative
+insufficient ,government budget,Negative
+involuntary,government budget,Negative
+irresponsib*,government budget,Negative
+low*,government budget,Negative
+meager,government budget,Negative
+negative,government budget,Negative
+problem*,government budget,Negative
+restrict*,government budget,Negative
+rigid,government budget,Negative
+severe,government budget,Negative
+shaky ,government budget,Negative
+shrink*,government budget,Negative
+slim,government budget,Negative
+slow,government budget,Negative
+small*,government budget,Negative
+structural ,government budget,Negative
+struggling,government budget,Negative
+tight,government budget,Negative
+troubl*,government budget,Negative
+unbalance*,government budget,Negative
+unstable,government budget,Negative
+unsustainable,government budget,Negative
+urgent*,government budget,Negative
+weak*,government budget,Negative
+worse*,government budget,Negative
+consolidat*,import*,Negative
+corrupt ,import*,Negative
+declin*,import*,Negative
+destabili*,import*,Negative
+deteriorat*,import*,Negative
+diffic*,import*,Negative
+diminish,import*,Negative
+discipline*,import*,Negative
+fail*,import*,Negative
+fall*,import*,Negative
+fraud*,import*,Negative
+inefficient,import*,Negative
+insufficient ,import*,Negative
+involuntary,import*,Negative
+irresponsib*,import*,Negative
+low*,import*,Negative
+meager,import*,Negative
+negative,import*,Negative
+problem*,import*,Negative
+restrict*,import*,Negative
+rigid,import*,Negative
+severe,import*,Negative
+shaky ,import*,Negative
+shrink*,import*,Negative
+slim,import*,Negative
+slow,import*,Negative
+small*,import*,Negative
+structural ,import*,Negative
+struggling,import*,Negative
+tight,import*,Negative
+troubl*,import*,Negative
+unbalance*,import*,Negative
+unstable,import*,Negative
+unsustainable,import*,Negative
+urgent*,import*,Negative
+weak*,import*,Negative
+worse*,import*,Negative
+consolidat*,integration,Negative
+corrupt ,integration,Negative
+declin*,integration,Negative
+destabili*,integration,Negative
+deteriorat*,integration,Negative
+diffic*,integration,Negative
+diminish,integration,Negative
+discipline*,integration,Negative
+fail*,integration,Negative
+fall*,integration,Negative
+fraud*,integration,Negative
+inefficient,integration,Negative
+insufficient ,integration,Negative
+involuntary,integration,Negative
+irresponsib*,integration,Negative
+low*,integration,Negative
+meager,integration,Negative
+negative,integration,Negative
+problem*,integration,Negative
+restrict*,integration,Negative
+rigid,integration,Negative
+severe,integration,Negative
+shaky ,integration,Negative
+shrink*,integration,Negative
+slim,integration,Negative
+slow,integration,Negative
+small*,integration,Negative
+structural ,integration,Negative
+struggling,integration,Negative
+tight,integration,Negative
+troubl*,integration,Negative
+unbalance*,integration,Negative
+unstable,integration,Negative
+unsustainable,integration,Negative
+urgent*,integration,Negative
+weak*,integration,Negative
+worse*,integration,Negative
+consolidat*,labo(u)r,Negative
+corrupt ,labo(u)r,Negative
+declin*,labo(u)r,Negative
+destabili*,labo(u)r,Negative
+deteriorat*,labo(u)r,Negative
+diffic*,labo(u)r,Negative
+diminish,labo(u)r,Negative
+discipline*,labo(u)r,Negative
+fail*,labo(u)r,Negative
+fall*,labo(u)r,Negative
+fraud*,labo(u)r,Negative
+inefficient,labo(u)r,Negative
+insufficient ,labo(u)r,Negative
+involuntary,labo(u)r,Negative
+irresponsib*,labo(u)r,Negative
+low*,labo(u)r,Negative
+meager,labo(u)r,Negative
+negative,labo(u)r,Negative
+problem*,labo(u)r,Negative
+restrict*,labo(u)r,Negative
+rigid,labo(u)r,Negative
+severe,labo(u)r,Negative
+shaky ,labo(u)r,Negative
+shrink*,labo(u)r,Negative
+slim,labo(u)r,Negative
+slow,labo(u)r,Negative
+small*,labo(u)r,Negative
+structural ,labo(u)r,Negative
+struggling,labo(u)r,Negative
+tight,labo(u)r,Negative
+troubl*,labo(u)r,Negative
+unbalance*,labo(u)r,Negative
+unstable,labo(u)r,Negative
+unsustainable,labo(u)r,Negative
+urgent*,labo(u)r,Negative
+weak*,labo(u)r,Negative
+worse*,labo(u)r,Negative
+consolidat*,package,Negative
+corrupt ,package,Negative
+declin*,package,Negative
+destabili*,package,Negative
+deteriorat*,package,Negative
+diffic*,package,Negative
+diminish,package,Negative
+discipline*,package,Negative
+fail*,package,Negative
+fall*,package,Negative
+fraud*,package,Negative
+inefficient,package,Negative
+insufficient ,package,Negative
+involuntary,package,Negative
+irresponsib*,package,Negative
+low*,package,Negative
+meager,package,Negative
+negative,package,Negative
+problem*,package,Negative
+restrict*,package,Negative
+rigid,package,Negative
+severe,package,Negative
+shaky ,package,Negative
+shrink*,package,Negative
+slim,package,Negative
+slow,package,Negative
+small*,package,Negative
+structural ,package,Negative
+struggling,package,Negative
+tight,package,Negative
+troubl*,package,Negative
+unbalance*,package,Negative
+unstable,package,Negative
+unsustainable,package,Negative
+urgent*,package,Negative
+weak*,package,Negative
+worse*,package,Negative
+consolidat*,political unity ,Negative
+corrupt ,political unity ,Negative
+declin*,political unity ,Negative
+destabili*,political unity ,Negative
+deteriorat*,political unity ,Negative
+diffic*,political unity ,Negative
+diminish,political unity ,Negative
+discipline*,political unity ,Negative
+fail*,political unity ,Negative
+fall*,political unity ,Negative
+fraud*,political unity ,Negative
+inefficient,political unity ,Negative
+insufficient ,political unity ,Negative
+involuntary,political unity ,Negative
+irresponsib*,political unity ,Negative
+low*,political unity ,Negative
+meager,political unity ,Negative
+negative,political unity ,Negative
+problem*,political unity ,Negative
+restrict*,political unity ,Negative
+rigid,political unity ,Negative
+severe,political unity ,Negative
+shaky ,political unity ,Negative
+shrink*,political unity ,Negative
+slim,political unity ,Negative
+slow,political unity ,Negative
+small*,political unity ,Negative
+structural ,political unity ,Negative
+struggling,political unity ,Negative
+tight,political unity ,Negative
+troubl*,political unity ,Negative
+unbalance*,political unity ,Negative
+unstable,political unity ,Negative
+unsustainable,political unity ,Negative
+urgent*,political unity ,Negative
+weak*,political unity ,Negative
+worse*,political unity ,Negative
+consolidat*,program*,Negative
+corrupt ,program*,Negative
+declin*,program*,Negative
+destabili*,program*,Negative
+deteriorat*,program*,Negative
+diffic*,program*,Negative
+diminish,program*,Negative
+discipline*,program*,Negative
+fail*,program*,Negative
+fall*,program*,Negative
+fraud*,program*,Negative
+inefficient,program*,Negative
+insufficient ,program*,Negative
+involuntary,program*,Negative
+irresponsib*,program*,Negative
+low*,program*,Negative
+meager,program*,Negative
+negative,program*,Negative
+problem*,program*,Negative
+restrict*,program*,Negative
+rigid,program*,Negative
+severe,program*,Negative
+shaky ,program*,Negative
+shrink*,program*,Negative
+slim,program*,Negative
+slow,program*,Negative
+small*,program*,Negative
+structural ,program*,Negative
+struggling,program*,Negative
+tight,program*,Negative
+troubl*,program*,Negative
+unbalance*,program*,Negative
+unstable,program*,Negative
+unsustainable,program*,Negative
+urgent*,program*,Negative
+weak*,program*,Negative
+worse*,program*,Negative
+consolidat*,public sector ,Negative
+corrupt ,public sector ,Negative
+declin*,public sector ,Negative
+destabili*,public sector ,Negative
+deteriorat*,public sector ,Negative
+diffic*,public sector ,Negative
+diminish,public sector ,Negative
+discipline*,public sector ,Negative
+fail*,public sector ,Negative
+fall*,public sector ,Negative
+fraud*,public sector ,Negative
+inefficient,public sector ,Negative
+insufficient ,public sector ,Negative
+involuntary,public sector ,Negative
+irresponsib*,public sector ,Negative
+low*,public sector ,Negative
+meager,public sector ,Negative
+negative,public sector ,Negative
+problem*,public sector ,Negative
+restrict*,public sector ,Negative
+rigid,public sector ,Negative
+severe,public sector ,Negative
+shaky ,public sector ,Negative
+shrink*,public sector ,Negative
+slim,public sector ,Negative
+slow,public sector ,Negative
+small*,public sector ,Negative
+structural ,public sector ,Negative
+struggling,public sector ,Negative
+tight,public sector ,Negative
+troubl*,public sector ,Negative
+unbalance*,public sector ,Negative
+unstable,public sector ,Negative
+unsustainable,public sector ,Negative
+urgent*,public sector ,Negative
+weak*,public sector ,Negative
+worse*,public sector ,Negative
+consolidat*,public service*,Negative
+corrupt ,public service*,Negative
+declin*,public service*,Negative
+destabili*,public service*,Negative
+deteriorat*,public service*,Negative
+diffic*,public service*,Negative
+diminish,public service*,Negative
+discipline*,public service*,Negative
+fail*,public service*,Negative
+fall*,public service*,Negative
+fraud*,public service*,Negative
+inefficient,public service*,Negative
+insufficient ,public service*,Negative
+involuntary,public service*,Negative
+irresponsib*,public service*,Negative
+low*,public service*,Negative
+meager,public service*,Negative
+negative,public service*,Negative
+problem*,public service*,Negative
+restrict*,public service*,Negative
+rigid,public service*,Negative
+severe,public service*,Negative
+shaky ,public service*,Negative
+shrink*,public service*,Negative
+slim,public service*,Negative
+slow,public service*,Negative
+small*,public service*,Negative
+structural ,public service*,Negative
+struggling,public service*,Negative
+tight,public service*,Negative
+troubl*,public service*,Negative
+unbalance*,public service*,Negative
+unstable,public service*,Negative
+unsustainable,public service*,Negative
+urgent*,public service*,Negative
+weak*,public service*,Negative
+worse*,public service*,Negative
+consolidat*,redistribut*,Negative
+corrupt ,redistribut*,Negative
+declin*,redistribut*,Negative
+destabili*,redistribut*,Negative
+deteriorat*,redistribut*,Negative
+diffic*,redistribut*,Negative
+diminish,redistribut*,Negative
+discipline*,redistribut*,Negative
+fail*,redistribut*,Negative
+fall*,redistribut*,Negative
+fraud*,redistribut*,Negative
+inefficient,redistribut*,Negative
+insufficient ,redistribut*,Negative
+involuntary,redistribut*,Negative
+irresponsib*,redistribut*,Negative
+low*,redistribut*,Negative
+meager,redistribut*,Negative
+negative,redistribut*,Negative
+problem*,redistribut*,Negative
+restrict*,redistribut*,Negative
+rigid,redistribut*,Negative
+severe,redistribut*,Negative
+shaky ,redistribut*,Negative
+shrink*,redistribut*,Negative
+slim,redistribut*,Negative
+slow,redistribut*,Negative
+small*,redistribut*,Negative
+structural ,redistribut*,Negative
+struggling,redistribut*,Negative
+tight,redistribut*,Negative
+troubl*,redistribut*,Negative
+unbalance*,redistribut*,Negative
+unstable,redistribut*,Negative
+unsustainable,redistribut*,Negative
+urgent*,redistribut*,Negative
+weak*,redistribut*,Negative
+worse*,redistribut*,Negative
+consolidat*,reform*,Negative
+corrupt ,reform*,Negative
+declin*,reform*,Negative
+destabili*,reform*,Negative
+deteriorat*,reform*,Negative
+diffic*,reform*,Negative
+diminish,reform*,Negative
+discipline*,reform*,Negative
+fail*,reform*,Negative
+fall*,reform*,Negative
+fraud*,reform*,Negative
+inefficient,reform*,Negative
+insufficient ,reform*,Negative
+involuntary,reform*,Negative
+irresponsib*,reform*,Negative
+low*,reform*,Negative
+meager,reform*,Negative
+negative,reform*,Negative
+problem*,reform*,Negative
+restrict*,reform*,Negative
+rigid,reform*,Negative
+severe,reform*,Negative
+shaky ,reform*,Negative
+shrink*,reform*,Negative
+slim,reform*,Negative
+slow,reform*,Negative
+small*,reform*,Negative
+structural ,reform*,Negative
+struggling,reform*,Negative
+tight,reform*,Negative
+troubl*,reform*,Negative
+unbalance*,reform*,Negative
+unstable,reform*,Negative
+unsustainable,reform*,Negative
+urgent*,reform*,Negative
+weak*,reform*,Negative
+worse*,reform*,Negative
+consolidat*,small and medium,Negative
+corrupt ,small and medium,Negative
+declin*,small and medium,Negative
+destabili*,small and medium,Negative
+deteriorat*,small and medium,Negative
+diffic*,small and medium,Negative
+diminish,small and medium,Negative
+discipline*,small and medium,Negative
+fail*,small and medium,Negative
+fall*,small and medium,Negative
+fraud*,small and medium,Negative
+inefficient,small and medium,Negative
+insufficient ,small and medium,Negative
+involuntary,small and medium,Negative
+irresponsib*,small and medium,Negative
+low*,small and medium,Negative
+meager,small and medium,Negative
+negative,small and medium,Negative
+problem*,small and medium,Negative
+restrict*,small and medium,Negative
+rigid,small and medium,Negative
+severe,small and medium,Negative
+shaky ,small and medium,Negative
+shrink*,small and medium,Negative
+slim,small and medium,Negative
+slow,small and medium,Negative
+small*,small and medium,Negative
+structural ,small and medium,Negative
+struggling,small and medium,Negative
+tight,small and medium,Negative
+troubl*,small and medium,Negative
+unbalance*,small and medium,Negative
+unstable,small and medium,Negative
+unsustainable,small and medium,Negative
+urgent*,small and medium,Negative
+weak*,small and medium,Negative
+worse*,small and medium,Negative
+consolidat*,SME*,Negative
+corrupt ,SME*,Negative
+declin*,SME*,Negative
+destabili*,SME*,Negative
+deteriorat*,SME*,Negative
+diffic*,SME*,Negative
+diminish,SME*,Negative
+discipline*,SME*,Negative
+fail*,SME*,Negative
+fall*,SME*,Negative
+fraud*,SME*,Negative
+inefficient,SME*,Negative
+insufficient ,SME*,Negative
+involuntary,SME*,Negative
+irresponsib*,SME*,Negative
+low*,SME*,Negative
+meager,SME*,Negative
+negative,SME*,Negative
+problem*,SME*,Negative
+restrict*,SME*,Negative
+rigid,SME*,Negative
+severe,SME*,Negative
+shaky ,SME*,Negative
+shrink*,SME*,Negative
+slim,SME*,Negative
+slow,SME*,Negative
+small*,SME*,Negative
+structural ,SME*,Negative
+struggling,SME*,Negative
+tight,SME*,Negative
+troubl*,SME*,Negative
+unbalance*,SME*,Negative
+unstable,SME*,Negative
+unsustainable,SME*,Negative
+urgent*,SME*,Negative
+weak*,SME*,Negative
+worse*,SME*,Negative
+consolidat*,sovereign bond*,Negative
+corrupt ,sovereign bond*,Negative
+declin*,sovereign bond*,Negative
+destabili*,sovereign bond*,Negative
+deteriorat*,sovereign bond*,Negative
+diffic*,sovereign bond*,Negative
+diminish,sovereign bond*,Negative
+discipline*,sovereign bond*,Negative
+fail*,sovereign bond*,Negative
+fall*,sovereign bond*,Negative
+fraud*,sovereign bond*,Negative
+inefficient,sovereign bond*,Negative
+insufficient ,sovereign bond*,Negative
+involuntary,sovereign bond*,Negative
+irresponsib*,sovereign bond*,Negative
+low*,sovereign bond*,Negative
+meager,sovereign bond*,Negative
+negative,sovereign bond*,Negative
+problem*,sovereign bond*,Negative
+restrict*,sovereign bond*,Negative
+rigid,sovereign bond*,Negative
+severe,sovereign bond*,Negative
+shaky ,sovereign bond*,Negative
+shrink*,sovereign bond*,Negative
+slim,sovereign bond*,Negative
+slow,sovereign bond*,Negative
+small*,sovereign bond*,Negative
+structural ,sovereign bond*,Negative
+struggling,sovereign bond*,Negative
+tight,sovereign bond*,Negative
+troubl*,sovereign bond*,Negative
+unbalance*,sovereign bond*,Negative
+unstable,sovereign bond*,Negative
+unsustainable,sovereign bond*,Negative
+urgent*,sovereign bond*,Negative
+weak*,sovereign bond*,Negative
+worse*,sovereign bond*,Negative
+consolidat*,spending,Negative
+corrupt ,spending,Negative
+declin*,spending,Negative
+destabili*,spending,Negative
+deteriorat*,spending,Negative
+diffic*,spending,Negative
+diminish,spending,Negative
+discipline*,spending,Negative
+fail*,spending,Negative
+fall*,spending,Negative
+fraud*,spending,Negative
+inefficient,spending,Negative
+insufficient ,spending,Negative
+involuntary,spending,Negative
+irresponsib*,spending,Negative
+low*,spending,Negative
+meager,spending,Negative
+negative,spending,Negative
+problem*,spending,Negative
+restrict*,spending,Negative
+rigid,spending,Negative
+severe,spending,Negative
+shaky ,spending,Negative
+shrink*,spending,Negative
+slim,spending,Negative
+slow,spending,Negative
+small*,spending,Negative
+structural ,spending,Negative
+struggling,spending,Negative
+tight,spending,Negative
+troubl*,spending,Negative
+unbalance*,spending,Negative
+unstable,spending,Negative
+unsustainable,spending,Negative
+urgent*,spending,Negative
+weak*,spending,Negative
+worse*,spending,Negative
+consolidat*,state budget ,Negative
+corrupt ,state budget ,Negative
+declin*,state budget ,Negative
+destabili*,state budget ,Negative
+deteriorat*,state budget ,Negative
+diffic*,state budget ,Negative
+diminish,state budget ,Negative
+discipline*,state budget ,Negative
+fail*,state budget ,Negative
+fall*,state budget ,Negative
+fraud*,state budget ,Negative
+inefficient,state budget ,Negative
+insufficient ,state budget ,Negative
+involuntary,state budget ,Negative
+irresponsib*,state budget ,Negative
+low*,state budget ,Negative
+meager,state budget ,Negative
+negative,state budget ,Negative
+problem*,state budget ,Negative
+restrict*,state budget ,Negative
+rigid,state budget ,Negative
+severe,state budget ,Negative
+shaky ,state budget ,Negative
+shrink*,state budget ,Negative
+slim,state budget ,Negative
+slow,state budget ,Negative
+small*,state budget ,Negative
+structural ,state budget ,Negative
+struggling,state budget ,Negative
+tight,state budget ,Negative
+troubl*,state budget ,Negative
+unbalance*,state budget ,Negative
+unstable,state budget ,Negative
+unsustainable,state budget ,Negative
+urgent*,state budget ,Negative
+weak*,state budget ,Negative
+worse*,state budget ,Negative
+consolidat*,state securit*,Negative
+corrupt ,state securit*,Negative
+declin*,state securit*,Negative
+destabili*,state securit*,Negative
+deteriorat*,state securit*,Negative
+diffic*,state securit*,Negative
+diminish,state securit*,Negative
+discipline*,state securit*,Negative
+fail*,state securit*,Negative
+fall*,state securit*,Negative
+fraud*,state securit*,Negative
+inefficient,state securit*,Negative
+insufficient ,state securit*,Negative
+involuntary,state securit*,Negative
+irresponsib*,state securit*,Negative
+low*,state securit*,Negative
+meager,state securit*,Negative
+negative,state securit*,Negative
+problem*,state securit*,Negative
+restrict*,state securit*,Negative
+rigid,state securit*,Negative
+severe,state securit*,Negative
+shaky ,state securit*,Negative
+shrink*,state securit*,Negative
+slim,state securit*,Negative
+slow,state securit*,Negative
+small*,state securit*,Negative
+structural ,state securit*,Negative
+struggling,state securit*,Negative
+tight,state securit*,Negative
+troubl*,state securit*,Negative
+unbalance*,state securit*,Negative
+unstable,state securit*,Negative
+unsustainable,state securit*,Negative
+urgent*,state securit*,Negative
+weak*,state securit*,Negative
+worse*,state securit*,Negative
+consolidat*,transmission ,Negative
+corrupt ,transmission ,Negative
+declin*,transmission ,Negative
+destabili*,transmission ,Negative
+deteriorat*,transmission ,Negative
+diffic*,transmission ,Negative
+diminish,transmission ,Negative
+discipline*,transmission ,Negative
+fail*,transmission ,Negative
+fall*,transmission ,Negative
+fraud*,transmission ,Negative
+inefficient,transmission ,Negative
+insufficient ,transmission ,Negative
+involuntary,transmission ,Negative
+irresponsib*,transmission ,Negative
+low*,transmission ,Negative
+meager,transmission ,Negative
+negative,transmission ,Negative
+problem*,transmission ,Negative
+restrict*,transmission ,Negative
+rigid,transmission ,Negative
+severe,transmission ,Negative
+shaky ,transmission ,Negative
+shrink*,transmission ,Negative
+slim,transmission ,Negative
+slow,transmission ,Negative
+small*,transmission ,Negative
+structural ,transmission ,Negative
+struggling,transmission ,Negative
+tight,transmission ,Negative
+troubl*,transmission ,Negative
+unbalance*,transmission ,Negative
+unstable,transmission ,Negative
+unsustainable,transmission ,Negative
+urgent*,transmission ,Negative
+weak*,transmission ,Negative
+worse*,transmission ,Negative
+consolidat*,wage*,Negative
+corrupt ,wage*,Negative
+declin*,wage*,Negative
+destabili*,wage*,Negative
+deteriorat*,wage*,Negative
+diffic*,wage*,Negative
+diminish,wage*,Negative
+discipline*,wage*,Negative
+fail*,wage*,Negative
+fall*,wage*,Negative
+fraud*,wage*,Negative
+inefficient,wage*,Negative
+insufficient ,wage*,Negative
+involuntary,wage*,Negative
+irresponsib*,wage*,Negative
+low*,wage*,Negative
+meager,wage*,Negative
+negative,wage*,Negative
+problem*,wage*,Negative
+restrict*,wage*,Negative
+rigid,wage*,Negative
+severe,wage*,Negative
+shaky ,wage*,Negative
+shrink*,wage*,Negative
+slim,wage*,Negative
+slow,wage*,Negative
+small*,wage*,Negative
+structural ,wage*,Negative
+struggling,wage*,Negative
+tight,wage*,Negative
+troubl*,wage*,Negative
+unbalance*,wage*,Negative
+unstable,wage*,Negative
+unsustainable,wage*,Negative
+urgent*,wage*,Negative
+weak*,wage*,Negative
+worse*,wage*,Negative
+,expansion,Positive
+,full* employment,Positive
+,high* employment,Positive
+,high* levels of employment,Positive
+,low fiscal deficit,Positive
+,low price pressure*,Positive
+,low sovereign debt,Positive
+,low* inflationary pressure*,Positive
+,low* levels of unemployment,Positive
+,low* public debt ,Positive
+,low* unemployment,Positive
+,prosperity,Positive
+,real progress,Positive
+,signs of progress,Positive
+,stable fiscal deficit,Positive
+,stable public deficit,Positive
+,stable sovereign debt,Positive
+,welfare,Positive
+,austerity,Negative
+,,
+,fiscal disciplin*,Negative
+,growing deficit*,Negative
+,high deficit*,Negative
+,high price pressure*,Negative
+,high public deficit* ,Negative
+,high sovereign debt,Negative
+,high* government debt,Negative
+,high* inflationary pressure*,Negative
+,high* levels of unemployment,Negative
+,high* unemployment,Negative
+,idiosyncr*,Negative
+,jobless,Negative
+,lavish*,Negative
+,lax*,Negative
+,low levels of employment,Negative
+,no progress ,Negative
+,out of work,Negative
+,protectionist,Negative
+,risi* fiscal deficit*,Negative
+,risi* inflationary pressure*,Negative
+,risi* public debt ,Negative
+,risi* public deficit* ,Negative
+,shortfall ,Negative
+,sovereign default,Negative
+,surveil*,Negative

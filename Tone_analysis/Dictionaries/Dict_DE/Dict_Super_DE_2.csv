@@ -1,0 +1,1845 @@
+Adjetives_Verbs,Nouns_Dependent,Adjetive_Type
+ankurbeln,*anlage*,Positive
+ansteig*,*anlage*,Positive
+aufsteigen,*anlage*,Positive
+aufwärts*,*anlage*,Positive
+aussichtsreich,*anlage*,Positive
+bedingungslos,*anlage*,Positive
+beschleunigen*,*anlage*,Positive
+besser*,*anlage*,Positive
+effektiv,*anlage*,Positive
+erfolgreich*,*anlage*,Positive
+erhöhen*,*anlage*,Positive
+erholend,*anlage*,Positive
+fest*,*anlage*,Positive
+fest*,*anlage*,Positive
+gelungen*,*anlage*,Positive
+groß*,*anlage*,Positive
+hoch ,*anlage*,Positive
+hochsteigen,*anlage*,Positive
+hohe*,*anlage*,Positive
+höhe*,*anlage*,Positive
+kräftigen,*anlage*,Positive
+nachhaltig*,*anlage*,Positive
+optimistisch,*anlage*,Positive
+positiv *,*anlage*,Positive
+robust*,*anlage*,Positive
+schnell*,*anlage*,Positive
+sicher*,*anlage*,Positive
+stabil*,*anlage*,Positive
+stark*,*anlage*,Positive
+stärken*,*anlage*,Positive
+steigend*,*anlage*,Positive
+stimuliert*,*anlage*,Positive
+unbedingt,*anlage*,Positive
+unkonventionell*,*anlage*,Positive
+unterstützen* ,*anlage*,Positive
+verbesser*,*anlage*,Positive
+versprechend,*anlage*,Positive
+vorbehaltlos,*anlage*,Positive
+vorteilhaft*,*anlage*,Positive
+widerstandsfähig*,*anlage*,Positive
+wirksam*,*anlage*,Positive
+zahlungsfähig*,*anlage*,Positive
+zügig* ,*anlage*,Positive
+gut,*anlage*,Positive
+stet,*anlage*,Positive
+ermutigen,*anlage*,Positive
+ankurbeln,*anleger*,Positive
+ansteig*,*anleger*,Positive
+aufsteigen,*anleger*,Positive
+aufwärts*,*anleger*,Positive
+aussichtsreich,*anleger*,Positive
+bedingungslos,*anleger*,Positive
+beschleunigen*,*anleger*,Positive
+besser*,*anleger*,Positive
+effektiv,*anleger*,Positive
+erfolgreich*,*anleger*,Positive
+erhöhen*,*anleger*,Positive
+erholend,*anleger*,Positive
+fest*,*anleger*,Positive
+fest*,*anleger*,Positive
+gelungen*,*anleger*,Positive
+groß*,*anleger*,Positive
+hoch ,*anleger*,Positive
+hochsteigen,*anleger*,Positive
+hohe*,*anleger*,Positive
+höhe*,*anleger*,Positive
+kräftigen,*anleger*,Positive
+nachhaltig*,*anleger*,Positive
+optimistisch,*anleger*,Positive
+positiv *,*anleger*,Positive
+robust*,*anleger*,Positive
+schnell*,*anleger*,Positive
+sicher*,*anleger*,Positive
+stabil*,*anleger*,Positive
+stark*,*anleger*,Positive
+stärken*,*anleger*,Positive
+steigend*,*anleger*,Positive
+stimuliert*,*anleger*,Positive
+unbedingt,*anleger*,Positive
+unkonventionell*,*anleger*,Positive
+unterstützen* ,*anleger*,Positive
+verbesser*,*anleger*,Positive
+versprechend,*anleger*,Positive
+vorbehaltlos,*anleger*,Positive
+vorteilhaft*,*anleger*,Positive
+widerstandsfähig*,*anleger*,Positive
+wirksam*,*anleger*,Positive
+zahlungsfähig*,*anleger*,Positive
+zügig* ,*anleger*,Positive
+gut,*anleger*,Positive
+stet,*anleger*,Positive
+ermutigen,*anleger*,Positive
+ankurbeln,*bank*,Positive
+ansteig*,*bank*,Positive
+aufsteigen,*bank*,Positive
+aufwärts*,*bank*,Positive
+aussichtsreich,*bank*,Positive
+bedingungslos,*bank*,Positive
+beschleunigen*,*bank*,Positive
+besser*,*bank*,Positive
+effektiv,*bank*,Positive
+erfolgreich*,*bank*,Positive
+erhöhen*,*bank*,Positive
+erholend,*bank*,Positive
+fest*,*bank*,Positive
+fest*,*bank*,Positive
+gelungen*,*bank*,Positive
+groß*,*bank*,Positive
+hoch ,*bank*,Positive
+hochsteigen,*bank*,Positive
+hohe*,*bank*,Positive
+höhe*,*bank*,Positive
+kräftigen,*bank*,Positive
+nachhaltig*,*bank*,Positive
+optimistisch,*bank*,Positive
+positiv *,*bank*,Positive
+robust*,*bank*,Positive
+schnell*,*bank*,Positive
+sicher*,*bank*,Positive
+stabil*,*bank*,Positive
+stark*,*bank*,Positive
+stärken*,*bank*,Positive
+steigend*,*bank*,Positive
+stimuliert*,*bank*,Positive
+unbedingt,*bank*,Positive
+unkonventionell*,*bank*,Positive
+unterstützen* ,*bank*,Positive
+verbesser*,*bank*,Positive
+versprechend,*bank*,Positive
+vorbehaltlos,*bank*,Positive
+vorteilhaft*,*bank*,Positive
+widerstandsfähig*,*bank*,Positive
+wirksam*,*bank*,Positive
+zahlungsfähig*,*bank*,Positive
+zügig* ,*bank*,Positive
+gut,*bank*,Positive
+stet,*bank*,Positive
+ermutigen,*bank*,Positive
+ankurbeln,*finanz*,Positive
+ansteig*,*finanz*,Positive
+aufsteigen,*finanz*,Positive
+aufwärts*,*finanz*,Positive
+aussichtsreich,*finanz*,Positive
+bedingungslos,*finanz*,Positive
+beschleunigen*,*finanz*,Positive
+besser*,*finanz*,Positive
+effektiv,*finanz*,Positive
+erfolgreich*,*finanz*,Positive
+erhöhen*,*finanz*,Positive
+erholend,*finanz*,Positive
+fest*,*finanz*,Positive
+fest*,*finanz*,Positive
+gelungen*,*finanz*,Positive
+groß*,*finanz*,Positive
+hoch ,*finanz*,Positive
+hochsteigen,*finanz*,Positive
+hohe*,*finanz*,Positive
+höhe*,*finanz*,Positive
+kräftigen,*finanz*,Positive
+nachhaltig*,*finanz*,Positive
+optimistisch,*finanz*,Positive
+positiv *,*finanz*,Positive
+robust*,*finanz*,Positive
+schnell*,*finanz*,Positive
+sicher*,*finanz*,Positive
+stabil*,*finanz*,Positive
+stark*,*finanz*,Positive
+stärken*,*finanz*,Positive
+steigend*,*finanz*,Positive
+stimuliert*,*finanz*,Positive
+unbedingt,*finanz*,Positive
+unkonventionell*,*finanz*,Positive
+unterstützen* ,*finanz*,Positive
+verbesser*,*finanz*,Positive
+versprechend,*finanz*,Positive
+vorbehaltlos,*finanz*,Positive
+vorteilhaft*,*finanz*,Positive
+widerstandsfähig*,*finanz*,Positive
+wirksam*,*finanz*,Positive
+zahlungsfähig*,*finanz*,Positive
+zügig* ,*finanz*,Positive
+gut,*finanz*,Positive
+stet,*finanz*,Positive
+ermutigen,*finanz*,Positive
+ankurbeln,*gewinn*,Positive
+ansteig*,*gewinn*,Positive
+aufsteigen,*gewinn*,Positive
+aufwärts*,*gewinn*,Positive
+aussichtsreich,*gewinn*,Positive
+bedingungslos,*gewinn*,Positive
+beschleunigen*,*gewinn*,Positive
+besser*,*gewinn*,Positive
+effektiv,*gewinn*,Positive
+erfolgreich*,*gewinn*,Positive
+erhöhen*,*gewinn*,Positive
+erholend,*gewinn*,Positive
+fest*,*gewinn*,Positive
+fest*,*gewinn*,Positive
+gelungen*,*gewinn*,Positive
+groß*,*gewinn*,Positive
+hoch ,*gewinn*,Positive
+hochsteigen,*gewinn*,Positive
+hohe*,*gewinn*,Positive
+höhe*,*gewinn*,Positive
+kräftigen,*gewinn*,Positive
+nachhaltig*,*gewinn*,Positive
+optimistisch,*gewinn*,Positive
+positiv *,*gewinn*,Positive
+robust*,*gewinn*,Positive
+schnell*,*gewinn*,Positive
+sicher*,*gewinn*,Positive
+stabil*,*gewinn*,Positive
+stark*,*gewinn*,Positive
+stärken*,*gewinn*,Positive
+steigend*,*gewinn*,Positive
+stimuliert*,*gewinn*,Positive
+unbedingt,*gewinn*,Positive
+unkonventionell*,*gewinn*,Positive
+unterstützen* ,*gewinn*,Positive
+verbesser*,*gewinn*,Positive
+versprechend,*gewinn*,Positive
+vorbehaltlos,*gewinn*,Positive
+vorteilhaft*,*gewinn*,Positive
+widerstandsfähig*,*gewinn*,Positive
+wirksam*,*gewinn*,Positive
+zahlungsfähig*,*gewinn*,Positive
+zügig* ,*gewinn*,Positive
+gut,*gewinn*,Positive
+stet,*gewinn*,Positive
+ermutigen,*gewinn*,Positive
+ankurbeln,*instrument* ,Positive
+ansteig*,*instrument* ,Positive
+aufsteigen,*instrument* ,Positive
+aufwärts*,*instrument* ,Positive
+aussichtsreich,*instrument* ,Positive
+bedingungslos,*instrument* ,Positive
+beschleunigen*,*instrument* ,Positive
+besser*,*instrument* ,Positive
+effektiv,*instrument* ,Positive
+erfolgreich*,*instrument* ,Positive
+erhöhen*,*instrument* ,Positive
+erholend,*instrument* ,Positive
+fest*,*instrument* ,Positive
+fest*,*instrument* ,Positive
+gelungen*,*instrument* ,Positive
+groß*,*instrument* ,Positive
+hoch ,*instrument* ,Positive
+hochsteigen,*instrument* ,Positive
+hohe*,*instrument* ,Positive
+höhe*,*instrument* ,Positive
+kräftigen,*instrument* ,Positive
+nachhaltig*,*instrument* ,Positive
+optimistisch,*instrument* ,Positive
+positiv *,*instrument* ,Positive
+robust*,*instrument* ,Positive
+schnell*,*instrument* ,Positive
+sicher*,*instrument* ,Positive
+stabil*,*instrument* ,Positive
+stark*,*instrument* ,Positive
+stärken*,*instrument* ,Positive
+steigend*,*instrument* ,Positive
+stimuliert*,*instrument* ,Positive
+unbedingt,*instrument* ,Positive
+unkonventionell*,*instrument* ,Positive
+unterstützen* ,*instrument* ,Positive
+verbesser*,*instrument* ,Positive
+versprechend,*instrument* ,Positive
+vorbehaltlos,*instrument* ,Positive
+vorteilhaft*,*instrument* ,Positive
+widerstandsfähig*,*instrument* ,Positive
+wirksam*,*instrument* ,Positive
+zahlungsfähig*,*instrument* ,Positive
+zügig* ,*instrument* ,Positive
+gut,*instrument* ,Positive
+stet,*instrument* ,Positive
+ermutigen,*instrument* ,Positive
+ankurbeln,*investor*,Positive
+ansteig*,*investor*,Positive
+aufsteigen,*investor*,Positive
+aufwärts*,*investor*,Positive
+aussichtsreich,*investor*,Positive
+bedingungslos,*investor*,Positive
+beschleunigen*,*investor*,Positive
+besser*,*investor*,Positive
+effektiv,*investor*,Positive
+erfolgreich*,*investor*,Positive
+erhöhen*,*investor*,Positive
+erholend,*investor*,Positive
+fest*,*investor*,Positive
+fest*,*investor*,Positive
+gelungen*,*investor*,Positive
+groß*,*investor*,Positive
+hoch ,*investor*,Positive
+hochsteigen,*investor*,Positive
+hohe*,*investor*,Positive
+höhe*,*investor*,Positive
+kräftigen,*investor*,Positive
+nachhaltig*,*investor*,Positive
+optimistisch,*investor*,Positive
+positiv *,*investor*,Positive
+robust*,*investor*,Positive
+schnell*,*investor*,Positive
+sicher*,*investor*,Positive
+stabil*,*investor*,Positive
+stark*,*investor*,Positive
+stärken*,*investor*,Positive
+steigend*,*investor*,Positive
+stimuliert*,*investor*,Positive
+unbedingt,*investor*,Positive
+unkonventionell*,*investor*,Positive
+unterstützen* ,*investor*,Positive
+verbesser*,*investor*,Positive
+versprechend,*investor*,Positive
+vorbehaltlos,*investor*,Positive
+vorteilhaft*,*investor*,Positive
+widerstandsfähig*,*investor*,Positive
+wirksam*,*investor*,Positive
+zahlungsfähig*,*investor*,Positive
+zügig* ,*investor*,Positive
+gut,*investor*,Positive
+stet,*investor*,Positive
+ermutigen,*investor*,Positive
+ankurbeln,*profit*,Positive
+ansteig*,*profit*,Positive
+aufsteigen,*profit*,Positive
+aufwärts*,*profit*,Positive
+aussichtsreich,*profit*,Positive
+bedingungslos,*profit*,Positive
+beschleunigen*,*profit*,Positive
+besser*,*profit*,Positive
+effektiv,*profit*,Positive
+erfolgreich*,*profit*,Positive
+erhöhen*,*profit*,Positive
+erholend,*profit*,Positive
+fest*,*profit*,Positive
+fest*,*profit*,Positive
+gelungen*,*profit*,Positive
+groß*,*profit*,Positive
+hoch ,*profit*,Positive
+hochsteigen,*profit*,Positive
+hohe*,*profit*,Positive
+höhe*,*profit*,Positive
+kräftigen,*profit*,Positive
+nachhaltig*,*profit*,Positive
+optimistisch,*profit*,Positive
+positiv *,*profit*,Positive
+robust*,*profit*,Positive
+schnell*,*profit*,Positive
+sicher*,*profit*,Positive
+stabil*,*profit*,Positive
+stark*,*profit*,Positive
+stärken*,*profit*,Positive
+steigend*,*profit*,Positive
+stimuliert*,*profit*,Positive
+unbedingt,*profit*,Positive
+unkonventionell*,*profit*,Positive
+unterstützen* ,*profit*,Positive
+verbesser*,*profit*,Positive
+versprechend,*profit*,Positive
+vorbehaltlos,*profit*,Positive
+vorteilhaft*,*profit*,Positive
+widerstandsfähig*,*profit*,Positive
+wirksam*,*profit*,Positive
+zahlungsfähig*,*profit*,Positive
+zügig* ,*profit*,Positive
+gut,*profit*,Positive
+stet,*profit*,Positive
+ermutigen,*profit*,Positive
+ankurbeln,*Tilgung*,Positive
+ansteig*,*Tilgung*,Positive
+aufsteigen,*Tilgung*,Positive
+aufwärts*,*Tilgung*,Positive
+aussichtsreich,*Tilgung*,Positive
+bedingungslos,*Tilgung*,Positive
+beschleunigen*,*Tilgung*,Positive
+besser*,*Tilgung*,Positive
+effektiv,*Tilgung*,Positive
+erfolgreich*,*Tilgung*,Positive
+erhöhen*,*Tilgung*,Positive
+erholend,*Tilgung*,Positive
+fest*,*Tilgung*,Positive
+fest*,*Tilgung*,Positive
+gelungen*,*Tilgung*,Positive
+groß*,*Tilgung*,Positive
+hoch ,*Tilgung*,Positive
+hochsteigen,*Tilgung*,Positive
+hohe*,*Tilgung*,Positive
+höhe*,*Tilgung*,Positive
+kräftigen,*Tilgung*,Positive
+nachhaltig*,*Tilgung*,Positive
+optimistisch,*Tilgung*,Positive
+positiv *,*Tilgung*,Positive
+robust*,*Tilgung*,Positive
+schnell*,*Tilgung*,Positive
+sicher*,*Tilgung*,Positive
+stabil*,*Tilgung*,Positive
+stark*,*Tilgung*,Positive
+stärken*,*Tilgung*,Positive
+steigend*,*Tilgung*,Positive
+stimuliert*,*Tilgung*,Positive
+unbedingt,*Tilgung*,Positive
+unkonventionell*,*Tilgung*,Positive
+unterstützen* ,*Tilgung*,Positive
+verbesser*,*Tilgung*,Positive
+versprechend,*Tilgung*,Positive
+vorbehaltlos,*Tilgung*,Positive
+vorteilhaft*,*Tilgung*,Positive
+widerstandsfähig*,*Tilgung*,Positive
+wirksam*,*Tilgung*,Positive
+zahlungsfähig*,*Tilgung*,Positive
+zügig* ,*Tilgung*,Positive
+gut,*Tilgung*,Positive
+stet,*Tilgung*,Positive
+ermutigen,*Tilgung*,Positive
+ankurbeln,Aktien* ,Positive
+ansteig*,Aktien* ,Positive
+aufsteigen,Aktien* ,Positive
+aufwärts*,Aktien* ,Positive
+aussichtsreich,Aktien* ,Positive
+bedingungslos,Aktien* ,Positive
+beschleunigen*,Aktien* ,Positive
+besser*,Aktien* ,Positive
+effektiv,Aktien* ,Positive
+erfolgreich*,Aktien* ,Positive
+erhöhen*,Aktien* ,Positive
+erholend,Aktien* ,Positive
+fest*,Aktien* ,Positive
+fest*,Aktien* ,Positive
+gelungen*,Aktien* ,Positive
+groß*,Aktien* ,Positive
+hoch ,Aktien* ,Positive
+hochsteigen,Aktien* ,Positive
+hohe*,Aktien* ,Positive
+höhe*,Aktien* ,Positive
+kräftigen,Aktien* ,Positive
+nachhaltig*,Aktien* ,Positive
+optimistisch,Aktien* ,Positive
+positiv *,Aktien* ,Positive
+robust*,Aktien* ,Positive
+schnell*,Aktien* ,Positive
+sicher*,Aktien* ,Positive
+stabil*,Aktien* ,Positive
+stark*,Aktien* ,Positive
+stärken*,Aktien* ,Positive
+steigend*,Aktien* ,Positive
+stimuliert*,Aktien* ,Positive
+unbedingt,Aktien* ,Positive
+unkonventionell*,Aktien* ,Positive
+unterstützen* ,Aktien* ,Positive
+verbesser*,Aktien* ,Positive
+versprechend,Aktien* ,Positive
+vorbehaltlos,Aktien* ,Positive
+vorteilhaft*,Aktien* ,Positive
+widerstandsfähig*,Aktien* ,Positive
+wirksam*,Aktien* ,Positive
+zahlungsfähig*,Aktien* ,Positive
+zügig* ,Aktien* ,Positive
+gut,Aktien* ,Positive
+stet,Aktien* ,Positive
+ermutigen,Aktien* ,Positive
+ankurbeln,Börse*,Positive
+ansteig*,Börse*,Positive
+aufsteigen,Börse*,Positive
+aufwärts*,Börse*,Positive
+aussichtsreich,Börse*,Positive
+bedingungslos,Börse*,Positive
+beschleunigen*,Börse*,Positive
+besser*,Börse*,Positive
+effektiv,Börse*,Positive
+erfolgreich*,Börse*,Positive
+erhöhen*,Börse*,Positive
+erholend,Börse*,Positive
+fest*,Börse*,Positive
+fest*,Börse*,Positive
+gelungen*,Börse*,Positive
+groß*,Börse*,Positive
+hoch ,Börse*,Positive
+hochsteigen,Börse*,Positive
+hohe*,Börse*,Positive
+höhe*,Börse*,Positive
+kräftigen,Börse*,Positive
+nachhaltig*,Börse*,Positive
+optimistisch,Börse*,Positive
+positiv *,Börse*,Positive
+robust*,Börse*,Positive
+schnell*,Börse*,Positive
+sicher*,Börse*,Positive
+stabil*,Börse*,Positive
+stark*,Börse*,Positive
+stärken*,Börse*,Positive
+steigend*,Börse*,Positive
+stimuliert*,Börse*,Positive
+unbedingt,Börse*,Positive
+unkonventionell*,Börse*,Positive
+unterstützen* ,Börse*,Positive
+verbesser*,Börse*,Positive
+versprechend,Börse*,Positive
+vorbehaltlos,Börse*,Positive
+vorteilhaft*,Börse*,Positive
+widerstandsfähig*,Börse*,Positive
+wirksam*,Börse*,Positive
+zahlungsfähig*,Börse*,Positive
+zügig* ,Börse*,Positive
+gut,Börse*,Positive
+stet,Börse*,Positive
+ermutigen,Börse*,Positive
+ankurbeln,Geldmarkt*,Positive
+ansteig*,Geldmarkt*,Positive
+aufsteigen,Geldmarkt*,Positive
+aufwärts*,Geldmarkt*,Positive
+aussichtsreich,Geldmarkt*,Positive
+bedingungslos,Geldmarkt*,Positive
+beschleunigen*,Geldmarkt*,Positive
+besser*,Geldmarkt*,Positive
+effektiv,Geldmarkt*,Positive
+erfolgreich*,Geldmarkt*,Positive
+erhöhen*,Geldmarkt*,Positive
+erholend,Geldmarkt*,Positive
+fest*,Geldmarkt*,Positive
+fest*,Geldmarkt*,Positive
+gelungen*,Geldmarkt*,Positive
+groß*,Geldmarkt*,Positive
+hoch ,Geldmarkt*,Positive
+hochsteigen,Geldmarkt*,Positive
+hohe*,Geldmarkt*,Positive
+höhe*,Geldmarkt*,Positive
+kräftigen,Geldmarkt*,Positive
+nachhaltig*,Geldmarkt*,Positive
+optimistisch,Geldmarkt*,Positive
+positiv *,Geldmarkt*,Positive
+robust*,Geldmarkt*,Positive
+schnell*,Geldmarkt*,Positive
+sicher*,Geldmarkt*,Positive
+stabil*,Geldmarkt*,Positive
+stark*,Geldmarkt*,Positive
+stärken*,Geldmarkt*,Positive
+steigend*,Geldmarkt*,Positive
+stimuliert*,Geldmarkt*,Positive
+unbedingt,Geldmarkt*,Positive
+unkonventionell*,Geldmarkt*,Positive
+unterstützen* ,Geldmarkt*,Positive
+verbesser*,Geldmarkt*,Positive
+versprechend,Geldmarkt*,Positive
+vorbehaltlos,Geldmarkt*,Positive
+vorteilhaft*,Geldmarkt*,Positive
+widerstandsfähig*,Geldmarkt*,Positive
+wirksam*,Geldmarkt*,Positive
+zahlungsfähig*,Geldmarkt*,Positive
+zügig* ,Geldmarkt*,Positive
+gut,Geldmarkt*,Positive
+stet,Geldmarkt*,Positive
+ermutigen,Geldmarkt*,Positive
+ankurbeln,Kapitalmarkt*,Positive
+ansteig*,Kapitalmarkt*,Positive
+aufsteigen,Kapitalmarkt*,Positive
+aufwärts*,Kapitalmarkt*,Positive
+aussichtsreich,Kapitalmarkt*,Positive
+bedingungslos,Kapitalmarkt*,Positive
+beschleunigen*,Kapitalmarkt*,Positive
+besser*,Kapitalmarkt*,Positive
+effektiv,Kapitalmarkt*,Positive
+erfolgreich*,Kapitalmarkt*,Positive
+erhöhen*,Kapitalmarkt*,Positive
+erholend,Kapitalmarkt*,Positive
+fest*,Kapitalmarkt*,Positive
+fest*,Kapitalmarkt*,Positive
+gelungen*,Kapitalmarkt*,Positive
+groß*,Kapitalmarkt*,Positive
+hoch ,Kapitalmarkt*,Positive
+hochsteigen,Kapitalmarkt*,Positive
+hohe*,Kapitalmarkt*,Positive
+höhe*,Kapitalmarkt*,Positive
+kräftigen,Kapitalmarkt*,Positive
+nachhaltig*,Kapitalmarkt*,Positive
+optimistisch,Kapitalmarkt*,Positive
+positiv *,Kapitalmarkt*,Positive
+robust*,Kapitalmarkt*,Positive
+schnell*,Kapitalmarkt*,Positive
+sicher*,Kapitalmarkt*,Positive
+stabil*,Kapitalmarkt*,Positive
+stark*,Kapitalmarkt*,Positive
+stärken*,Kapitalmarkt*,Positive
+steigend*,Kapitalmarkt*,Positive
+stimuliert*,Kapitalmarkt*,Positive
+unbedingt,Kapitalmarkt*,Positive
+unkonventionell*,Kapitalmarkt*,Positive
+unterstützen* ,Kapitalmarkt*,Positive
+verbesser*,Kapitalmarkt*,Positive
+versprechend,Kapitalmarkt*,Positive
+vorbehaltlos,Kapitalmarkt*,Positive
+vorteilhaft*,Kapitalmarkt*,Positive
+widerstandsfähig*,Kapitalmarkt*,Positive
+wirksam*,Kapitalmarkt*,Positive
+zahlungsfähig*,Kapitalmarkt*,Positive
+zügig* ,Kapitalmarkt*,Positive
+gut,Kapitalmarkt*,Positive
+stet,Kapitalmarkt*,Positive
+ermutigen,Kapitalmarkt*,Positive
+ankurbeln,Konjunktur,Positive
+ansteig*,Konjunktur,Positive
+aufsteigen,Konjunktur,Positive
+aufwärts*,Konjunktur,Positive
+aussichtsreich,Konjunktur,Positive
+bedingungslos,Konjunktur,Positive
+beschleunigen*,Konjunktur,Positive
+besser*,Konjunktur,Positive
+effektiv,Konjunktur,Positive
+erfolgreich*,Konjunktur,Positive
+erhöhen*,Konjunktur,Positive
+erholend,Konjunktur,Positive
+fest*,Konjunktur,Positive
+fest*,Konjunktur,Positive
+gelungen*,Konjunktur,Positive
+groß*,Konjunktur,Positive
+hoch ,Konjunktur,Positive
+hochsteigen,Konjunktur,Positive
+hohe*,Konjunktur,Positive
+höhe*,Konjunktur,Positive
+kräftigen,Konjunktur,Positive
+nachhaltig*,Konjunktur,Positive
+optimistisch,Konjunktur,Positive
+positiv *,Konjunktur,Positive
+robust*,Konjunktur,Positive
+schnell*,Konjunktur,Positive
+sicher*,Konjunktur,Positive
+stabil*,Konjunktur,Positive
+stark*,Konjunktur,Positive
+stärken*,Konjunktur,Positive
+steigend*,Konjunktur,Positive
+stimuliert*,Konjunktur,Positive
+unbedingt,Konjunktur,Positive
+unkonventionell*,Konjunktur,Positive
+unterstützen* ,Konjunktur,Positive
+verbesser*,Konjunktur,Positive
+versprechend,Konjunktur,Positive
+vorbehaltlos,Konjunktur,Positive
+vorteilhaft*,Konjunktur,Positive
+widerstandsfähig*,Konjunktur,Positive
+wirksam*,Konjunktur,Positive
+zahlungsfähig*,Konjunktur,Positive
+zügig* ,Konjunktur,Positive
+gut,Konjunktur,Positive
+stet,Konjunktur,Positive
+ermutigen,Konjunktur,Positive
+ankurbeln,konjunkturelle Position*,Positive
+ansteig*,konjunkturelle Position*,Positive
+aufsteigen,konjunkturelle Position*,Positive
+aufwärts*,konjunkturelle Position*,Positive
+aussichtsreich,konjunkturelle Position*,Positive
+bedingungslos,konjunkturelle Position*,Positive
+beschleunigen*,konjunkturelle Position*,Positive
+besser*,konjunkturelle Position*,Positive
+effektiv,konjunkturelle Position*,Positive
+erfolgreich*,konjunkturelle Position*,Positive
+erhöhen*,konjunkturelle Position*,Positive
+erholend,konjunkturelle Position*,Positive
+fest*,konjunkturelle Position*,Positive
+fest*,konjunkturelle Position*,Positive
+gelungen*,konjunkturelle Position*,Positive
+groß*,konjunkturelle Position*,Positive
+hoch ,konjunkturelle Position*,Positive
+hochsteigen,konjunkturelle Position*,Positive
+hohe*,konjunkturelle Position*,Positive
+höhe*,konjunkturelle Position*,Positive
+kräftigen,konjunkturelle Position*,Positive
+nachhaltig*,konjunkturelle Position*,Positive
+optimistisch,konjunkturelle Position*,Positive
+positiv *,konjunkturelle Position*,Positive
+robust*,konjunkturelle Position*,Positive
+schnell*,konjunkturelle Position*,Positive
+sicher*,konjunkturelle Position*,Positive
+stabil*,konjunkturelle Position*,Positive
+stark*,konjunkturelle Position*,Positive
+stärken*,konjunkturelle Position*,Positive
+steigend*,konjunkturelle Position*,Positive
+stimuliert*,konjunkturelle Position*,Positive
+unbedingt,konjunkturelle Position*,Positive
+unkonventionell*,konjunkturelle Position*,Positive
+unterstützen* ,konjunkturelle Position*,Positive
+verbesser*,konjunkturelle Position*,Positive
+versprechend,konjunkturelle Position*,Positive
+vorbehaltlos,konjunkturelle Position*,Positive
+vorteilhaft*,konjunkturelle Position*,Positive
+widerstandsfähig*,konjunkturelle Position*,Positive
+wirksam*,konjunkturelle Position*,Positive
+zahlungsfähig*,konjunkturelle Position*,Positive
+zügig* ,konjunkturelle Position*,Positive
+gut,konjunkturelle Position*,Positive
+stet,konjunkturelle Position*,Positive
+ermutigen,konjunkturelle Position*,Positive
+ankurbeln,Kredit*,Positive
+ansteig*,Kredit*,Positive
+aufsteigen,Kredit*,Positive
+aufwärts*,Kredit*,Positive
+aussichtsreich,Kredit*,Positive
+bedingungslos,Kredit*,Positive
+beschleunigen*,Kredit*,Positive
+besser*,Kredit*,Positive
+effektiv,Kredit*,Positive
+erfolgreich*,Kredit*,Positive
+erhöhen*,Kredit*,Positive
+erholend,Kredit*,Positive
+fest*,Kredit*,Positive
+fest*,Kredit*,Positive
+gelungen*,Kredit*,Positive
+groß*,Kredit*,Positive
+hoch ,Kredit*,Positive
+hochsteigen,Kredit*,Positive
+hohe*,Kredit*,Positive
+höhe*,Kredit*,Positive
+kräftigen,Kredit*,Positive
+nachhaltig*,Kredit*,Positive
+optimistisch,Kredit*,Positive
+positiv *,Kredit*,Positive
+robust*,Kredit*,Positive
+schnell*,Kredit*,Positive
+sicher*,Kredit*,Positive
+stabil*,Kredit*,Positive
+stark*,Kredit*,Positive
+stärken*,Kredit*,Positive
+steigend*,Kredit*,Positive
+stimuliert*,Kredit*,Positive
+unbedingt,Kredit*,Positive
+unkonventionell*,Kredit*,Positive
+unterstützen* ,Kredit*,Positive
+verbesser*,Kredit*,Positive
+versprechend,Kredit*,Positive
+vorbehaltlos,Kredit*,Positive
+vorteilhaft*,Kredit*,Positive
+widerstandsfähig*,Kredit*,Positive
+wirksam*,Kredit*,Positive
+zahlungsfähig*,Kredit*,Positive
+zügig* ,Kredit*,Positive
+gut,Kredit*,Positive
+stet,Kredit*,Positive
+ermutigen,Kredit*,Positive
+ankurbeln,Liquidität,Positive
+ansteig*,Liquidität,Positive
+aufsteigen,Liquidität,Positive
+aufwärts*,Liquidität,Positive
+aussichtsreich,Liquidität,Positive
+bedingungslos,Liquidität,Positive
+beschleunigen*,Liquidität,Positive
+besser*,Liquidität,Positive
+effektiv,Liquidität,Positive
+erfolgreich*,Liquidität,Positive
+erhöhen*,Liquidität,Positive
+erholend,Liquidität,Positive
+fest*,Liquidität,Positive
+fest*,Liquidität,Positive
+gelungen*,Liquidität,Positive
+groß*,Liquidität,Positive
+hoch ,Liquidität,Positive
+hochsteigen,Liquidität,Positive
+hohe*,Liquidität,Positive
+höhe*,Liquidität,Positive
+kräftigen,Liquidität,Positive
+nachhaltig*,Liquidität,Positive
+optimistisch,Liquidität,Positive
+positiv *,Liquidität,Positive
+robust*,Liquidität,Positive
+schnell*,Liquidität,Positive
+sicher*,Liquidität,Positive
+stabil*,Liquidität,Positive
+stark*,Liquidität,Positive
+stärken*,Liquidität,Positive
+steigend*,Liquidität,Positive
+stimuliert*,Liquidität,Positive
+unbedingt,Liquidität,Positive
+unkonventionell*,Liquidität,Positive
+unterstützen* ,Liquidität,Positive
+verbesser*,Liquidität,Positive
+versprechend,Liquidität,Positive
+vorbehaltlos,Liquidität,Positive
+vorteilhaft*,Liquidität,Positive
+widerstandsfähig*,Liquidität,Positive
+wirksam*,Liquidität,Positive
+zahlungsfähig*,Liquidität,Positive
+zügig* ,Liquidität,Positive
+gut,Liquidität,Positive
+stet,Liquidität,Positive
+ermutigen,Liquidität,Positive
+ankurbeln,Portfolio* ,Positive
+ansteig*,Portfolio* ,Positive
+aufsteigen,Portfolio* ,Positive
+aufwärts*,Portfolio* ,Positive
+aussichtsreich,Portfolio* ,Positive
+bedingungslos,Portfolio* ,Positive
+beschleunigen*,Portfolio* ,Positive
+besser*,Portfolio* ,Positive
+effektiv,Portfolio* ,Positive
+erfolgreich*,Portfolio* ,Positive
+erhöhen*,Portfolio* ,Positive
+erholend,Portfolio* ,Positive
+fest*,Portfolio* ,Positive
+fest*,Portfolio* ,Positive
+gelungen*,Portfolio* ,Positive
+groß*,Portfolio* ,Positive
+hoch ,Portfolio* ,Positive
+hochsteigen,Portfolio* ,Positive
+hohe*,Portfolio* ,Positive
+höhe*,Portfolio* ,Positive
+kräftigen,Portfolio* ,Positive
+nachhaltig*,Portfolio* ,Positive
+optimistisch,Portfolio* ,Positive
+positiv *,Portfolio* ,Positive
+robust*,Portfolio* ,Positive
+schnell*,Portfolio* ,Positive
+sicher*,Portfolio* ,Positive
+stabil*,Portfolio* ,Positive
+stark*,Portfolio* ,Positive
+stärken*,Portfolio* ,Positive
+steigend*,Portfolio* ,Positive
+stimuliert*,Portfolio* ,Positive
+unbedingt,Portfolio* ,Positive
+unkonventionell*,Portfolio* ,Positive
+unterstützen* ,Portfolio* ,Positive
+verbesser*,Portfolio* ,Positive
+versprechend,Portfolio* ,Positive
+vorbehaltlos,Portfolio* ,Positive
+vorteilhaft*,Portfolio* ,Positive
+widerstandsfähig*,Portfolio* ,Positive
+wirksam*,Portfolio* ,Positive
+zahlungsfähig*,Portfolio* ,Positive
+zügig* ,Portfolio* ,Positive
+gut,Portfolio* ,Positive
+stet,Portfolio* ,Positive
+ermutigen,Portfolio* ,Positive
+ankurbeln,Refinanzierung*,Positive
+ansteig*,Refinanzierung*,Positive
+aufsteigen,Refinanzierung*,Positive
+aufwärts*,Refinanzierung*,Positive
+aussichtsreich,Refinanzierung*,Positive
+bedingungslos,Refinanzierung*,Positive
+beschleunigen*,Refinanzierung*,Positive
+besser*,Refinanzierung*,Positive
+effektiv,Refinanzierung*,Positive
+erfolgreich*,Refinanzierung*,Positive
+erhöhen*,Refinanzierung*,Positive
+erholend,Refinanzierung*,Positive
+fest*,Refinanzierung*,Positive
+fest*,Refinanzierung*,Positive
+gelungen*,Refinanzierung*,Positive
+groß*,Refinanzierung*,Positive
+hoch ,Refinanzierung*,Positive
+hochsteigen,Refinanzierung*,Positive
+hohe*,Refinanzierung*,Positive
+höhe*,Refinanzierung*,Positive
+kräftigen,Refinanzierung*,Positive
+nachhaltig*,Refinanzierung*,Positive
+optimistisch,Refinanzierung*,Positive
+positiv *,Refinanzierung*,Positive
+robust*,Refinanzierung*,Positive
+schnell*,Refinanzierung*,Positive
+sicher*,Refinanzierung*,Positive
+stabil*,Refinanzierung*,Positive
+stark*,Refinanzierung*,Positive
+stärken*,Refinanzierung*,Positive
+steigend*,Refinanzierung*,Positive
+stimuliert*,Refinanzierung*,Positive
+unbedingt,Refinanzierung*,Positive
+unkonventionell*,Refinanzierung*,Positive
+unterstützen* ,Refinanzierung*,Positive
+verbesser*,Refinanzierung*,Positive
+versprechend,Refinanzierung*,Positive
+vorbehaltlos,Refinanzierung*,Positive
+vorteilhaft*,Refinanzierung*,Positive
+widerstandsfähig*,Refinanzierung*,Positive
+wirksam*,Refinanzierung*,Positive
+zahlungsfähig*,Refinanzierung*,Positive
+zügig* ,Refinanzierung*,Positive
+gut,Refinanzierung*,Positive
+stet,Refinanzierung*,Positive
+ermutigen,Refinanzierung*,Positive
+ankurbeln,Reinvestition* ,Positive
+ansteig*,Reinvestition* ,Positive
+aufsteigen,Reinvestition* ,Positive
+aufwärts*,Reinvestition* ,Positive
+aussichtsreich,Reinvestition* ,Positive
+bedingungslos,Reinvestition* ,Positive
+beschleunigen*,Reinvestition* ,Positive
+besser*,Reinvestition* ,Positive
+effektiv,Reinvestition* ,Positive
+erfolgreich*,Reinvestition* ,Positive
+erhöhen*,Reinvestition* ,Positive
+erholend,Reinvestition* ,Positive
+fest*,Reinvestition* ,Positive
+fest*,Reinvestition* ,Positive
+gelungen*,Reinvestition* ,Positive
+groß*,Reinvestition* ,Positive
+hoch ,Reinvestition* ,Positive
+hochsteigen,Reinvestition* ,Positive
+hohe*,Reinvestition* ,Positive
+höhe*,Reinvestition* ,Positive
+kräftigen,Reinvestition* ,Positive
+nachhaltig*,Reinvestition* ,Positive
+optimistisch,Reinvestition* ,Positive
+positiv *,Reinvestition* ,Positive
+robust*,Reinvestition* ,Positive
+schnell*,Reinvestition* ,Positive
+sicher*,Reinvestition* ,Positive
+stabil*,Reinvestition* ,Positive
+stark*,Reinvestition* ,Positive
+stärken*,Reinvestition* ,Positive
+steigend*,Reinvestition* ,Positive
+stimuliert*,Reinvestition* ,Positive
+unbedingt,Reinvestition* ,Positive
+unkonventionell*,Reinvestition* ,Positive
+unterstützen* ,Reinvestition* ,Positive
+verbesser*,Reinvestition* ,Positive
+versprechend,Reinvestition* ,Positive
+vorbehaltlos,Reinvestition* ,Positive
+vorteilhaft*,Reinvestition* ,Positive
+widerstandsfähig*,Reinvestition* ,Positive
+wirksam*,Reinvestition* ,Positive
+zahlungsfähig*,Reinvestition* ,Positive
+zügig* ,Reinvestition* ,Positive
+gut,Reinvestition* ,Positive
+stet,Reinvestition* ,Positive
+ermutigen,Reinvestition* ,Positive
+*dämpf*,*anlage*,Negative
+*fallen*,*anlage*,Negative
+*schwach*,*anlage*,Negative
+abgenommen*,*anlage*,Negative
+abgeschwächt*,*anlage*,Negative
+abgestürzt,*anlage*,Negative
+abnehmen*,*anlage*,Negative
+abwärts,*anlage*,Negative
+abwerten*,*anlage*,Negative
+behutsam*,*anlage*,Negative
+besorgt*,*anlage*,Negative
+destabilisier*,*anlage*,Negative
+instabil*,*anlage*,Negative
+klein*,*anlage*,Negative
+langsam*,*anlage*,Negative
+mühsam*,*anlage*,Negative
+nach unten ,*anlage*,Negative
+nachteilig*,*anlage*,Negative
+negativ*,*anlage*,Negative
+niedrig*,*anlage*,Negative
+pessimitisch,*anlage*,Negative
+regulie*,*anlage*,Negative
+schlaff,*anlage*,Negative
+schlecht*,*anlage*,Negative
+schleppend*,*anlage*,Negative
+schwierig*,*anlage*,Negative
+sorge*,*anlage*,Negative
+streng*,*anlage*,Negative
+stürzen,*anlage*,Negative
+turbulent*,*anlage*,Negative
+überwachen*,*anlage*,Negative
+ungünstig*,*anlage*,Negative
+unsicher*,*anlage*,Negative
+unstabile*,*anlage*,Negative
+verhalten*,*anlage*,Negative
+verlangsamen*,*anlage*,Negative
+vermindern*,*anlage*,Negative
+verschlechter*,*anlage*,Negative
+verschwinden*,*anlage*,Negative
+verzöger*,*anlage*,Negative
+vorsichtig*,*anlage*,Negative
+zerbrechlich*,*anlage*,Negative
+zusammengebrochen*,*anlage*,Negative
+Spekulativ,*anlage*,Negative
+volatil*,*anlage*,Negative
+Riskant,*anlage*,Negative
+*dämpf*,*anleger*,Negative
+*fallen*,*anleger*,Negative
+*schwach*,*anleger*,Negative
+abgenommen*,*anleger*,Negative
+abgeschwächt*,*anleger*,Negative
+abgestürzt,*anleger*,Negative
+abnehmen*,*anleger*,Negative
+abwärts,*anleger*,Negative
+abwerten*,*anleger*,Negative
+behutsam*,*anleger*,Negative
+besorgt*,*anleger*,Negative
+destabilisier*,*anleger*,Negative
+instabil*,*anleger*,Negative
+klein*,*anleger*,Negative
+langsam*,*anleger*,Negative
+mühsam*,*anleger*,Negative
+nach unten ,*anleger*,Negative
+nachteilig*,*anleger*,Negative
+negativ*,*anleger*,Negative
+niedrig*,*anleger*,Negative
+pessimitisch,*anleger*,Negative
+regulie*,*anleger*,Negative
+schlaff,*anleger*,Negative
+schlecht*,*anleger*,Negative
+schleppend*,*anleger*,Negative
+schwierig*,*anleger*,Negative
+sorge*,*anleger*,Negative
+streng*,*anleger*,Negative
+stürzen,*anleger*,Negative
+turbulent*,*anleger*,Negative
+überwachen*,*anleger*,Negative
+ungünstig*,*anleger*,Negative
+unsicher*,*anleger*,Negative
+unstabile*,*anleger*,Negative
+verhalten*,*anleger*,Negative
+verlangsamen*,*anleger*,Negative
+vermindern*,*anleger*,Negative
+verschlechter*,*anleger*,Negative
+verschwinden*,*anleger*,Negative
+verzöger*,*anleger*,Negative
+vorsichtig*,*anleger*,Negative
+zerbrechlich*,*anleger*,Negative
+zusammengebrochen*,*anleger*,Negative
+Spekulativ,*anleger*,Negative
+volatil*,*anleger*,Negative
+Riskant,*anleger*,Negative
+*dämpf*,*bank*,Negative
+*fallen*,*bank*,Negative
+*schwach*,*bank*,Negative
+abgenommen*,*bank*,Negative
+abgeschwächt*,*bank*,Negative
+abgestürzt,*bank*,Negative
+abnehmen*,*bank*,Negative
+abwärts,*bank*,Negative
+abwerten*,*bank*,Negative
+behutsam*,*bank*,Negative
+besorgt*,*bank*,Negative
+destabilisier*,*bank*,Negative
+instabil*,*bank*,Negative
+klein*,*bank*,Negative
+langsam*,*bank*,Negative
+mühsam*,*bank*,Negative
+nach unten ,*bank*,Negative
+nachteilig*,*bank*,Negative
+negativ*,*bank*,Negative
+niedrig*,*bank*,Negative
+pessimitisch,*bank*,Negative
+regulie*,*bank*,Negative
+schlaff,*bank*,Negative
+schlecht*,*bank*,Negative
+schleppend*,*bank*,Negative
+schwierig*,*bank*,Negative
+sorge*,*bank*,Negative
+streng*,*bank*,Negative
+stürzen,*bank*,Negative
+turbulent*,*bank*,Negative
+überwachen*,*bank*,Negative
+ungünstig*,*bank*,Negative
+unsicher*,*bank*,Negative
+unstabile*,*bank*,Negative
+verhalten*,*bank*,Negative
+verlangsamen*,*bank*,Negative
+vermindern*,*bank*,Negative
+verschlechter*,*bank*,Negative
+verschwinden*,*bank*,Negative
+verzöger*,*bank*,Negative
+vorsichtig*,*bank*,Negative
+zerbrechlich*,*bank*,Negative
+zusammengebrochen*,*bank*,Negative
+Spekulativ,*bank*,Negative
+volatil*,*bank*,Negative
+Riskant,*bank*,Negative
+*dämpf*,*finanz*,Negative
+*fallen*,*finanz*,Negative
+*schwach*,*finanz*,Negative
+abgenommen*,*finanz*,Negative
+abgeschwächt*,*finanz*,Negative
+abgestürzt,*finanz*,Negative
+abnehmen*,*finanz*,Negative
+abwärts,*finanz*,Negative
+abwerten*,*finanz*,Negative
+behutsam*,*finanz*,Negative
+besorgt*,*finanz*,Negative
+destabilisier*,*finanz*,Negative
+instabil*,*finanz*,Negative
+klein*,*finanz*,Negative
+langsam*,*finanz*,Negative
+mühsam*,*finanz*,Negative
+nach unten ,*finanz*,Negative
+nachteilig*,*finanz*,Negative
+negativ*,*finanz*,Negative
+niedrig*,*finanz*,Negative
+pessimitisch,*finanz*,Negative
+regulie*,*finanz*,Negative
+schlaff,*finanz*,Negative
+schlecht*,*finanz*,Negative
+schleppend*,*finanz*,Negative
+schwierig*,*finanz*,Negative
+sorge*,*finanz*,Negative
+streng*,*finanz*,Negative
+stürzen,*finanz*,Negative
+turbulent*,*finanz*,Negative
+überwachen*,*finanz*,Negative
+ungünstig*,*finanz*,Negative
+unsicher*,*finanz*,Negative
+unstabile*,*finanz*,Negative
+verhalten*,*finanz*,Negative
+verlangsamen*,*finanz*,Negative
+vermindern*,*finanz*,Negative
+verschlechter*,*finanz*,Negative
+verschwinden*,*finanz*,Negative
+verzöger*,*finanz*,Negative
+vorsichtig*,*finanz*,Negative
+zerbrechlich*,*finanz*,Negative
+zusammengebrochen*,*finanz*,Negative
+Spekulativ,*finanz*,Negative
+volatil*,*finanz*,Negative
+Riskant,*finanz*,Negative
+*dämpf*,*gewinn*,Negative
+*fallen*,*gewinn*,Negative
+*schwach*,*gewinn*,Negative
+abgenommen*,*gewinn*,Negative
+abgeschwächt*,*gewinn*,Negative
+abgestürzt,*gewinn*,Negative
+abnehmen*,*gewinn*,Negative
+abwärts,*gewinn*,Negative
+abwerten*,*gewinn*,Negative
+behutsam*,*gewinn*,Negative
+besorgt*,*gewinn*,Negative
+destabilisier*,*gewinn*,Negative
+instabil*,*gewinn*,Negative
+klein*,*gewinn*,Negative
+langsam*,*gewinn*,Negative
+mühsam*,*gewinn*,Negative
+nach unten ,*gewinn*,Negative
+nachteilig*,*gewinn*,Negative
+negativ*,*gewinn*,Negative
+niedrig*,*gewinn*,Negative
+pessimitisch,*gewinn*,Negative
+regulie*,*gewinn*,Negative
+schlaff,*gewinn*,Negative
+schlecht*,*gewinn*,Negative
+schleppend*,*gewinn*,Negative
+schwierig*,*gewinn*,Negative
+sorge*,*gewinn*,Negative
+streng*,*gewinn*,Negative
+stürzen,*gewinn*,Negative
+turbulent*,*gewinn*,Negative
+überwachen*,*gewinn*,Negative
+ungünstig*,*gewinn*,Negative
+unsicher*,*gewinn*,Negative
+unstabile*,*gewinn*,Negative
+verhalten*,*gewinn*,Negative
+verlangsamen*,*gewinn*,Negative
+vermindern*,*gewinn*,Negative
+verschlechter*,*gewinn*,Negative
+verschwinden*,*gewinn*,Negative
+verzöger*,*gewinn*,Negative
+vorsichtig*,*gewinn*,Negative
+zerbrechlich*,*gewinn*,Negative
+zusammengebrochen*,*gewinn*,Negative
+Spekulativ,*gewinn*,Negative
+volatil*,*gewinn*,Negative
+Riskant,*gewinn*,Negative
+*dämpf*,*instrument* ,Negative
+*fallen*,*instrument* ,Negative
+*schwach*,*instrument* ,Negative
+abgenommen*,*instrument* ,Negative
+abgeschwächt*,*instrument* ,Negative
+abgestürzt,*instrument* ,Negative
+abnehmen*,*instrument* ,Negative
+abwärts,*instrument* ,Negative
+abwerten*,*instrument* ,Negative
+behutsam*,*instrument* ,Negative
+besorgt*,*instrument* ,Negative
+destabilisier*,*instrument* ,Negative
+instabil*,*instrument* ,Negative
+klein*,*instrument* ,Negative
+langsam*,*instrument* ,Negative
+mühsam*,*instrument* ,Negative
+nach unten ,*instrument* ,Negative
+nachteilig*,*instrument* ,Negative
+negativ*,*instrument* ,Negative
+niedrig*,*instrument* ,Negative
+pessimitisch,*instrument* ,Negative
+regulie*,*instrument* ,Negative
+schlaff,*instrument* ,Negative
+schlecht*,*instrument* ,Negative
+schleppend*,*instrument* ,Negative
+schwierig*,*instrument* ,Negative
+sorge*,*instrument* ,Negative
+streng*,*instrument* ,Negative
+stürzen,*instrument* ,Negative
+turbulent*,*instrument* ,Negative
+überwachen*,*instrument* ,Negative
+ungünstig*,*instrument* ,Negative
+unsicher*,*instrument* ,Negative
+unstabile*,*instrument* ,Negative
+verhalten*,*instrument* ,Negative
+verlangsamen*,*instrument* ,Negative
+vermindern*,*instrument* ,Negative
+verschlechter*,*instrument* ,Negative
+verschwinden*,*instrument* ,Negative
+verzöger*,*instrument* ,Negative
+vorsichtig*,*instrument* ,Negative
+zerbrechlich*,*instrument* ,Negative
+zusammengebrochen*,*instrument* ,Negative
+Spekulativ,*instrument* ,Negative
+volatil*,*instrument* ,Negative
+Riskant,*instrument* ,Negative
+*dämpf*,*investor*,Negative
+*fallen*,*investor*,Negative
+*schwach*,*investor*,Negative
+abgenommen*,*investor*,Negative
+abgeschwächt*,*investor*,Negative
+abgestürzt,*investor*,Negative
+abnehmen*,*investor*,Negative
+abwärts,*investor*,Negative
+abwerten*,*investor*,Negative
+behutsam*,*investor*,Negative
+besorgt*,*investor*,Negative
+destabilisier*,*investor*,Negative
+instabil*,*investor*,Negative
+klein*,*investor*,Negative
+langsam*,*investor*,Negative
+mühsam*,*investor*,Negative
+nach unten ,*investor*,Negative
+nachteilig*,*investor*,Negative
+negativ*,*investor*,Negative
+niedrig*,*investor*,Negative
+pessimitisch,*investor*,Negative
+regulie*,*investor*,Negative
+schlaff,*investor*,Negative
+schlecht*,*investor*,Negative
+schleppend*,*investor*,Negative
+schwierig*,*investor*,Negative
+sorge*,*investor*,Negative
+streng*,*investor*,Negative
+stürzen,*investor*,Negative
+turbulent*,*investor*,Negative
+überwachen*,*investor*,Negative
+ungünstig*,*investor*,Negative
+unsicher*,*investor*,Negative
+unstabile*,*investor*,Negative
+verhalten*,*investor*,Negative
+verlangsamen*,*investor*,Negative
+vermindern*,*investor*,Negative
+verschlechter*,*investor*,Negative
+verschwinden*,*investor*,Negative
+verzöger*,*investor*,Negative
+vorsichtig*,*investor*,Negative
+zerbrechlich*,*investor*,Negative
+zusammengebrochen*,*investor*,Negative
+Spekulativ,*investor*,Negative
+volatil*,*investor*,Negative
+Riskant,*investor*,Negative
+*dämpf*,*profit*,Negative
+*fallen*,*profit*,Negative
+*schwach*,*profit*,Negative
+abgenommen*,*profit*,Negative
+abgeschwächt*,*profit*,Negative
+abgestürzt,*profit*,Negative
+abnehmen*,*profit*,Negative
+abwärts,*profit*,Negative
+abwerten*,*profit*,Negative
+behutsam*,*profit*,Negative
+besorgt*,*profit*,Negative
+destabilisier*,*profit*,Negative
+instabil*,*profit*,Negative
+klein*,*profit*,Negative
+langsam*,*profit*,Negative
+mühsam*,*profit*,Negative
+nach unten ,*profit*,Negative
+nachteilig*,*profit*,Negative
+negativ*,*profit*,Negative
+niedrig*,*profit*,Negative
+pessimitisch,*profit*,Negative
+regulie*,*profit*,Negative
+schlaff,*profit*,Negative
+schlecht*,*profit*,Negative
+schleppend*,*profit*,Negative
+schwierig*,*profit*,Negative
+sorge*,*profit*,Negative
+streng*,*profit*,Negative
+stürzen,*profit*,Negative
+turbulent*,*profit*,Negative
+überwachen*,*profit*,Negative
+ungünstig*,*profit*,Negative
+unsicher*,*profit*,Negative
+unstabile*,*profit*,Negative
+verhalten*,*profit*,Negative
+verlangsamen*,*profit*,Negative
+vermindern*,*profit*,Negative
+verschlechter*,*profit*,Negative
+verschwinden*,*profit*,Negative
+verzöger*,*profit*,Negative
+vorsichtig*,*profit*,Negative
+zerbrechlich*,*profit*,Negative
+zusammengebrochen*,*profit*,Negative
+Spekulativ,*profit*,Negative
+volatil*,*profit*,Negative
+Riskant,*profit*,Negative
+*dämpf*,*Tilgung*,Negative
+*fallen*,*Tilgung*,Negative
+*schwach*,*Tilgung*,Negative
+abgenommen*,*Tilgung*,Negative
+abgeschwächt*,*Tilgung*,Negative
+abgestürzt,*Tilgung*,Negative
+abnehmen*,*Tilgung*,Negative
+abwärts,*Tilgung*,Negative
+abwerten*,*Tilgung*,Negative
+behutsam*,*Tilgung*,Negative
+besorgt*,*Tilgung*,Negative
+destabilisier*,*Tilgung*,Negative
+instabil*,*Tilgung*,Negative
+klein*,*Tilgung*,Negative
+langsam*,*Tilgung*,Negative
+mühsam*,*Tilgung*,Negative
+nach unten ,*Tilgung*,Negative
+nachteilig*,*Tilgung*,Negative
+negativ*,*Tilgung*,Negative
+niedrig*,*Tilgung*,Negative
+pessimitisch,*Tilgung*,Negative
+regulie*,*Tilgung*,Negative
+schlaff,*Tilgung*,Negative
+schlecht*,*Tilgung*,Negative
+schleppend*,*Tilgung*,Negative
+schwierig*,*Tilgung*,Negative
+sorge*,*Tilgung*,Negative
+streng*,*Tilgung*,Negative
+stürzen,*Tilgung*,Negative
+turbulent*,*Tilgung*,Negative
+überwachen*,*Tilgung*,Negative
+ungünstig*,*Tilgung*,Negative
+unsicher*,*Tilgung*,Negative
+unstabile*,*Tilgung*,Negative
+verhalten*,*Tilgung*,Negative
+verlangsamen*,*Tilgung*,Negative
+vermindern*,*Tilgung*,Negative
+verschlechter*,*Tilgung*,Negative
+verschwinden*,*Tilgung*,Negative
+verzöger*,*Tilgung*,Negative
+vorsichtig*,*Tilgung*,Negative
+zerbrechlich*,*Tilgung*,Negative
+zusammengebrochen*,*Tilgung*,Negative
+Spekulativ,*Tilgung*,Negative
+volatil*,*Tilgung*,Negative
+Riskant,*Tilgung*,Negative
+*dämpf*,Aktien* ,Negative
+*fallen*,Aktien* ,Negative
+*schwach*,Aktien* ,Negative
+abgenommen*,Aktien* ,Negative
+abgeschwächt*,Aktien* ,Negative
+abgestürzt,Aktien* ,Negative
+abnehmen*,Aktien* ,Negative
+abwärts,Aktien* ,Negative
+abwerten*,Aktien* ,Negative
+behutsam*,Aktien* ,Negative
+besorgt*,Aktien* ,Negative
+destabilisier*,Aktien* ,Negative
+instabil*,Aktien* ,Negative
+klein*,Aktien* ,Negative
+langsam*,Aktien* ,Negative
+mühsam*,Aktien* ,Negative
+nach unten ,Aktien* ,Negative
+nachteilig*,Aktien* ,Negative
+negativ*,Aktien* ,Negative
+niedrig*,Aktien* ,Negative
+pessimitisch,Aktien* ,Negative
+regulie*,Aktien* ,Negative
+schlaff,Aktien* ,Negative
+schlecht*,Aktien* ,Negative
+schleppend*,Aktien* ,Negative
+schwierig*,Aktien* ,Negative
+sorge*,Aktien* ,Negative
+streng*,Aktien* ,Negative
+stürzen,Aktien* ,Negative
+turbulent*,Aktien* ,Negative
+überwachen*,Aktien* ,Negative
+ungünstig*,Aktien* ,Negative
+unsicher*,Aktien* ,Negative
+unstabile*,Aktien* ,Negative
+verhalten*,Aktien* ,Negative
+verlangsamen*,Aktien* ,Negative
+vermindern*,Aktien* ,Negative
+verschlechter*,Aktien* ,Negative
+verschwinden*,Aktien* ,Negative
+verzöger*,Aktien* ,Negative
+vorsichtig*,Aktien* ,Negative
+zerbrechlich*,Aktien* ,Negative
+zusammengebrochen*,Aktien* ,Negative
+Spekulativ,Aktien* ,Negative
+volatil*,Aktien* ,Negative
+Riskant,Aktien* ,Negative
+*dämpf*,Börse*,Negative
+*fallen*,Börse*,Negative
+*schwach*,Börse*,Negative
+abgenommen*,Börse*,Negative
+abgeschwächt*,Börse*,Negative
+abgestürzt,Börse*,Negative
+abnehmen*,Börse*,Negative
+abwärts,Börse*,Negative
+abwerten*,Börse*,Negative
+behutsam*,Börse*,Negative
+besorgt*,Börse*,Negative
+destabilisier*,Börse*,Negative
+instabil*,Börse*,Negative
+klein*,Börse*,Negative
+langsam*,Börse*,Negative
+mühsam*,Börse*,Negative
+nach unten ,Börse*,Negative
+nachteilig*,Börse*,Negative
+negativ*,Börse*,Negative
+niedrig*,Börse*,Negative
+pessimitisch,Börse*,Negative
+regulie*,Börse*,Negative
+schlaff,Börse*,Negative
+schlecht*,Börse*,Negative
+schleppend*,Börse*,Negative
+schwierig*,Börse*,Negative
+sorge*,Börse*,Negative
+streng*,Börse*,Negative
+stürzen,Börse*,Negative
+turbulent*,Börse*,Negative
+überwachen*,Börse*,Negative
+ungünstig*,Börse*,Negative
+unsicher*,Börse*,Negative
+unstabile*,Börse*,Negative
+verhalten*,Börse*,Negative
+verlangsamen*,Börse*,Negative
+vermindern*,Börse*,Negative
+verschlechter*,Börse*,Negative
+verschwinden*,Börse*,Negative
+verzöger*,Börse*,Negative
+vorsichtig*,Börse*,Negative
+zerbrechlich*,Börse*,Negative
+zusammengebrochen*,Börse*,Negative
+Spekulativ,Börse*,Negative
+volatil*,Börse*,Negative
+Riskant,Börse*,Negative
+*dämpf*,Geldmarkt*,Negative
+*fallen*,Geldmarkt*,Negative
+*schwach*,Geldmarkt*,Negative
+abgenommen*,Geldmarkt*,Negative
+abgeschwächt*,Geldmarkt*,Negative
+abgestürzt,Geldmarkt*,Negative
+abnehmen*,Geldmarkt*,Negative
+abwärts,Geldmarkt*,Negative
+abwerten*,Geldmarkt*,Negative
+behutsam*,Geldmarkt*,Negative
+besorgt*,Geldmarkt*,Negative
+destabilisier*,Geldmarkt*,Negative
+instabil*,Geldmarkt*,Negative
+klein*,Geldmarkt*,Negative
+langsam*,Geldmarkt*,Negative
+mühsam*,Geldmarkt*,Negative
+nach unten ,Geldmarkt*,Negative
+nachteilig*,Geldmarkt*,Negative
+negativ*,Geldmarkt*,Negative
+niedrig*,Geldmarkt*,Negative
+pessimitisch,Geldmarkt*,Negative
+regulie*,Geldmarkt*,Negative
+schlaff,Geldmarkt*,Negative
+schlecht*,Geldmarkt*,Negative
+schleppend*,Geldmarkt*,Negative
+schwierig*,Geldmarkt*,Negative
+sorge*,Geldmarkt*,Negative
+streng*,Geldmarkt*,Negative
+stürzen,Geldmarkt*,Negative
+turbulent*,Geldmarkt*,Negative
+überwachen*,Geldmarkt*,Negative
+ungünstig*,Geldmarkt*,Negative
+unsicher*,Geldmarkt*,Negative
+unstabile*,Geldmarkt*,Negative
+verhalten*,Geldmarkt*,Negative
+verlangsamen*,Geldmarkt*,Negative
+vermindern*,Geldmarkt*,Negative
+verschlechter*,Geldmarkt*,Negative
+verschwinden*,Geldmarkt*,Negative
+verzöger*,Geldmarkt*,Negative
+vorsichtig*,Geldmarkt*,Negative
+zerbrechlich*,Geldmarkt*,Negative
+zusammengebrochen*,Geldmarkt*,Negative
+Spekulativ,Geldmarkt*,Negative
+volatil*,Geldmarkt*,Negative
+Riskant,Geldmarkt*,Negative
+*dämpf*,Kapitalmarkt*,Negative
+*fallen*,Kapitalmarkt*,Negative
+*schwach*,Kapitalmarkt*,Negative
+abgenommen*,Kapitalmarkt*,Negative
+abgeschwächt*,Kapitalmarkt*,Negative
+abgestürzt,Kapitalmarkt*,Negative
+abnehmen*,Kapitalmarkt*,Negative
+abwärts,Kapitalmarkt*,Negative
+abwerten*,Kapitalmarkt*,Negative
+behutsam*,Kapitalmarkt*,Negative
+besorgt*,Kapitalmarkt*,Negative
+destabilisier*,Kapitalmarkt*,Negative
+instabil*,Kapitalmarkt*,Negative
+klein*,Kapitalmarkt*,Negative
+langsam*,Kapitalmarkt*,Negative
+mühsam*,Kapitalmarkt*,Negative
+nach unten ,Kapitalmarkt*,Negative
+nachteilig*,Kapitalmarkt*,Negative
+negativ*,Kapitalmarkt*,Negative
+niedrig*,Kapitalmarkt*,Negative
+pessimitisch,Kapitalmarkt*,Negative
+regulie*,Kapitalmarkt*,Negative
+schlaff,Kapitalmarkt*,Negative
+schlecht*,Kapitalmarkt*,Negative
+schleppend*,Kapitalmarkt*,Negative
+schwierig*,Kapitalmarkt*,Negative
+sorge*,Kapitalmarkt*,Negative
+streng*,Kapitalmarkt*,Negative
+stürzen,Kapitalmarkt*,Negative
+turbulent*,Kapitalmarkt*,Negative
+überwachen*,Kapitalmarkt*,Negative
+ungünstig*,Kapitalmarkt*,Negative
+unsicher*,Kapitalmarkt*,Negative
+unstabile*,Kapitalmarkt*,Negative
+verhalten*,Kapitalmarkt*,Negative
+verlangsamen*,Kapitalmarkt*,Negative
+vermindern*,Kapitalmarkt*,Negative
+verschlechter*,Kapitalmarkt*,Negative
+verschwinden*,Kapitalmarkt*,Negative
+verzöger*,Kapitalmarkt*,Negative
+vorsichtig*,Kapitalmarkt*,Negative
+zerbrechlich*,Kapitalmarkt*,Negative
+zusammengebrochen*,Kapitalmarkt*,Negative
+Spekulativ,Kapitalmarkt*,Negative
+volatil*,Kapitalmarkt*,Negative
+Riskant,Kapitalmarkt*,Negative
+*dämpf*,Konjunktur,Negative
+*fallen*,Konjunktur,Negative
+*schwach*,Konjunktur,Negative
+abgenommen*,Konjunktur,Negative
+abgeschwächt*,Konjunktur,Negative
+abgestürzt,Konjunktur,Negative
+abnehmen*,Konjunktur,Negative
+abwärts,Konjunktur,Negative
+abwerten*,Konjunktur,Negative
+behutsam*,Konjunktur,Negative
+besorgt*,Konjunktur,Negative
+destabilisier*,Konjunktur,Negative
+instabil*,Konjunktur,Negative
+klein*,Konjunktur,Negative
+langsam*,Konjunktur,Negative
+mühsam*,Konjunktur,Negative
+nach unten ,Konjunktur,Negative
+nachteilig*,Konjunktur,Negative
+negativ*,Konjunktur,Negative
+niedrig*,Konjunktur,Negative
+pessimitisch,Konjunktur,Negative
+regulie*,Konjunktur,Negative
+schlaff,Konjunktur,Negative
+schlecht*,Konjunktur,Negative
+schleppend*,Konjunktur,Negative
+schwierig*,Konjunktur,Negative
+sorge*,Konjunktur,Negative
+streng*,Konjunktur,Negative
+stürzen,Konjunktur,Negative
+turbulent*,Konjunktur,Negative
+überwachen*,Konjunktur,Negative
+ungünstig*,Konjunktur,Negative
+unsicher*,Konjunktur,Negative
+unstabile*,Konjunktur,Negative
+verhalten*,Konjunktur,Negative
+verlangsamen*,Konjunktur,Negative
+vermindern*,Konjunktur,Negative
+verschlechter*,Konjunktur,Negative
+verschwinden*,Konjunktur,Negative
+verzöger*,Konjunktur,Negative
+vorsichtig*,Konjunktur,Negative
+zerbrechlich*,Konjunktur,Negative
+zusammengebrochen*,Konjunktur,Negative
+Spekulativ,Konjunktur,Negative
+volatil*,Konjunktur,Negative
+Riskant,Konjunktur,Negative
+*dämpf*,konjunkturelle Position*,Negative
+*fallen*,konjunkturelle Position*,Negative
+*schwach*,konjunkturelle Position*,Negative
+abgenommen*,konjunkturelle Position*,Negative
+abgeschwächt*,konjunkturelle Position*,Negative
+abgestürzt,konjunkturelle Position*,Negative
+abnehmen*,konjunkturelle Position*,Negative
+abwärts,konjunkturelle Position*,Negative
+abwerten*,konjunkturelle Position*,Negative
+behutsam*,konjunkturelle Position*,Negative
+besorgt*,konjunkturelle Position*,Negative
+destabilisier*,konjunkturelle Position*,Negative
+instabil*,konjunkturelle Position*,Negative
+klein*,konjunkturelle Position*,Negative
+langsam*,konjunkturelle Position*,Negative
+mühsam*,konjunkturelle Position*,Negative
+nach unten ,konjunkturelle Position*,Negative
+nachteilig*,konjunkturelle Position*,Negative
+negativ*,konjunkturelle Position*,Negative
+niedrig*,konjunkturelle Position*,Negative
+pessimitisch,konjunkturelle Position*,Negative
+regulie*,konjunkturelle Position*,Negative
+schlaff,konjunkturelle Position*,Negative
+schlecht*,konjunkturelle Position*,Negative
+schleppend*,konjunkturelle Position*,Negative
+schwierig*,konjunkturelle Position*,Negative
+sorge*,konjunkturelle Position*,Negative
+streng*,konjunkturelle Position*,Negative
+stürzen,konjunkturelle Position*,Negative
+turbulent*,konjunkturelle Position*,Negative
+überwachen*,konjunkturelle Position*,Negative
+ungünstig*,konjunkturelle Position*,Negative
+unsicher*,konjunkturelle Position*,Negative
+unstabile*,konjunkturelle Position*,Negative
+verhalten*,konjunkturelle Position*,Negative
+verlangsamen*,konjunkturelle Position*,Negative
+vermindern*,konjunkturelle Position*,Negative
+verschlechter*,konjunkturelle Position*,Negative
+verschwinden*,konjunkturelle Position*,Negative
+verzöger*,konjunkturelle Position*,Negative
+vorsichtig*,konjunkturelle Position*,Negative
+zerbrechlich*,konjunkturelle Position*,Negative
+zusammengebrochen*,konjunkturelle Position*,Negative
+Spekulativ,konjunkturelle Position*,Negative
+volatil*,konjunkturelle Position*,Negative
+Riskant,konjunkturelle Position*,Negative
+*dämpf*,Kredit*,Negative
+*fallen*,Kredit*,Negative
+*schwach*,Kredit*,Negative
+abgenommen*,Kredit*,Negative
+abgeschwächt*,Kredit*,Negative
+abgestürzt,Kredit*,Negative
+abnehmen*,Kredit*,Negative
+abwärts,Kredit*,Negative
+abwerten*,Kredit*,Negative
+behutsam*,Kredit*,Negative
+besorgt*,Kredit*,Negative
+destabilisier*,Kredit*,Negative
+instabil*,Kredit*,Negative
+klein*,Kredit*,Negative
+langsam*,Kredit*,Negative
+mühsam*,Kredit*,Negative
+nach unten ,Kredit*,Negative
+nachteilig*,Kredit*,Negative
+negativ*,Kredit*,Negative
+niedrig*,Kredit*,Negative
+pessimitisch,Kredit*,Negative
+regulie*,Kredit*,Negative
+schlaff,Kredit*,Negative
+schlecht*,Kredit*,Negative
+schleppend*,Kredit*,Negative
+schwierig*,Kredit*,Negative
+sorge*,Kredit*,Negative
+streng*,Kredit*,Negative
+stürzen,Kredit*,Negative
+turbulent*,Kredit*,Negative
+überwachen*,Kredit*,Negative
+ungünstig*,Kredit*,Negative
+unsicher*,Kredit*,Negative
+unstabile*,Kredit*,Negative
+verhalten*,Kredit*,Negative
+verlangsamen*,Kredit*,Negative
+vermindern*,Kredit*,Negative
+verschlechter*,Kredit*,Negative
+verschwinden*,Kredit*,Negative
+verzöger*,Kredit*,Negative
+vorsichtig*,Kredit*,Negative
+zerbrechlich*,Kredit*,Negative
+zusammengebrochen*,Kredit*,Negative
+Spekulativ,Kredit*,Negative
+volatil*,Kredit*,Negative
+Riskant,Kredit*,Negative
+*dämpf*,Liquidität,Negative
+*fallen*,Liquidität,Negative
+*schwach*,Liquidität,Negative
+abgenommen*,Liquidität,Negative
+abgeschwächt*,Liquidität,Negative
+abgestürzt,Liquidität,Negative
+abnehmen*,Liquidität,Negative
+abwärts,Liquidität,Negative
+abwerten*,Liquidität,Negative
+behutsam*,Liquidität,Negative
+besorgt*,Liquidität,Negative
+destabilisier*,Liquidität,Negative
+instabil*,Liquidität,Negative
+klein*,Liquidität,Negative
+langsam*,Liquidität,Negative
+mühsam*,Liquidität,Negative
+nach unten ,Liquidität,Negative
+nachteilig*,Liquidität,Negative
+negativ*,Liquidität,Negative
+niedrig*,Liquidität,Negative
+pessimitisch,Liquidität,Negative
+regulie*,Liquidität,Negative
+schlaff,Liquidität,Negative
+schlecht*,Liquidität,Negative
+schleppend*,Liquidität,Negative
+schwierig*,Liquidität,Negative
+sorge*,Liquidität,Negative
+streng*,Liquidität,Negative
+stürzen,Liquidität,Negative
+turbulent*,Liquidität,Negative
+überwachen*,Liquidität,Negative
+ungünstig*,Liquidität,Negative
+unsicher*,Liquidität,Negative
+unstabile*,Liquidität,Negative
+verhalten*,Liquidität,Negative
+verlangsamen*,Liquidität,Negative
+vermindern*,Liquidität,Negative
+verschlechter*,Liquidität,Negative
+verschwinden*,Liquidität,Negative
+verzöger*,Liquidität,Negative
+vorsichtig*,Liquidität,Negative
+zerbrechlich*,Liquidität,Negative
+zusammengebrochen*,Liquidität,Negative
+Spekulativ,Liquidität,Negative
+volatil*,Liquidität,Negative
+Riskant,Liquidität,Negative
+*dämpf*,Portfolio* ,Negative
+*fallen*,Portfolio* ,Negative
+*schwach*,Portfolio* ,Negative
+abgenommen*,Portfolio* ,Negative
+abgeschwächt*,Portfolio* ,Negative
+abgestürzt,Portfolio* ,Negative
+abnehmen*,Portfolio* ,Negative
+abwärts,Portfolio* ,Negative
+abwerten*,Portfolio* ,Negative
+behutsam*,Portfolio* ,Negative
+besorgt*,Portfolio* ,Negative
+destabilisier*,Portfolio* ,Negative
+instabil*,Portfolio* ,Negative
+klein*,Portfolio* ,Negative
+langsam*,Portfolio* ,Negative
+mühsam*,Portfolio* ,Negative
+nach unten ,Portfolio* ,Negative
+nachteilig*,Portfolio* ,Negative
+negativ*,Portfolio* ,Negative
+niedrig*,Portfolio* ,Negative
+pessimitisch,Portfolio* ,Negative
+regulie*,Portfolio* ,Negative
+schlaff,Portfolio* ,Negative
+schlecht*,Portfolio* ,Negative
+schleppend*,Portfolio* ,Negative
+schwierig*,Portfolio* ,Negative
+sorge*,Portfolio* ,Negative
+streng*,Portfolio* ,Negative
+stürzen,Portfolio* ,Negative
+turbulent*,Portfolio* ,Negative
+überwachen*,Portfolio* ,Negative
+ungünstig*,Portfolio* ,Negative
+unsicher*,Portfolio* ,Negative
+unstabile*,Portfolio* ,Negative
+verhalten*,Portfolio* ,Negative
+verlangsamen*,Portfolio* ,Negative
+vermindern*,Portfolio* ,Negative
+verschlechter*,Portfolio* ,Negative
+verschwinden*,Portfolio* ,Negative
+verzöger*,Portfolio* ,Negative
+vorsichtig*,Portfolio* ,Negative
+zerbrechlich*,Portfolio* ,Negative
+zusammengebrochen*,Portfolio* ,Negative
+Spekulativ,Portfolio* ,Negative
+volatil*,Portfolio* ,Negative
+Riskant,Portfolio* ,Negative
+*dämpf*,Refinanzierung*,Negative
+*fallen*,Refinanzierung*,Negative
+*schwach*,Refinanzierung*,Negative
+abgenommen*,Refinanzierung*,Negative
+abgeschwächt*,Refinanzierung*,Negative
+abgestürzt,Refinanzierung*,Negative
+abnehmen*,Refinanzierung*,Negative
+abwärts,Refinanzierung*,Negative
+abwerten*,Refinanzierung*,Negative
+behutsam*,Refinanzierung*,Negative
+besorgt*,Refinanzierung*,Negative
+destabilisier*,Refinanzierung*,Negative
+instabil*,Refinanzierung*,Negative
+klein*,Refinanzierung*,Negative
+langsam*,Refinanzierung*,Negative
+mühsam*,Refinanzierung*,Negative
+nach unten ,Refinanzierung*,Negative
+nachteilig*,Refinanzierung*,Negative
+negativ*,Refinanzierung*,Negative
+niedrig*,Refinanzierung*,Negative
+pessimitisch,Refinanzierung*,Negative
+regulie*,Refinanzierung*,Negative
+schlaff,Refinanzierung*,Negative
+schlecht*,Refinanzierung*,Negative
+schleppend*,Refinanzierung*,Negative
+schwierig*,Refinanzierung*,Negative
+sorge*,Refinanzierung*,Negative
+streng*,Refinanzierung*,Negative
+stürzen,Refinanzierung*,Negative
+turbulent*,Refinanzierung*,Negative
+überwachen*,Refinanzierung*,Negative
+ungünstig*,Refinanzierung*,Negative
+unsicher*,Refinanzierung*,Negative
+unstabile*,Refinanzierung*,Negative
+verhalten*,Refinanzierung*,Negative
+verlangsamen*,Refinanzierung*,Negative
+vermindern*,Refinanzierung*,Negative
+verschlechter*,Refinanzierung*,Negative
+verschwinden*,Refinanzierung*,Negative
+verzöger*,Refinanzierung*,Negative
+vorsichtig*,Refinanzierung*,Negative
+zerbrechlich*,Refinanzierung*,Negative
+zusammengebrochen*,Refinanzierung*,Negative
+Spekulativ,Refinanzierung*,Negative
+volatil*,Refinanzierung*,Negative
+Riskant,Refinanzierung*,Negative
+*dämpf*,Reinvestition* ,Negative
+*fallen*,Reinvestition* ,Negative
+*schwach*,Reinvestition* ,Negative
+abgenommen*,Reinvestition* ,Negative
+abgeschwächt*,Reinvestition* ,Negative
+abgestürzt,Reinvestition* ,Negative
+abnehmen*,Reinvestition* ,Negative
+abwärts,Reinvestition* ,Negative
+abwerten*,Reinvestition* ,Negative
+behutsam*,Reinvestition* ,Negative
+besorgt*,Reinvestition* ,Negative
+destabilisier*,Reinvestition* ,Negative
+instabil*,Reinvestition* ,Negative
+klein*,Reinvestition* ,Negative
+langsam*,Reinvestition* ,Negative
+mühsam*,Reinvestition* ,Negative
+nach unten ,Reinvestition* ,Negative
+nachteilig*,Reinvestition* ,Negative
+negativ*,Reinvestition* ,Negative
+niedrig*,Reinvestition* ,Negative
+pessimitisch,Reinvestition* ,Negative
+regulie*,Reinvestition* ,Negative
+schlaff,Reinvestition* ,Negative
+schlecht*,Reinvestition* ,Negative
+schleppend*,Reinvestition* ,Negative
+schwierig*,Reinvestition* ,Negative
+sorge*,Reinvestition* ,Negative
+streng*,Reinvestition* ,Negative
+stürzen,Reinvestition* ,Negative
+turbulent*,Reinvestition* ,Negative
+überwachen*,Reinvestition* ,Negative
+ungünstig*,Reinvestition* ,Negative
+unsicher*,Reinvestition* ,Negative
+unstabile*,Reinvestition* ,Negative
+verhalten*,Reinvestition* ,Negative
+verlangsamen*,Reinvestition* ,Negative
+vermindern*,Reinvestition* ,Negative
+verschlechter*,Reinvestition* ,Negative
+verschwinden*,Reinvestition* ,Negative
+verzöger*,Reinvestition* ,Negative
+vorsichtig*,Reinvestition* ,Negative
+zerbrechlich*,Reinvestition* ,Negative
+zusammengebrochen*,Reinvestition* ,Negative
+Spekulativ,Reinvestition* ,Negative
+volatil*,Reinvestition* ,Negative
+Riskant,Reinvestition* ,Negative
+,*aufschwung,Positive
+,Boom,Positive
+,Rezession ,Negative
+,Wachsamkeit*,Negative

@@ -1,0 +1,1981 @@
+Adjectives_Verbs,Nouns_Dependent,Adjective_Type
+balance*,bail-out ,positive
+balance*,bailout,positive
+balance*,bond*,positive
+balance*,domestic demand,positive
+balance*,employee*,positive
+balance*,employer*,positive
+balance*,export*,positive
+balance*,fiscal,positive
+balance*,foreign demand,positive
+balance*,fundamental*,positive
+balance*,government balance sheet*,positive
+balance*,government bond*,positive
+balance*,government budget,positive
+balance*,import*,positive
+balance*,integration,positive
+balance*,labo(u)r,positive
+balance*,package,positive
+balance*,political unity ,positive
+balance*,program*,positive
+balance*,public sector ,positive
+balance*,public service,positive
+balance*,redistribut*,positive
+balance*,reform*,positive
+balance*,small and medium,positive
+balance*,SME*,positive
+balance*,sovereign bond*,positive
+balance*,state budget ,positive
+balance*,state securit*,positive
+balance*,transmission ,positive
+balance*,wage*,positive
+benefit*,bail-out ,positive
+benefit*,bailout,positive
+benefit*,bond*,positive
+benefit*,domestic demand,positive
+benefit*,employee*,positive
+benefit*,employer*,positive
+benefit*,export*,positive
+benefit*,fiscal,positive
+benefit*,foreign demand,positive
+benefit*,fundamental*,positive
+benefit*,government balance sheet*,positive
+benefit*,government bond*,positive
+benefit*,government budget,positive
+benefit*,import*,positive
+benefit*,integration,positive
+benefit*,labo(u)r,positive
+benefit*,package,positive
+benefit*,political unity ,positive
+benefit*,program*,positive
+benefit*,public sector ,positive
+benefit*,public service,positive
+benefit*,redistribut*,positive
+benefit*,reform*,positive
+benefit*,small and medium,positive
+benefit*,SME*,positive
+benefit*,sovereign bond*,positive
+benefit*,state budget ,positive
+benefit*,state securit*,positive
+benefit*,transmission ,positive
+benefit*,wage*,positive
+better,bail-out ,positive
+better,bailout,positive
+better,bond*,positive
+better,domestic demand,positive
+better,employee*,positive
+better,employer*,positive
+better,export*,positive
+better,fiscal,positive
+better,foreign demand,positive
+better,fundamental*,positive
+better,government balance sheet*,positive
+better,government bond*,positive
+better,government budget,positive
+better,import*,positive
+better,integration,positive
+better,labo(u)r,positive
+better,package,positive
+better,political unity ,positive
+better,program*,positive
+better,public sector ,positive
+better,public service,positive
+better,redistribut*,positive
+better,reform*,positive
+better,small and medium,positive
+better,SME*,positive
+better,sovereign bond*,positive
+better,state budget ,positive
+better,state securit*,positive
+better,transmission ,positive
+better,wage*,positive
+efficient,bail-out ,positive
+efficient,bailout,positive
+efficient,bond*,positive
+efficient,domestic demand,positive
+efficient,employee*,positive
+efficient,employer*,positive
+efficient,export*,positive
+efficient,fiscal,positive
+efficient,foreign demand,positive
+efficient,fundamental*,positive
+efficient,government balance sheet*,positive
+efficient,government bond*,positive
+efficient,government budget,positive
+efficient,import*,positive
+efficient,integration,positive
+efficient,labo(u)r,positive
+efficient,package,positive
+efficient,political unity ,positive
+efficient,program*,positive
+efficient,public sector ,positive
+efficient,public service,positive
+efficient,redistribut*,positive
+efficient,reform*,positive
+efficient,small and medium,positive
+efficient,SME*,positive
+efficient,sovereign bond*,positive
+efficient,state budget ,positive
+efficient,state securit*,positive
+efficient,transmission ,positive
+efficient,wage*,positive
+expand*,bail-out ,positive
+expand*,bailout,positive
+expand*,bond*,positive
+expand*,domestic demand,positive
+expand*,employee*,positive
+expand*,employer*,positive
+expand*,export*,positive
+expand*,fiscal,positive
+expand*,foreign demand,positive
+expand*,fundamental*,positive
+expand*,government balance sheet*,positive
+expand*,government bond*,positive
+expand*,government budget,positive
+expand*,import*,positive
+expand*,integration,positive
+expand*,labo(u)r,positive
+expand*,package,positive
+expand*,political unity ,positive
+expand*,program*,positive
+expand*,public sector ,positive
+expand*,public service,positive
+expand*,redistribut*,positive
+expand*,reform*,positive
+expand*,small and medium,positive
+expand*,SME*,positive
+expand*,sovereign bond*,positive
+expand*,state budget ,positive
+expand*,state securit*,positive
+expand*,transmission ,positive
+expand*,wage*,positive
+firm*,bail-out ,positive
+firm*,bailout,positive
+firm*,bond*,positive
+firm*,domestic demand,positive
+firm*,employee*,positive
+firm*,employer*,positive
+firm*,export*,positive
+firm*,fiscal,positive
+firm*,foreign demand,positive
+firm*,fundamental*,positive
+firm*,government balance sheet*,positive
+firm*,government bond*,positive
+firm*,government budget,positive
+firm*,import*,positive
+firm*,integration,positive
+firm*,labo(u)r,positive
+firm*,package,positive
+firm*,political unity ,positive
+firm*,program*,positive
+firm*,public sector ,positive
+firm*,public service,positive
+firm*,redistribut*,positive
+firm*,reform*,positive
+firm*,small and medium,positive
+firm*,SME*,positive
+firm*,sovereign bond*,positive
+firm*,state budget ,positive
+firm*,state securit*,positive
+firm*,transmission ,positive
+firm*,wage*,positive
+generous*,bail-out ,positive
+generous*,bailout,positive
+generous*,bond*,positive
+generous*,domestic demand,positive
+generous*,employee*,positive
+generous*,employer*,positive
+generous*,export*,positive
+generous*,fiscal,positive
+generous*,foreign demand,positive
+generous*,fundamental*,positive
+generous*,government balance sheet*,positive
+generous*,government bond*,positive
+generous*,government budget,positive
+generous*,import*,positive
+generous*,integration,positive
+generous*,labo(u)r,positive
+generous*,package,positive
+generous*,political unity ,positive
+generous*,program*,positive
+generous*,public sector ,positive
+generous*,public service,positive
+generous*,redistribut*,positive
+generous*,reform*,positive
+generous*,small and medium,positive
+generous*,SME*,positive
+generous*,sovereign bond*,positive
+generous*,state budget ,positive
+generous*,state securit*,positive
+generous*,transmission ,positive
+generous*,wage*,positive
+great,bail-out ,positive
+great,bailout,positive
+great,bond*,positive
+great,domestic demand,positive
+great,employee*,positive
+great,employer*,positive
+great,export*,positive
+great,fiscal,positive
+great,foreign demand,positive
+great,fundamental*,positive
+great,government balance sheet*,positive
+great,government bond*,positive
+great,government budget,positive
+great,import*,positive
+great,integration,positive
+great,labo(u)r,positive
+great,package,positive
+great,political unity ,positive
+great,program*,positive
+great,public sector ,positive
+great,public service,positive
+great,redistribut*,positive
+great,reform*,positive
+great,small and medium,positive
+great,SME*,positive
+great,sovereign bond*,positive
+great,state budget ,positive
+great,state securit*,positive
+great,transmission ,positive
+great,wage*,positive
+grow*,bail-out ,positive
+grow*,bailout,positive
+grow*,bond*,positive
+grow*,domestic demand,positive
+grow*,employee*,positive
+grow*,employer*,positive
+grow*,export*,positive
+grow*,fiscal,positive
+grow*,foreign demand,positive
+grow*,fundamental*,positive
+grow*,government balance sheet*,positive
+grow*,government bond*,positive
+grow*,government budget,positive
+grow*,import*,positive
+grow*,integration,positive
+grow*,labo(u)r,positive
+grow*,package,positive
+grow*,political unity ,positive
+grow*,program*,positive
+grow*,public sector ,positive
+grow*,public service,positive
+grow*,redistribut*,positive
+grow*,reform*,positive
+grow*,small and medium,positive
+grow*,SME*,positive
+grow*,sovereign bond*,positive
+grow*,state budget ,positive
+grow*,state securit*,positive
+grow*,transmission ,positive
+grow*,wage*,positive
+high*,bail-out ,positive
+high*,bailout,positive
+high*,bond*,positive
+high*,domestic demand,positive
+high*,employee*,positive
+high*,employer*,positive
+high*,export*,positive
+high*,fiscal,positive
+high*,foreign demand,positive
+high*,fundamental*,positive
+high*,government balance sheet*,positive
+high*,government bond*,positive
+high*,government budget,positive
+high*,import*,positive
+high*,integration,positive
+high*,labo(u)r,positive
+high*,package,positive
+high*,political unity ,positive
+high*,program*,positive
+high*,public sector ,positive
+high*,public service,positive
+high*,redistribut*,positive
+high*,reform*,positive
+high*,small and medium,positive
+high*,SME*,positive
+high*,sovereign bond*,positive
+high*,state budget ,positive
+high*,state securit*,positive
+high*,transmission ,positive
+high*,wage*,positive
+improv*,bail-out ,positive
+improv*,bailout,positive
+improv*,bond*,positive
+improv*,domestic demand,positive
+improv*,employee*,positive
+improv*,employer*,positive
+improv*,export*,positive
+improv*,fiscal,positive
+improv*,foreign demand,positive
+improv*,fundamental*,positive
+improv*,government balance sheet*,positive
+improv*,government bond*,positive
+improv*,government budget,positive
+improv*,import*,positive
+improv*,integration,positive
+improv*,labo(u)r,positive
+improv*,package,positive
+improv*,political unity ,positive
+improv*,program*,positive
+improv*,public sector ,positive
+improv*,public service,positive
+improv*,redistribut*,positive
+improv*,reform*,positive
+improv*,small and medium,positive
+improv*,SME*,positive
+improv*,sovereign bond*,positive
+improv*,state budget ,positive
+improv*,state securit*,positive
+improv*,transmission ,positive
+improv*,wage*,positive
+increas*,bail-out ,positive
+increas*,bailout,positive
+increas*,bond*,positive
+increas*,domestic demand,positive
+increas*,employee*,positive
+increas*,employer*,positive
+increas*,export*,positive
+increas*,fiscal,positive
+increas*,foreign demand,positive
+increas*,fundamental*,positive
+increas*,government balance sheet*,positive
+increas*,government bond*,positive
+increas*,government budget,positive
+increas*,import*,positive
+increas*,integration,positive
+increas*,labo(u)r,positive
+increas*,package,positive
+increas*,political unity ,positive
+increas*,program*,positive
+increas*,public sector ,positive
+increas*,public service,positive
+increas*,redistribut*,positive
+increas*,reform*,positive
+increas*,small and medium,positive
+increas*,SME*,positive
+increas*,sovereign bond*,positive
+increas*,state budget ,positive
+increas*,state securit*,positive
+increas*,transmission ,positive
+increas*,wage*,positive
+positive,bail-out ,positive
+positive,bailout,positive
+positive,bond*,positive
+positive,domestic demand,positive
+positive,employee*,positive
+positive,employer*,positive
+positive,export*,positive
+positive,fiscal,positive
+positive,foreign demand,positive
+positive,fundamental*,positive
+positive,government balance sheet*,positive
+positive,government bond*,positive
+positive,government budget,positive
+positive,import*,positive
+positive,integration,positive
+positive,labo(u)r,positive
+positive,package,positive
+positive,political unity ,positive
+positive,program*,positive
+positive,public sector ,positive
+positive,public service,positive
+positive,redistribut*,positive
+positive,reform*,positive
+positive,small and medium,positive
+positive,SME*,positive
+positive,sovereign bond*,positive
+positive,state budget ,positive
+positive,state securit*,positive
+positive,transmission ,positive
+positive,wage*,positive
+promis*,bail-out ,positive
+promis*,bailout,positive
+promis*,bond*,positive
+promis*,domestic demand,positive
+promis*,employee*,positive
+promis*,employer*,positive
+promis*,export*,positive
+promis*,fiscal,positive
+promis*,foreign demand,positive
+promis*,fundamental*,positive
+promis*,government balance sheet*,positive
+promis*,government bond*,positive
+promis*,government budget,positive
+promis*,import*,positive
+promis*,integration,positive
+promis*,labo(u)r,positive
+promis*,package,positive
+promis*,political unity ,positive
+promis*,program*,positive
+promis*,public sector ,positive
+promis*,public service,positive
+promis*,redistribut*,positive
+promis*,reform*,positive
+promis*,small and medium,positive
+promis*,SME*,positive
+promis*,sovereign bond*,positive
+promis*,state budget ,positive
+promis*,state securit*,positive
+promis*,transmission ,positive
+promis*,wage*,positive
+protect*,bail-out ,positive
+protect*,bailout,positive
+protect*,bond*,positive
+protect*,domestic demand,positive
+protect*,employee*,positive
+protect*,employer*,positive
+protect*,export*,positive
+protect*,fiscal,positive
+protect*,foreign demand,positive
+protect*,fundamental*,positive
+protect*,government balance sheet*,positive
+protect*,government bond*,positive
+protect*,government budget,positive
+protect*,import*,positive
+protect*,integration,positive
+protect*,labo(u)r,positive
+protect*,package,positive
+protect*,political unity ,positive
+protect*,program*,positive
+protect*,public sector ,positive
+protect*,public service,positive
+protect*,redistribut*,positive
+protect*,reform*,positive
+protect*,small and medium,positive
+protect*,SME*,positive
+protect*,sovereign bond*,positive
+protect*,state budget ,positive
+protect*,state securit*,positive
+protect*,transmission ,positive
+protect*,wage*,positive
+rais*,bail-out ,positive
+rais*,bailout,positive
+rais*,bond*,positive
+rais*,domestic demand,positive
+rais*,employee*,positive
+rais*,employer*,positive
+rais*,export*,positive
+rais*,fiscal,positive
+rais*,foreign demand,positive
+rais*,fundamental*,positive
+rais*,government balance sheet*,positive
+rais*,government bond*,positive
+rais*,government budget,positive
+rais*,import*,positive
+rais*,integration,positive
+rais*,labo(u)r,positive
+rais*,package,positive
+rais*,political unity ,positive
+rais*,program*,positive
+rais*,public sector ,positive
+rais*,public service,positive
+rais*,redistribut*,positive
+rais*,reform*,positive
+rais*,small and medium,positive
+rais*,SME*,positive
+rais*,sovereign bond*,positive
+rais*,state budget ,positive
+rais*,state securit*,positive
+rais*,transmission ,positive
+rais*,wage*,positive
+relief,bail-out ,positive
+relief,bailout,positive
+relief,bond*,positive
+relief,domestic demand,positive
+relief,employee*,positive
+relief,employer*,positive
+relief,export*,positive
+relief,fiscal,positive
+relief,foreign demand,positive
+relief,fundamental*,positive
+relief,government balance sheet*,positive
+relief,government bond*,positive
+relief,government budget,positive
+relief,import*,positive
+relief,integration,positive
+relief,labo(u)r,positive
+relief,package,positive
+relief,political unity ,positive
+relief,program*,positive
+relief,public sector ,positive
+relief,public service,positive
+relief,redistribut*,positive
+relief,reform*,positive
+relief,small and medium,positive
+relief,SME*,positive
+relief,sovereign bond*,positive
+relief,state budget ,positive
+relief,state securit*,positive
+relief,transmission ,positive
+relief,wage*,positive
+rescue,bail-out ,positive
+rescue,bailout,positive
+rescue,bond*,positive
+rescue,domestic demand,positive
+rescue,employee*,positive
+rescue,employer*,positive
+rescue,export*,positive
+rescue,fiscal,positive
+rescue,foreign demand,positive
+rescue,fundamental*,positive
+rescue,government balance sheet*,positive
+rescue,government bond*,positive
+rescue,government budget,positive
+rescue,import*,positive
+rescue,integration,positive
+rescue,labo(u)r,positive
+rescue,package,positive
+rescue,political unity ,positive
+rescue,program*,positive
+rescue,public sector ,positive
+rescue,public service,positive
+rescue,redistribut*,positive
+rescue,reform*,positive
+rescue,small and medium,positive
+rescue,SME*,positive
+rescue,sovereign bond*,positive
+rescue,state budget ,positive
+rescue,state securit*,positive
+rescue,transmission ,positive
+rescue,wage*,positive
+responsib*,bail-out ,positive
+responsib*,bailout,positive
+responsib*,bond*,positive
+responsib*,domestic demand,positive
+responsib*,employee*,positive
+responsib*,employer*,positive
+responsib*,export*,positive
+responsib*,fiscal,positive
+responsib*,foreign demand,positive
+responsib*,fundamental*,positive
+responsib*,government balance sheet*,positive
+responsib*,government bond*,positive
+responsib*,government budget,positive
+responsib*,import*,positive
+responsib*,integration,positive
+responsib*,labo(u)r,positive
+responsib*,package,positive
+responsib*,political unity ,positive
+responsib*,program*,positive
+responsib*,public sector ,positive
+responsib*,public service,positive
+responsib*,redistribut*,positive
+responsib*,reform*,positive
+responsib*,small and medium,positive
+responsib*,SME*,positive
+responsib*,sovereign bond*,positive
+responsib*,state budget ,positive
+responsib*,state securit*,positive
+responsib*,transmission ,positive
+responsib*,wage*,positive
+risi*,bail-out ,positive
+risi*,bailout,positive
+risi*,bond*,positive
+risi*,domestic demand,positive
+risi*,employee*,positive
+risi*,employer*,positive
+risi*,export*,positive
+risi*,fiscal,positive
+risi*,foreign demand,positive
+risi*,fundamental*,positive
+risi*,government balance sheet*,positive
+risi*,government bond*,positive
+risi*,government budget,positive
+risi*,import*,positive
+risi*,integration,positive
+risi*,labo(u)r,positive
+risi*,package,positive
+risi*,political unity ,positive
+risi*,program*,positive
+risi*,public sector ,positive
+risi*,public service,positive
+risi*,redistribut*,positive
+risi*,reform*,positive
+risi*,small and medium,positive
+risi*,SME*,positive
+risi*,sovereign bond*,positive
+risi*,state budget ,positive
+risi*,state securit*,positive
+risi*,transmission ,positive
+risi*,wage*,positive
+solid,bail-out ,positive
+solid,bailout,positive
+solid,bond*,positive
+solid,domestic demand,positive
+solid,employee*,positive
+solid,employer*,positive
+solid,export*,positive
+solid,fiscal,positive
+solid,foreign demand,positive
+solid,fundamental*,positive
+solid,government balance sheet*,positive
+solid,government bond*,positive
+solid,government budget,positive
+solid,import*,positive
+solid,integration,positive
+solid,labo(u)r,positive
+solid,package,positive
+solid,political unity ,positive
+solid,program*,positive
+solid,public sector ,positive
+solid,public service,positive
+solid,redistribut*,positive
+solid,reform*,positive
+solid,small and medium,positive
+solid,SME*,positive
+solid,sovereign bond*,positive
+solid,state budget ,positive
+solid,state securit*,positive
+solid,transmission ,positive
+solid,wage*,positive
+sound,bail-out ,positive
+sound,bailout,positive
+sound,bond*,positive
+sound,domestic demand,positive
+sound,employee*,positive
+sound,employer*,positive
+sound,export*,positive
+sound,fiscal,positive
+sound,foreign demand,positive
+sound,fundamental*,positive
+sound,government balance sheet*,positive
+sound,government bond*,positive
+sound,government budget,positive
+sound,import*,positive
+sound,integration,positive
+sound,labo(u)r,positive
+sound,package,positive
+sound,political unity ,positive
+sound,program*,positive
+sound,public sector ,positive
+sound,public service,positive
+sound,redistribut*,positive
+sound,reform*,positive
+sound,small and medium,positive
+sound,SME*,positive
+sound,sovereign bond*,positive
+sound,state budget ,positive
+sound,state securit*,positive
+sound,transmission ,positive
+sound,wage*,positive
+stable,bail-out ,positive
+stable,bailout,positive
+stable,bond*,positive
+stable,domestic demand,positive
+stable,employee*,positive
+stable,employer*,positive
+stable,export*,positive
+stable,fiscal,positive
+stable,foreign demand,positive
+stable,fundamental*,positive
+stable,government balance sheet*,positive
+stable,government bond*,positive
+stable,government budget,positive
+stable,import*,positive
+stable,integration,positive
+stable,labo(u)r,positive
+stable,package,positive
+stable,political unity ,positive
+stable,program*,positive
+stable,public sector ,positive
+stable,public service,positive
+stable,redistribut*,positive
+stable,reform*,positive
+stable,small and medium,positive
+stable,SME*,positive
+stable,sovereign bond*,positive
+stable,state budget ,positive
+stable,state securit*,positive
+stable,transmission ,positive
+stable,wage*,positive
+steady ,bail-out ,positive
+steady ,bailout,positive
+steady ,bond*,positive
+steady ,domestic demand,positive
+steady ,employee*,positive
+steady ,employer*,positive
+steady ,export*,positive
+steady ,fiscal,positive
+steady ,foreign demand,positive
+steady ,fundamental*,positive
+steady ,government balance sheet*,positive
+steady ,government bond*,positive
+steady ,government budget,positive
+steady ,import*,positive
+steady ,integration,positive
+steady ,labo(u)r,positive
+steady ,package,positive
+steady ,political unity ,positive
+steady ,program*,positive
+steady ,public sector ,positive
+steady ,public service,positive
+steady ,redistribut*,positive
+steady ,reform*,positive
+steady ,small and medium,positive
+steady ,SME*,positive
+steady ,sovereign bond*,positive
+steady ,state budget ,positive
+steady ,state securit*,positive
+steady ,transmission ,positive
+steady ,wage*,positive
+stimul*,bail-out ,positive
+stimul*,bailout,positive
+stimul*,bond*,positive
+stimul*,domestic demand,positive
+stimul*,employee*,positive
+stimul*,employer*,positive
+stimul*,export*,positive
+stimul*,fiscal,positive
+stimul*,foreign demand,positive
+stimul*,fundamental*,positive
+stimul*,government balance sheet*,positive
+stimul*,government bond*,positive
+stimul*,government budget,positive
+stimul*,import*,positive
+stimul*,integration,positive
+stimul*,labo(u)r,positive
+stimul*,package,positive
+stimul*,political unity ,positive
+stimul*,program*,positive
+stimul*,public sector ,positive
+stimul*,public service,positive
+stimul*,redistribut*,positive
+stimul*,reform*,positive
+stimul*,small and medium,positive
+stimul*,SME*,positive
+stimul*,sovereign bond*,positive
+stimul*,state budget ,positive
+stimul*,state securit*,positive
+stimul*,transmission ,positive
+stimul*,wage*,positive
+strong*,bail-out ,positive
+strong*,bailout,positive
+strong*,bond*,positive
+strong*,domestic demand,positive
+strong*,employee*,positive
+strong*,employer*,positive
+strong*,export*,positive
+strong*,fiscal,positive
+strong*,foreign demand,positive
+strong*,fundamental*,positive
+strong*,government balance sheet*,positive
+strong*,government bond*,positive
+strong*,government budget,positive
+strong*,import*,positive
+strong*,integration,positive
+strong*,labo(u)r,positive
+strong*,package,positive
+strong*,political unity ,positive
+strong*,program*,positive
+strong*,public sector ,positive
+strong*,public service,positive
+strong*,redistribut*,positive
+strong*,reform*,positive
+strong*,small and medium,positive
+strong*,SME*,positive
+strong*,sovereign bond*,positive
+strong*,state budget ,positive
+strong*,state securit*,positive
+strong*,transmission ,positive
+strong*,wage*,positive
+success*,bail-out ,positive
+success*,bailout,positive
+success*,bond*,positive
+success*,domestic demand,positive
+success*,employee*,positive
+success*,employer*,positive
+success*,export*,positive
+success*,fiscal,positive
+success*,foreign demand,positive
+success*,fundamental*,positive
+success*,government balance sheet*,positive
+success*,government bond*,positive
+success*,government budget,positive
+success*,import*,positive
+success*,integration,positive
+success*,labo(u)r,positive
+success*,package,positive
+success*,political unity ,positive
+success*,program*,positive
+success*,public sector ,positive
+success*,public service,positive
+success*,redistribut*,positive
+success*,reform*,positive
+success*,small and medium,positive
+success*,SME*,positive
+success*,sovereign bond*,positive
+success*,state budget ,positive
+success*,state securit*,positive
+success*,transmission ,positive
+success*,wage*,positive
+support*,bail-out ,positive
+support*,bailout,positive
+support*,bond*,positive
+support*,domestic demand,positive
+support*,employee*,positive
+support*,employer*,positive
+support*,export*,positive
+support*,fiscal,positive
+support*,foreign demand,positive
+support*,fundamental*,positive
+support*,government balance sheet*,positive
+support*,government bond*,positive
+support*,government budget,positive
+support*,import*,positive
+support*,integration,positive
+support*,labo(u)r,positive
+support*,package,positive
+support*,political unity ,positive
+support*,program*,positive
+support*,public sector ,positive
+support*,public service,positive
+support*,redistribut*,positive
+support*,reform*,positive
+support*,small and medium,positive
+support*,SME*,positive
+support*,sovereign bond*,positive
+support*,state budget ,positive
+support*,state securit*,positive
+support*,transmission ,positive
+support*,wage*,positive
+unlimited,bail-out ,positive
+unlimited,bailout,positive
+unlimited,bond*,positive
+unlimited,domestic demand,positive
+unlimited,employee*,positive
+unlimited,employer*,positive
+unlimited,export*,positive
+unlimited,fiscal,positive
+unlimited,foreign demand,positive
+unlimited,fundamental*,positive
+unlimited,government balance sheet*,positive
+unlimited,government bond*,positive
+unlimited,government budget,positive
+unlimited,import*,positive
+unlimited,integration,positive
+unlimited,labo(u)r,positive
+unlimited,package,positive
+unlimited,political unity ,positive
+unlimited,program*,positive
+unlimited,public sector ,positive
+unlimited,public service,positive
+unlimited,redistribut*,positive
+unlimited,reform*,positive
+unlimited,small and medium,positive
+unlimited,SME*,positive
+unlimited,sovereign bond*,positive
+unlimited,state budget ,positive
+unlimited,state securit*,positive
+unlimited,transmission ,positive
+unlimited,wage*,positive
+consolidat*,bail-out ,negative
+consolidat*,bailout,negative
+consolidat*,bond*,negative
+consolidat*,domestic demand,negative
+consolidat*,employee*,negative
+consolidat*,employer*,negative
+consolidat*,export*,negative
+consolidat*,fiscal,negative
+consolidat*,foreign demand,negative
+consolidat*,fundamental*,negative
+consolidat*,government balance sheet*,negative
+consolidat*,government bond*,negative
+consolidat*,government budget,negative
+consolidat*,import*,negative
+consolidat*,integration,negative
+consolidat*,labo(u)r,negative
+consolidat*,package,negative
+consolidat*,political unity ,negative
+consolidat*,program*,negative
+consolidat*,public sector ,negative
+consolidat*,public service,negative
+consolidat*,redistribut*,negative
+consolidat*,reform*,negative
+consolidat*,small and medium,negative
+consolidat*,SME*,negative
+consolidat*,sovereign bond*,negative
+consolidat*,state budget ,negative
+consolidat*,state securit*,negative
+consolidat*,transmission ,negative
+consolidat*,wage*,negative
+corrupt ,bail-out ,negative
+corrupt ,bailout,negative
+corrupt ,bond*,negative
+corrupt ,domestic demand,negative
+corrupt ,employee*,negative
+corrupt ,employer*,negative
+corrupt ,export*,negative
+corrupt ,fiscal,negative
+corrupt ,foreign demand,negative
+corrupt ,fundamental*,negative
+corrupt ,government balance sheet*,negative
+corrupt ,government bond*,negative
+corrupt ,government budget,negative
+corrupt ,import*,negative
+corrupt ,integration,negative
+corrupt ,labo(u)r,negative
+corrupt ,package,negative
+corrupt ,political unity ,negative
+corrupt ,program*,negative
+corrupt ,public sector ,negative
+corrupt ,public service,negative
+corrupt ,redistribut*,negative
+corrupt ,reform*,negative
+corrupt ,small and medium,negative
+corrupt ,SME*,negative
+corrupt ,sovereign bond*,negative
+corrupt ,state budget ,negative
+corrupt ,state securit*,negative
+corrupt ,transmission ,negative
+corrupt ,wage*,negative
+declin*,bail-out ,negative
+declin*,bailout,negative
+declin*,bond*,negative
+declin*,domestic demand,negative
+declin*,employee*,negative
+declin*,employer*,negative
+declin*,export*,negative
+declin*,fiscal,negative
+declin*,foreign demand,negative
+declin*,fundamental*,negative
+declin*,government balance sheet*,negative
+declin*,government bond*,negative
+declin*,government budget,negative
+declin*,import*,negative
+declin*,integration,negative
+declin*,labo(u)r,negative
+declin*,package,negative
+declin*,political unity ,negative
+declin*,program*,negative
+declin*,public sector ,negative
+declin*,public service,negative
+declin*,redistribut*,negative
+declin*,reform*,negative
+declin*,small and medium,negative
+declin*,SME*,negative
+declin*,sovereign bond*,negative
+declin*,state budget ,negative
+declin*,state securit*,negative
+declin*,transmission ,negative
+declin*,wage*,negative
+destabili*,bail-out ,negative
+destabili*,bailout,negative
+destabili*,bond*,negative
+destabili*,domestic demand,negative
+destabili*,employee*,negative
+destabili*,employer*,negative
+destabili*,export*,negative
+destabili*,fiscal,negative
+destabili*,foreign demand,negative
+destabili*,fundamental*,negative
+destabili*,government balance sheet*,negative
+destabili*,government bond*,negative
+destabili*,government budget,negative
+destabili*,import*,negative
+destabili*,integration,negative
+destabili*,labo(u)r,negative
+destabili*,package,negative
+destabili*,political unity ,negative
+destabili*,program*,negative
+destabili*,public sector ,negative
+destabili*,public service,negative
+destabili*,redistribut*,negative
+destabili*,reform*,negative
+destabili*,small and medium,negative
+destabili*,SME*,negative
+destabili*,sovereign bond*,negative
+destabili*,state budget ,negative
+destabili*,state securit*,negative
+destabili*,transmission ,negative
+destabili*,wage*,negative
+deteriorat*,bail-out ,negative
+deteriorat*,bailout,negative
+deteriorat*,bond*,negative
+deteriorat*,domestic demand,negative
+deteriorat*,employee*,negative
+deteriorat*,employer*,negative
+deteriorat*,export*,negative
+deteriorat*,fiscal,negative
+deteriorat*,foreign demand,negative
+deteriorat*,fundamental*,negative
+deteriorat*,government balance sheet*,negative
+deteriorat*,government bond*,negative
+deteriorat*,government budget,negative
+deteriorat*,import*,negative
+deteriorat*,integration,negative
+deteriorat*,labo(u)r,negative
+deteriorat*,package,negative
+deteriorat*,political unity ,negative
+deteriorat*,program*,negative
+deteriorat*,public sector ,negative
+deteriorat*,public service,negative
+deteriorat*,redistribut*,negative
+deteriorat*,reform*,negative
+deteriorat*,small and medium,negative
+deteriorat*,SME*,negative
+deteriorat*,sovereign bond*,negative
+deteriorat*,state budget ,negative
+deteriorat*,state securit*,negative
+deteriorat*,transmission ,negative
+deteriorat*,wage*,negative
+diffic*,bail-out ,negative
+diffic*,bailout,negative
+diffic*,bond*,negative
+diffic*,domestic demand,negative
+diffic*,employee*,negative
+diffic*,employer*,negative
+diffic*,export*,negative
+diffic*,fiscal,negative
+diffic*,foreign demand,negative
+diffic*,fundamental*,negative
+diffic*,government balance sheet*,negative
+diffic*,government bond*,negative
+diffic*,government budget,negative
+diffic*,import*,negative
+diffic*,integration,negative
+diffic*,labo(u)r,negative
+diffic*,package,negative
+diffic*,political unity ,negative
+diffic*,program*,negative
+diffic*,public sector ,negative
+diffic*,public service,negative
+diffic*,redistribut*,negative
+diffic*,reform*,negative
+diffic*,small and medium,negative
+diffic*,SME*,negative
+diffic*,sovereign bond*,negative
+diffic*,state budget ,negative
+diffic*,state securit*,negative
+diffic*,transmission ,negative
+diffic*,wage*,negative
+diminish,bail-out ,negative
+diminish,bailout,negative
+diminish,bond*,negative
+diminish,domestic demand,negative
+diminish,employee*,negative
+diminish,employer*,negative
+diminish,export*,negative
+diminish,fiscal,negative
+diminish,foreign demand,negative
+diminish,fundamental*,negative
+diminish,government balance sheet*,negative
+diminish,government bond*,negative
+diminish,government budget,negative
+diminish,import*,negative
+diminish,integration,negative
+diminish,labo(u)r,negative
+diminish,package,negative
+diminish,political unity ,negative
+diminish,program*,negative
+diminish,public sector ,negative
+diminish,public service,negative
+diminish,redistribut*,negative
+diminish,reform*,negative
+diminish,small and medium,negative
+diminish,SME*,negative
+diminish,sovereign bond*,negative
+diminish,state budget ,negative
+diminish,state securit*,negative
+diminish,transmission ,negative
+diminish,wage*,negative
+discipline*,bail-out ,negative
+discipline*,bailout,negative
+discipline*,bond*,negative
+discipline*,domestic demand,negative
+discipline*,employee*,negative
+discipline*,employer*,negative
+discipline*,export*,negative
+discipline*,fiscal,negative
+discipline*,foreign demand,negative
+discipline*,fundamental*,negative
+discipline*,government balance sheet*,negative
+discipline*,government bond*,negative
+discipline*,government budget,negative
+discipline*,import*,negative
+discipline*,integration,negative
+discipline*,labo(u)r,negative
+discipline*,package,negative
+discipline*,political unity ,negative
+discipline*,program*,negative
+discipline*,public sector ,negative
+discipline*,public service,negative
+discipline*,redistribut*,negative
+discipline*,reform*,negative
+discipline*,small and medium,negative
+discipline*,SME*,negative
+discipline*,sovereign bond*,negative
+discipline*,state budget ,negative
+discipline*,state securit*,negative
+discipline*,transmission ,negative
+discipline*,wage*,negative
+fail*,bail-out ,negative
+fail*,bailout,negative
+fail*,bond*,negative
+fail*,domestic demand,negative
+fail*,employee*,negative
+fail*,employer*,negative
+fail*,export*,negative
+fail*,fiscal,negative
+fail*,foreign demand,negative
+fail*,fundamental*,negative
+fail*,government balance sheet*,negative
+fail*,government bond*,negative
+fail*,government budget,negative
+fail*,import*,negative
+fail*,integration,negative
+fail*,labo(u)r,negative
+fail*,package,negative
+fail*,political unity ,negative
+fail*,program*,negative
+fail*,public sector ,negative
+fail*,public service,negative
+fail*,redistribut*,negative
+fail*,reform*,negative
+fail*,small and medium,negative
+fail*,SME*,negative
+fail*,sovereign bond*,negative
+fail*,state budget ,negative
+fail*,state securit*,negative
+fail*,transmission ,negative
+fail*,wage*,negative
+fall*,bail-out ,negative
+fall*,bailout,negative
+fall*,bond*,negative
+fall*,domestic demand,negative
+fall*,employee*,negative
+fall*,employer*,negative
+fall*,export*,negative
+fall*,fiscal,negative
+fall*,foreign demand,negative
+fall*,fundamental*,negative
+fall*,government balance sheet*,negative
+fall*,government bond*,negative
+fall*,government budget,negative
+fall*,import*,negative
+fall*,integration,negative
+fall*,labo(u)r,negative
+fall*,package,negative
+fall*,political unity ,negative
+fall*,program*,negative
+fall*,public sector ,negative
+fall*,public service,negative
+fall*,redistribut*,negative
+fall*,reform*,negative
+fall*,small and medium,negative
+fall*,SME*,negative
+fall*,sovereign bond*,negative
+fall*,state budget ,negative
+fall*,state securit*,negative
+fall*,transmission ,negative
+fall*,wage*,negative
+fraud*,bail-out ,negative
+fraud*,bailout,negative
+fraud*,bond*,negative
+fraud*,domestic demand,negative
+fraud*,employee*,negative
+fraud*,employer*,negative
+fraud*,export*,negative
+fraud*,fiscal,negative
+fraud*,foreign demand,negative
+fraud*,fundamental*,negative
+fraud*,government balance sheet*,negative
+fraud*,government bond*,negative
+fraud*,government budget,negative
+fraud*,import*,negative
+fraud*,integration,negative
+fraud*,labo(u)r,negative
+fraud*,package,negative
+fraud*,political unity ,negative
+fraud*,program*,negative
+fraud*,public sector ,negative
+fraud*,public service,negative
+fraud*,redistribut*,negative
+fraud*,reform*,negative
+fraud*,small and medium,negative
+fraud*,SME*,negative
+fraud*,sovereign bond*,negative
+fraud*,state budget ,negative
+fraud*,state securit*,negative
+fraud*,transmission ,negative
+fraud*,wage*,negative
+inefficient,bail-out ,negative
+inefficient,bailout,negative
+inefficient,bond*,negative
+inefficient,domestic demand,negative
+inefficient,employee*,negative
+inefficient,employer*,negative
+inefficient,export*,negative
+inefficient,fiscal,negative
+inefficient,foreign demand,negative
+inefficient,fundamental*,negative
+inefficient,government balance sheet*,negative
+inefficient,government bond*,negative
+inefficient,government budget,negative
+inefficient,import*,negative
+inefficient,integration,negative
+inefficient,labo(u)r,negative
+inefficient,package,negative
+inefficient,political unity ,negative
+inefficient,program*,negative
+inefficient,public sector ,negative
+inefficient,public service,negative
+inefficient,redistribut*,negative
+inefficient,reform*,negative
+inefficient,small and medium,negative
+inefficient,SME*,negative
+inefficient,sovereign bond*,negative
+inefficient,state budget ,negative
+inefficient,state securit*,negative
+inefficient,transmission ,negative
+inefficient,wage*,negative
+insufficient ,bail-out ,negative
+insufficient ,bailout,negative
+insufficient ,bond*,negative
+insufficient ,domestic demand,negative
+insufficient ,employee*,negative
+insufficient ,employer*,negative
+insufficient ,export*,negative
+insufficient ,fiscal,negative
+insufficient ,foreign demand,negative
+insufficient ,fundamental*,negative
+insufficient ,government balance sheet*,negative
+insufficient ,government bond*,negative
+insufficient ,government budget,negative
+insufficient ,import*,negative
+insufficient ,integration,negative
+insufficient ,labo(u)r,negative
+insufficient ,package,negative
+insufficient ,political unity ,negative
+insufficient ,program*,negative
+insufficient ,public sector ,negative
+insufficient ,public service,negative
+insufficient ,redistribut*,negative
+insufficient ,reform*,negative
+insufficient ,small and medium,negative
+insufficient ,SME*,negative
+insufficient ,sovereign bond*,negative
+insufficient ,state budget ,negative
+insufficient ,state securit*,negative
+insufficient ,transmission ,negative
+insufficient ,wage*,negative
+involuntary,bail-out ,negative
+involuntary,bailout,negative
+involuntary,bond*,negative
+involuntary,domestic demand,negative
+involuntary,employee*,negative
+involuntary,employer*,negative
+involuntary,export*,negative
+involuntary,fiscal,negative
+involuntary,foreign demand,negative
+involuntary,fundamental*,negative
+involuntary,government balance sheet*,negative
+involuntary,government bond*,negative
+involuntary,government budget,negative
+involuntary,import*,negative
+involuntary,integration,negative
+involuntary,labo(u)r,negative
+involuntary,package,negative
+involuntary,political unity ,negative
+involuntary,program*,negative
+involuntary,public sector ,negative
+involuntary,public service,negative
+involuntary,redistribut*,negative
+involuntary,reform*,negative
+involuntary,small and medium,negative
+involuntary,SME*,negative
+involuntary,sovereign bond*,negative
+involuntary,state budget ,negative
+involuntary,state securit*,negative
+involuntary,transmission ,negative
+involuntary,wage*,negative
+irresponsib*,bail-out ,negative
+irresponsib*,bailout,negative
+irresponsib*,bond*,negative
+irresponsib*,domestic demand,negative
+irresponsib*,employee*,negative
+irresponsib*,employer*,negative
+irresponsib*,export*,negative
+irresponsib*,fiscal,negative
+irresponsib*,foreign demand,negative
+irresponsib*,fundamental*,negative
+irresponsib*,government balance sheet*,negative
+irresponsib*,government bond*,negative
+irresponsib*,government budget,negative
+irresponsib*,import*,negative
+irresponsib*,integration,negative
+irresponsib*,labo(u)r,negative
+irresponsib*,package,negative
+irresponsib*,political unity ,negative
+irresponsib*,program*,negative
+irresponsib*,public sector ,negative
+irresponsib*,public service,negative
+irresponsib*,redistribut*,negative
+irresponsib*,reform*,negative
+irresponsib*,small and medium,negative
+irresponsib*,SME*,negative
+irresponsib*,sovereign bond*,negative
+irresponsib*,state budget ,negative
+irresponsib*,state securit*,negative
+irresponsib*,transmission ,negative
+irresponsib*,wage*,negative
+low*,bail-out ,negative
+low*,bailout,negative
+low*,bond*,negative
+low*,domestic demand,negative
+low*,employee*,negative
+low*,employer*,negative
+low*,export*,negative
+low*,fiscal,negative
+low*,foreign demand,negative
+low*,fundamental*,negative
+low*,government balance sheet*,negative
+low*,government bond*,negative
+low*,government budget,negative
+low*,import*,negative
+low*,integration,negative
+low*,labo(u)r,negative
+low*,package,negative
+low*,political unity ,negative
+low*,program*,negative
+low*,public sector ,negative
+low*,public service,negative
+low*,redistribut*,negative
+low*,reform*,negative
+low*,small and medium,negative
+low*,SME*,negative
+low*,sovereign bond*,negative
+low*,state budget ,negative
+low*,state securit*,negative
+low*,transmission ,negative
+low*,wage*,negative
+meager,bail-out ,negative
+meager,bailout,negative
+meager,bond*,negative
+meager,domestic demand,negative
+meager,employee*,negative
+meager,employer*,negative
+meager,export*,negative
+meager,fiscal,negative
+meager,foreign demand,negative
+meager,fundamental*,negative
+meager,government balance sheet*,negative
+meager,government bond*,negative
+meager,government budget,negative
+meager,import*,negative
+meager,integration,negative
+meager,labo(u)r,negative
+meager,package,negative
+meager,political unity ,negative
+meager,program*,negative
+meager,public sector ,negative
+meager,public service,negative
+meager,redistribut*,negative
+meager,reform*,negative
+meager,small and medium,negative
+meager,SME*,negative
+meager,sovereign bond*,negative
+meager,state budget ,negative
+meager,state securit*,negative
+meager,transmission ,negative
+meager,wage*,negative
+negative,bail-out ,negative
+negative,bailout,negative
+negative,bond*,negative
+negative,domestic demand,negative
+negative,employee*,negative
+negative,employer*,negative
+negative,export*,negative
+negative,fiscal,negative
+negative,foreign demand,negative
+negative,fundamental*,negative
+negative,government balance sheet*,negative
+negative,government bond*,negative
+negative,government budget,negative
+negative,import*,negative
+negative,integration,negative
+negative,labo(u)r,negative
+negative,package,negative
+negative,political unity ,negative
+negative,program*,negative
+negative,public sector ,negative
+negative,public service,negative
+negative,redistribut*,negative
+negative,reform*,negative
+negative,small and medium,negative
+negative,SME*,negative
+negative,sovereign bond*,negative
+negative,state budget ,negative
+negative,state securit*,negative
+negative,transmission ,negative
+negative,wage*,negative
+problem*,bail-out ,negative
+problem*,bailout,negative
+problem*,bond*,negative
+problem*,domestic demand,negative
+problem*,employee*,negative
+problem*,employer*,negative
+problem*,export*,negative
+problem*,fiscal,negative
+problem*,foreign demand,negative
+problem*,fundamental*,negative
+problem*,government balance sheet*,negative
+problem*,government bond*,negative
+problem*,government budget,negative
+problem*,import*,negative
+problem*,integration,negative
+problem*,labo(u)r,negative
+problem*,package,negative
+problem*,political unity ,negative
+problem*,program*,negative
+problem*,public sector ,negative
+problem*,public service,negative
+problem*,redistribut*,negative
+problem*,reform*,negative
+problem*,small and medium,negative
+problem*,SME*,negative
+problem*,sovereign bond*,negative
+problem*,state budget ,negative
+problem*,state securit*,negative
+problem*,transmission ,negative
+problem*,wage*,negative
+restrict*,bail-out ,negative
+restrict*,bailout,negative
+restrict*,bond*,negative
+restrict*,domestic demand,negative
+restrict*,employee*,negative
+restrict*,employer*,negative
+restrict*,export*,negative
+restrict*,fiscal,negative
+restrict*,foreign demand,negative
+restrict*,fundamental*,negative
+restrict*,government balance sheet*,negative
+restrict*,government bond*,negative
+restrict*,government budget,negative
+restrict*,import*,negative
+restrict*,integration,negative
+restrict*,labo(u)r,negative
+restrict*,package,negative
+restrict*,political unity ,negative
+restrict*,program*,negative
+restrict*,public sector ,negative
+restrict*,public service,negative
+restrict*,redistribut*,negative
+restrict*,reform*,negative
+restrict*,small and medium,negative
+restrict*,SME*,negative
+restrict*,sovereign bond*,negative
+restrict*,state budget ,negative
+restrict*,state securit*,negative
+restrict*,transmission ,negative
+restrict*,wage*,negative
+rigid,bail-out ,negative
+rigid,bailout,negative
+rigid,bond*,negative
+rigid,domestic demand,negative
+rigid,employee*,negative
+rigid,employer*,negative
+rigid,export*,negative
+rigid,fiscal,negative
+rigid,foreign demand,negative
+rigid,fundamental*,negative
+rigid,government balance sheet*,negative
+rigid,government bond*,negative
+rigid,government budget,negative
+rigid,import*,negative
+rigid,integration,negative
+rigid,labo(u)r,negative
+rigid,package,negative
+rigid,political unity ,negative
+rigid,program*,negative
+rigid,public sector ,negative
+rigid,public service,negative
+rigid,redistribut*,negative
+rigid,reform*,negative
+rigid,small and medium,negative
+rigid,SME*,negative
+rigid,sovereign bond*,negative
+rigid,state budget ,negative
+rigid,state securit*,negative
+rigid,transmission ,negative
+rigid,wage*,negative
+severe,bail-out ,negative
+severe,bailout,negative
+severe,bond*,negative
+severe,domestic demand,negative
+severe,employee*,negative
+severe,employer*,negative
+severe,export*,negative
+severe,fiscal,negative
+severe,foreign demand,negative
+severe,fundamental*,negative
+severe,government balance sheet*,negative
+severe,government bond*,negative
+severe,government budget,negative
+severe,import*,negative
+severe,integration,negative
+severe,labo(u)r,negative
+severe,package,negative
+severe,political unity ,negative
+severe,program*,negative
+severe,public sector ,negative
+severe,public service,negative
+severe,redistribut*,negative
+severe,reform*,negative
+severe,small and medium,negative
+severe,SME*,negative
+severe,sovereign bond*,negative
+severe,state budget ,negative
+severe,state securit*,negative
+severe,transmission ,negative
+severe,wage*,negative
+shaky ,bail-out ,negative
+shaky ,bailout,negative
+shaky ,bond*,negative
+shaky ,domestic demand,negative
+shaky ,employee*,negative
+shaky ,employer*,negative
+shaky ,export*,negative
+shaky ,fiscal,negative
+shaky ,foreign demand,negative
+shaky ,fundamental*,negative
+shaky ,government balance sheet*,negative
+shaky ,government bond*,negative
+shaky ,government budget,negative
+shaky ,import*,negative
+shaky ,integration,negative
+shaky ,labo(u)r,negative
+shaky ,package,negative
+shaky ,political unity ,negative
+shaky ,program*,negative
+shaky ,public sector ,negative
+shaky ,public service,negative
+shaky ,redistribut*,negative
+shaky ,reform*,negative
+shaky ,small and medium,negative
+shaky ,SME*,negative
+shaky ,sovereign bond*,negative
+shaky ,state budget ,negative
+shaky ,state securit*,negative
+shaky ,transmission ,negative
+shaky ,wage*,negative
+shrink*,bail-out ,negative
+shrink*,bailout,negative
+shrink*,bond*,negative
+shrink*,domestic demand,negative
+shrink*,employee*,negative
+shrink*,employer*,negative
+shrink*,export*,negative
+shrink*,fiscal,negative
+shrink*,foreign demand,negative
+shrink*,fundamental*,negative
+shrink*,government balance sheet*,negative
+shrink*,government bond*,negative
+shrink*,government budget,negative
+shrink*,import*,negative
+shrink*,integration,negative
+shrink*,labo(u)r,negative
+shrink*,package,negative
+shrink*,political unity ,negative
+shrink*,program*,negative
+shrink*,public sector ,negative
+shrink*,public service,negative
+shrink*,redistribut*,negative
+shrink*,reform*,negative
+shrink*,small and medium,negative
+shrink*,SME*,negative
+shrink*,sovereign bond*,negative
+shrink*,state budget ,negative
+shrink*,state securit*,negative
+shrink*,transmission ,negative
+shrink*,wage*,negative
+slim,bail-out ,negative
+slim,bailout,negative
+slim,bond*,negative
+slim,domestic demand,negative
+slim,employee*,negative
+slim,employer*,negative
+slim,export*,negative
+slim,fiscal,negative
+slim,foreign demand,negative
+slim,fundamental*,negative
+slim,government balance sheet*,negative
+slim,government bond*,negative
+slim,government budget,negative
+slim,import*,negative
+slim,integration,negative
+slim,labo(u)r,negative
+slim,package,negative
+slim,political unity ,negative
+slim,program*,negative
+slim,public sector ,negative
+slim,public service,negative
+slim,redistribut*,negative
+slim,reform*,negative
+slim,small and medium,negative
+slim,SME*,negative
+slim,sovereign bond*,negative
+slim,state budget ,negative
+slim,state securit*,negative
+slim,transmission ,negative
+slim,wage*,negative
+slow,bail-out ,negative
+slow,bailout,negative
+slow,bond*,negative
+slow,domestic demand,negative
+slow,employee*,negative
+slow,employer*,negative
+slow,export*,negative
+slow,fiscal,negative
+slow,foreign demand,negative
+slow,fundamental*,negative
+slow,government balance sheet*,negative
+slow,government bond*,negative
+slow,government budget,negative
+slow,import*,negative
+slow,integration,negative
+slow,labo(u)r,negative
+slow,package,negative
+slow,political unity ,negative
+slow,program*,negative
+slow,public sector ,negative
+slow,public service,negative
+slow,redistribut*,negative
+slow,reform*,negative
+slow,small and medium,negative
+slow,SME*,negative
+slow,sovereign bond*,negative
+slow,state budget ,negative
+slow,state securit*,negative
+slow,transmission ,negative
+slow,wage*,negative
+small*,bail-out ,negative
+small*,bailout,negative
+small*,bond*,negative
+small*,domestic demand,negative
+small*,employee*,negative
+small*,employer*,negative
+small*,export*,negative
+small*,fiscal,negative
+small*,foreign demand,negative
+small*,fundamental*,negative
+small*,government balance sheet*,negative
+small*,government bond*,negative
+small*,government budget,negative
+small*,import*,negative
+small*,integration,negative
+small*,labo(u)r,negative
+small*,package,negative
+small*,political unity ,negative
+small*,program*,negative
+small*,public sector ,negative
+small*,public service,negative
+small*,redistribut*,negative
+small*,reform*,negative
+small*,small and medium,negative
+small*,SME*,negative
+small*,sovereign bond*,negative
+small*,state budget ,negative
+small*,state securit*,negative
+small*,transmission ,negative
+small*,wage*,negative
+structural ,bail-out ,negative
+structural ,bailout,negative
+structural ,bond*,negative
+structural ,domestic demand,negative
+structural ,employee*,negative
+structural ,employer*,negative
+structural ,export*,negative
+structural ,fiscal,negative
+structural ,foreign demand,negative
+structural ,fundamental*,negative
+structural ,government balance sheet*,negative
+structural ,government bond*,negative
+structural ,government budget,negative
+structural ,import*,negative
+structural ,integration,negative
+structural ,labo(u)r,negative
+structural ,package,negative
+structural ,political unity ,negative
+structural ,program*,negative
+structural ,public sector ,negative
+structural ,public service,negative
+structural ,redistribut*,negative
+structural ,reform*,negative
+structural ,small and medium,negative
+structural ,SME*,negative
+structural ,sovereign bond*,negative
+structural ,state budget ,negative
+structural ,state securit*,negative
+structural ,transmission ,negative
+structural ,wage*,negative
+struggling,bail-out ,negative
+struggling,bailout,negative
+struggling,bond*,negative
+struggling,domestic demand,negative
+struggling,employee*,negative
+struggling,employer*,negative
+struggling,export*,negative
+struggling,fiscal,negative
+struggling,foreign demand,negative
+struggling,fundamental*,negative
+struggling,government balance sheet*,negative
+struggling,government bond*,negative
+struggling,government budget,negative
+struggling,import*,negative
+struggling,integration,negative
+struggling,labo(u)r,negative
+struggling,package,negative
+struggling,political unity ,negative
+struggling,program*,negative
+struggling,public sector ,negative
+struggling,public service,negative
+struggling,redistribut*,negative
+struggling,reform*,negative
+struggling,small and medium,negative
+struggling,SME*,negative
+struggling,sovereign bond*,negative
+struggling,state budget ,negative
+struggling,state securit*,negative
+struggling,transmission ,negative
+struggling,wage*,negative
+tight,bail-out ,negative
+tight,bailout,negative
+tight,bond*,negative
+tight,domestic demand,negative
+tight,employee*,negative
+tight,employer*,negative
+tight,export*,negative
+tight,fiscal,negative
+tight,foreign demand,negative
+tight,fundamental*,negative
+tight,government balance sheet*,negative
+tight,government bond*,negative
+tight,government budget,negative
+tight,import*,negative
+tight,integration,negative
+tight,labo(u)r,negative
+tight,package,negative
+tight,political unity ,negative
+tight,program*,negative
+tight,public sector ,negative
+tight,public service,negative
+tight,redistribut*,negative
+tight,reform*,negative
+tight,small and medium,negative
+tight,SME*,negative
+tight,sovereign bond*,negative
+tight,state budget ,negative
+tight,state securit*,negative
+tight,transmission ,negative
+tight,wage*,negative
+troubl*,bail-out ,negative
+troubl*,bailout,negative
+troubl*,bond*,negative
+troubl*,domestic demand,negative
+troubl*,employee*,negative
+troubl*,employer*,negative
+troubl*,export*,negative
+troubl*,fiscal,negative
+troubl*,foreign demand,negative
+troubl*,fundamental*,negative
+troubl*,government balance sheet*,negative
+troubl*,government bond*,negative
+troubl*,government budget,negative
+troubl*,import*,negative
+troubl*,integration,negative
+troubl*,labo(u)r,negative
+troubl*,package,negative
+troubl*,political unity ,negative
+troubl*,program*,negative
+troubl*,public sector ,negative
+troubl*,public service,negative
+troubl*,redistribut*,negative
+troubl*,reform*,negative
+troubl*,small and medium,negative
+troubl*,SME*,negative
+troubl*,sovereign bond*,negative
+troubl*,state budget ,negative
+troubl*,state securit*,negative
+troubl*,transmission ,negative
+troubl*,wage*,negative
+unbalance*,bail-out ,negative
+unbalance*,bailout,negative
+unbalance*,bond*,negative
+unbalance*,domestic demand,negative
+unbalance*,employee*,negative
+unbalance*,employer*,negative
+unbalance*,export*,negative
+unbalance*,fiscal,negative
+unbalance*,foreign demand,negative
+unbalance*,fundamental*,negative
+unbalance*,government balance sheet*,negative
+unbalance*,government bond*,negative
+unbalance*,government budget,negative
+unbalance*,import*,negative
+unbalance*,integration,negative
+unbalance*,labo(u)r,negative
+unbalance*,package,negative
+unbalance*,political unity ,negative
+unbalance*,program*,negative
+unbalance*,public sector ,negative
+unbalance*,public service,negative
+unbalance*,redistribut*,negative
+unbalance*,reform*,negative
+unbalance*,small and medium,negative
+unbalance*,SME*,negative
+unbalance*,sovereign bond*,negative
+unbalance*,state budget ,negative
+unbalance*,state securit*,negative
+unbalance*,transmission ,negative
+unbalance*,wage*,negative
+unstable,bail-out ,negative
+unstable,bailout,negative
+unstable,bond*,negative
+unstable,domestic demand,negative
+unstable,employee*,negative
+unstable,employer*,negative
+unstable,export*,negative
+unstable,fiscal,negative
+unstable,foreign demand,negative
+unstable,fundamental*,negative
+unstable,government balance sheet*,negative
+unstable,government bond*,negative
+unstable,government budget,negative
+unstable,import*,negative
+unstable,integration,negative
+unstable,labo(u)r,negative
+unstable,package,negative
+unstable,political unity ,negative
+unstable,program*,negative
+unstable,public sector ,negative
+unstable,public service,negative
+unstable,redistribut*,negative
+unstable,reform*,negative
+unstable,small and medium,negative
+unstable,SME*,negative
+unstable,sovereign bond*,negative
+unstable,state budget ,negative
+unstable,state securit*,negative
+unstable,transmission ,negative
+unstable,wage*,negative
+unsustainable,bail-out ,negative
+unsustainable,bailout,negative
+unsustainable,bond*,negative
+unsustainable,domestic demand,negative
+unsustainable,employee*,negative
+unsustainable,employer*,negative
+unsustainable,export*,negative
+unsustainable,fiscal,negative
+unsustainable,foreign demand,negative
+unsustainable,fundamental*,negative
+unsustainable,government balance sheet*,negative
+unsustainable,government bond*,negative
+unsustainable,government budget,negative
+unsustainable,import*,negative
+unsustainable,integration,negative
+unsustainable,labo(u)r,negative
+unsustainable,package,negative
+unsustainable,political unity ,negative
+unsustainable,program*,negative
+unsustainable,public sector ,negative
+unsustainable,public service,negative
+unsustainable,redistribut*,negative
+unsustainable,reform*,negative
+unsustainable,small and medium,negative
+unsustainable,SME*,negative
+unsustainable,sovereign bond*,negative
+unsustainable,state budget ,negative
+unsustainable,state securit*,negative
+unsustainable,transmission ,negative
+unsustainable,wage*,negative
+urgent*,bail-out ,negative
+urgent*,bailout,negative
+urgent*,bond*,negative
+urgent*,domestic demand,negative
+urgent*,employee*,negative
+urgent*,employer*,negative
+urgent*,export*,negative
+urgent*,fiscal,negative
+urgent*,foreign demand,negative
+urgent*,fundamental*,negative
+urgent*,government balance sheet*,negative
+urgent*,government bond*,negative
+urgent*,government budget,negative
+urgent*,import*,negative
+urgent*,integration,negative
+urgent*,labo(u)r,negative
+urgent*,package,negative
+urgent*,political unity ,negative
+urgent*,program*,negative
+urgent*,public sector ,negative
+urgent*,public service,negative
+urgent*,redistribut*,negative
+urgent*,reform*,negative
+urgent*,small and medium,negative
+urgent*,SME*,negative
+urgent*,sovereign bond*,negative
+urgent*,state budget ,negative
+urgent*,state securit*,negative
+urgent*,transmission ,negative
+urgent*,wage*,negative
+weak*,bail-out ,negative
+weak*,bailout,negative
+weak*,bond*,negative
+weak*,domestic demand,negative
+weak*,employee*,negative
+weak*,employer*,negative
+weak*,export*,negative
+weak*,fiscal,negative
+weak*,foreign demand,negative
+weak*,fundamental*,negative
+weak*,government balance sheet*,negative
+weak*,government bond*,negative
+weak*,government budget,negative
+weak*,import*,negative
+weak*,integration,negative
+weak*,labo(u)r,negative
+weak*,package,negative
+weak*,political unity ,negative
+weak*,program*,negative
+weak*,public sector ,negative
+weak*,public service,negative
+weak*,redistribut*,negative
+weak*,reform*,negative
+weak*,small and medium,negative
+weak*,SME*,negative
+weak*,sovereign bond*,negative
+weak*,state budget ,negative
+weak*,state securit*,negative
+weak*,transmission ,negative
+weak*,wage*,negative
+worse*,bail-out ,negative
+worse*,bailout,negative
+worse*,bond*,negative
+worse*,domestic demand,negative
+worse*,employee*,negative
+worse*,employer*,negative
+worse*,export*,negative
+worse*,fiscal,negative
+worse*,foreign demand,negative
+worse*,fundamental*,negative
+worse*,government balance sheet*,negative
+worse*,government bond*,negative
+worse*,government budget,negative
+worse*,import*,negative
+worse*,integration,negative
+worse*,labo(u)r,negative
+worse*,package,negative
+worse*,political unity ,negative
+worse*,program*,negative
+worse*,public sector ,negative
+worse*,public service,negative
+worse*,redistribut*,negative
+worse*,reform*,negative
+worse*,small and medium,negative
+worse*,SME*,negative
+worse*,sovereign bond*,negative
+worse*,state budget ,negative
+worse*,state securit*,negative
+worse*,transmission ,negative
+worse*,wage*,negative

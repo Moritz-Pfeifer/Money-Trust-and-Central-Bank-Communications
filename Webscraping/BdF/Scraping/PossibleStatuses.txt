@@ -1,0 +1,40 @@
+# PR1 = PRs from 2015-2020, from BoF website
+# PR2 = PRs from 2002-2014, from WBM
+
+#######################################################################################################################
+
+FAILED_TO_DOWNLOAD (PR1, PR2):
+
+Failed to download file.
+This could be due to the fact that we got 404 from the original URL, and any one of the following:
+
+1. No fallback URLs were found
+2. Fallback URLs were found but WBM refused connection
+3. The fallback URL API refused connection, as a result we were unable to fetch fallback URLs
+
+#######################################################################################################################
+
+FAILED_TO_FETCH  (PR1, PR2):
+
+Failed to load page at URL.
+
+For PR2:
+This could be due to the fact that we got 404 from the original URL, and any one of the following:
+
+1. No fallback URLs were found
+2. Fallback URLs were found but WBM refused connection
+3. The fallback URL API refused connection, as a result we were unable to fetch fallback URLs
+
+For PR1:
+Was not able to find the attachment download link on the page.
+
+#######################################################################################################################
+
+TRY_DOWNLOAD (PR1):
+
+The script was stopped by the user before it could download the attachment for this item.
+
+
+################################################333
+RA_FAILED_TO_DOWNLOAD:
+Rapport Annual failed to download

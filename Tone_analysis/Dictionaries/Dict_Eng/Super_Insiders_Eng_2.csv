@@ -1,0 +1,1797 @@
+Adjetives_Verbs,Nouns_Dependent,Adjetive_Type
+cautio*,asset*,Negative
+collaps*,asset*,Negative
+concern*,asset*,Negative
+dampen*,asset*,Negative
+decelerat*,asset*,Negative
+declin*,asset*,Negative
+decreas*,asset*,Negative
+delay*,asset*,Negative
+depress*,asset*,Negative
+destabili*,asset*,Negative
+deteriorat*,asset*,Negative
+devalu*,asset*,Negative
+diffic*,asset*,Negative
+diminish*,asset*,Negative
+disappear*,asset*,Negative
+disorderl*,asset*,Negative
+downside,asset*,Negative
+downward ,asset*,Negative
+fall*,asset*,Negative
+fragil*,asset*,Negative
+limit ,asset*,Negative
+low*,asset*,Negative
+negative,asset*,Negative
+plummet*,asset*,Negative
+poor,asset*,Negative
+precaution*,asset*,Negative
+regulator,asset*,Negative
+scrutinize*,asset*,Negative
+severe,asset*,Negative
+slack,asset*,Negative
+slow,asset*,Negative
+sluggish,asset*,Negative
+small*,asset*,Negative
+speculative*,asset*,Negative
+struggling,asset*,Negative
+subdued,asset*,Negative
+supervis*,asset*,Negative
+taper*,asset*,Negative
+turbulent ,asset*,Negative
+uncertain*,asset*,Negative
+unfavourabl*,asset*,Negative
+unstable,asset*,Negative
+unsustainable,asset*,Negative
+weak*,asset*,Negative
+worse*,asset*,Negative
+unfavourabl*,asset*,Negative
+accelerat*,asset*,Positive
+accomodate,asset*,Positive
+better,asset*,Positive
+bounce back,asset*,Positive
+enhance,asset*,Positive
+ensure,asset*,Positive
+expand*,asset*,Positive
+fast*,asset*,Positive
+favourabl*,asset*,Positive
+firm*,asset*,Positive
+great*,asset*,Positive
+high ,asset*,Positive
+improv*,asset*,Positive
+increas*,asset*,Positive
+invigorate,asset*,Positive
+larg*,asset*,Positive
+lift,asset*,Positive
+positive ,asset*,Positive
+rais*,asset*,Positive
+rallying,asset*,Positive
+resilient,asset*,Positive
+rise,asset*,Positive
+risi*,asset*,Positive
+robust ,asset*,Positive
+safeguard ,asset*,Positive
+secure,asset*,Positive
+soar,asset*,Positive
+solid ,asset*,Positive
+solvent,asset*,Positive
+sound,asset*,Positive
+stable ,asset*,Positive
+steady,asset*,Positive
+stimul*,asset*,Positive
+strengthen,asset*,Positive
+strong ,asset*,Positive
+success*,asset*,Positive
+support* ,asset*,Positive
+surge,asset*,Positive
+sustainable,asset*,Positive
+swift* ,asset*,Positive
+unconventional*,asset*,Positive
+upward,asset*,Positive
+favorabl*,asset*,Positive
+volitil*,asset*,Negative
+uplifting,asset*,Positive
+cautio*,bank*,Negative
+collaps*,bank*,Negative
+concern*,bank*,Negative
+dampen*,bank*,Negative
+decelerat*,bank*,Negative
+declin*,bank*,Negative
+decreas*,bank*,Negative
+delay*,bank*,Negative
+depress*,bank*,Negative
+destabili*,bank*,Negative
+deteriorat*,bank*,Negative
+devalu*,bank*,Negative
+diffic*,bank*,Negative
+diminish*,bank*,Negative
+disappear*,bank*,Negative
+disorderl*,bank*,Negative
+downside,bank*,Negative
+downward ,bank*,Negative
+fall*,bank*,Negative
+fragil*,bank*,Negative
+limit ,bank*,Negative
+low*,bank*,Negative
+negative,bank*,Negative
+plummet*,bank*,Negative
+poor,bank*,Negative
+precaution*,bank*,Negative
+regulator,bank*,Negative
+scrutinize*,bank*,Negative
+severe,bank*,Negative
+slack,bank*,Negative
+slow,bank*,Negative
+sluggish,bank*,Negative
+small*,bank*,Negative
+speculative*,bank*,Negative
+struggling,bank*,Negative
+subdued,bank*,Negative
+supervis*,bank*,Negative
+taper*,bank*,Negative
+turbulent ,bank*,Negative
+uncertain*,bank*,Negative
+unfavourabl*,bank*,Negative
+unstable,bank*,Negative
+unsustainable,bank*,Negative
+weak*,bank*,Negative
+worse*,bank*,Negative
+unfavourabl*,bank*,Negative
+accelerat*,bank*,Positive
+accomodate,bank*,Positive
+better,bank*,Positive
+bounce back,bank*,Positive
+enhance,bank*,Positive
+ensure,bank*,Positive
+expand*,bank*,Positive
+fast*,bank*,Positive
+favourabl*,bank*,Positive
+firm*,bank*,Positive
+great*,bank*,Positive
+high ,bank*,Positive
+improv*,bank*,Positive
+increas*,bank*,Positive
+invigorate,bank*,Positive
+larg*,bank*,Positive
+lift,bank*,Positive
+positive ,bank*,Positive
+rais*,bank*,Positive
+rallying,bank*,Positive
+resilient,bank*,Positive
+rise,bank*,Positive
+risi*,bank*,Positive
+robust ,bank*,Positive
+safeguard ,bank*,Positive
+secure,bank*,Positive
+soar,bank*,Positive
+solid ,bank*,Positive
+solvent,bank*,Positive
+sound,bank*,Positive
+stable ,bank*,Positive
+steady,bank*,Positive
+stimul*,bank*,Positive
+strengthen,bank*,Positive
+strong ,bank*,Positive
+success*,bank*,Positive
+support* ,bank*,Positive
+surge,bank*,Positive
+sustainable,bank*,Positive
+swift* ,bank*,Positive
+unconventional*,bank*,Positive
+upward,bank*,Positive
+favorabl*,bank*,Positive
+volitil*,bank*,Negative
+uplifting,bank*,Positive
+,boom,Positive
+,boost,Positive
+cautio*,credit ,Negative
+collaps*,credit ,Negative
+concern*,credit ,Negative
+dampen*,credit ,Negative
+decelerat*,credit ,Negative
+declin*,credit ,Negative
+decreas*,credit ,Negative
+delay*,credit ,Negative
+depress*,credit ,Negative
+destabili*,credit ,Negative
+deteriorat*,credit ,Negative
+devalu*,credit ,Negative
+diffic*,credit ,Negative
+diminish*,credit ,Negative
+disappear*,credit ,Negative
+disorderl*,credit ,Negative
+downside,credit ,Negative
+downward ,credit ,Negative
+fall*,credit ,Negative
+fragil*,credit ,Negative
+limit ,credit ,Negative
+low*,credit ,Negative
+negative,credit ,Negative
+plummet*,credit ,Negative
+poor,credit ,Negative
+precaution*,credit ,Negative
+regulator,credit ,Negative
+scrutinize*,credit ,Negative
+severe,credit ,Negative
+slack,credit ,Negative
+slow,credit ,Negative
+sluggish,credit ,Negative
+small*,credit ,Negative
+speculative*,credit ,Negative
+struggling,credit ,Negative
+subdued,credit ,Negative
+supervis*,credit ,Negative
+taper*,credit ,Negative
+turbulent ,credit ,Negative
+uncertain*,credit ,Negative
+unfavourabl*,credit ,Negative
+unstable,credit ,Negative
+unsustainable,credit ,Negative
+weak*,credit ,Negative
+worse*,credit ,Negative
+unfavourabl*,credit ,Negative
+accelerat*,credit ,Positive
+accomodate,credit ,Positive
+better,credit ,Positive
+bounce back,credit ,Positive
+enhance,credit ,Positive
+ensure,credit ,Positive
+expand*,credit ,Positive
+fast*,credit ,Positive
+favourabl*,credit ,Positive
+firm*,credit ,Positive
+great*,credit ,Positive
+high ,credit ,Positive
+improv*,credit ,Positive
+increas*,credit ,Positive
+invigorate,credit ,Positive
+larg*,credit ,Positive
+lift,credit ,Positive
+positive ,credit ,Positive
+rais*,credit ,Positive
+rallying,credit ,Positive
+resilient,credit ,Positive
+rise,credit ,Positive
+risi*,credit ,Positive
+robust ,credit ,Positive
+safeguard ,credit ,Positive
+secure,credit ,Positive
+soar,credit ,Positive
+solid ,credit ,Positive
+solvent,credit ,Positive
+sound,credit ,Positive
+stable ,credit ,Positive
+steady,credit ,Positive
+stimul*,credit ,Positive
+strengthen,credit ,Positive
+strong ,credit ,Positive
+success*,credit ,Positive
+support* ,credit ,Positive
+surge,credit ,Positive
+sustainable,credit ,Positive
+swift* ,credit ,Positive
+unconventional*,credit ,Positive
+upward,credit ,Positive
+favorabl*,credit ,Positive
+volitil*,credit ,Negative
+uplifting,credit ,Positive
+cautio*,cyclical position,Negative
+collaps*,cyclical position,Negative
+concern*,cyclical position,Negative
+dampen*,cyclical position,Negative
+decelerat*,cyclical position,Negative
+declin*,cyclical position,Negative
+decreas*,cyclical position,Negative
+delay*,cyclical position,Negative
+depress*,cyclical position,Negative
+destabili*,cyclical position,Negative
+deteriorat*,cyclical position,Negative
+devalu*,cyclical position,Negative
+diffic*,cyclical position,Negative
+diminish*,cyclical position,Negative
+disappear*,cyclical position,Negative
+disorderl*,cyclical position,Negative
+downside,cyclical position,Negative
+downward ,cyclical position,Negative
+fall*,cyclical position,Negative
+fragil*,cyclical position,Negative
+limit ,cyclical position,Negative
+low*,cyclical position,Negative
+negative,cyclical position,Negative
+plummet*,cyclical position,Negative
+poor,cyclical position,Negative
+precaution*,cyclical position,Negative
+regulator,cyclical position,Negative
+scrutinize*,cyclical position,Negative
+severe,cyclical position,Negative
+slack,cyclical position,Negative
+slow,cyclical position,Negative
+sluggish,cyclical position,Negative
+small*,cyclical position,Negative
+speculative*,cyclical position,Negative
+struggling,cyclical position,Negative
+subdued,cyclical position,Negative
+supervis*,cyclical position,Negative
+taper*,cyclical position,Negative
+turbulent ,cyclical position,Negative
+uncertain*,cyclical position,Negative
+unfavourabl*,cyclical position,Negative
+unstable,cyclical position,Negative
+unsustainable,cyclical position,Negative
+weak*,cyclical position,Negative
+worse*,cyclical position,Negative
+unfavourabl*,cyclical position,Negative
+accelerat*,cyclical position,Positive
+accomodate,cyclical position,Positive
+better,cyclical position,Positive
+bounce back,cyclical position,Positive
+enhance,cyclical position,Positive
+ensure,cyclical position,Positive
+expand*,cyclical position,Positive
+fast*,cyclical position,Positive
+favourabl*,cyclical position,Positive
+firm*,cyclical position,Positive
+great*,cyclical position,Positive
+high ,cyclical position,Positive
+improv*,cyclical position,Positive
+increas*,cyclical position,Positive
+invigorate,cyclical position,Positive
+larg*,cyclical position,Positive
+lift,cyclical position,Positive
+positive ,cyclical position,Positive
+rais*,cyclical position,Positive
+rallying,cyclical position,Positive
+resilient,cyclical position,Positive
+rise,cyclical position,Positive
+risi*,cyclical position,Positive
+robust ,cyclical position,Positive
+safeguard ,cyclical position,Positive
+secure,cyclical position,Positive
+soar,cyclical position,Positive
+solid ,cyclical position,Positive
+solvent,cyclical position,Positive
+sound,cyclical position,Positive
+stable ,cyclical position,Positive
+steady,cyclical position,Positive
+stimul*,cyclical position,Positive
+strengthen,cyclical position,Positive
+strong ,cyclical position,Positive
+success*,cyclical position,Positive
+support* ,cyclical position,Positive
+surge,cyclical position,Positive
+sustainable,cyclical position,Positive
+swift* ,cyclical position,Positive
+unconventional*,cyclical position,Positive
+upward,cyclical position,Positive
+favorabl*,cyclical position,Positive
+volitil*,cyclical position,Negative
+uplifting,cyclical position,Positive
+cautio*,financial ,Negative
+collaps*,financial ,Negative
+concern*,financial ,Negative
+dampen*,financial ,Negative
+decelerat*,financial ,Negative
+declin*,financial ,Negative
+decreas*,financial ,Negative
+delay*,financial ,Negative
+depress*,financial ,Negative
+destabili*,financial ,Negative
+deteriorat*,financial ,Negative
+devalu*,financial ,Negative
+diffic*,financial ,Negative
+diminish*,financial ,Negative
+disappear*,financial ,Negative
+disorderl*,financial ,Negative
+downside,financial ,Negative
+downward ,financial ,Negative
+fall*,financial ,Negative
+fragil*,financial ,Negative
+limit ,financial ,Negative
+low*,financial ,Negative
+negative,financial ,Negative
+plummet*,financial ,Negative
+poor,financial ,Negative
+precaution*,financial ,Negative
+regulator,financial ,Negative
+scrutinize*,financial ,Negative
+severe,financial ,Negative
+slack,financial ,Negative
+slow,financial ,Negative
+sluggish,financial ,Negative
+small*,financial ,Negative
+speculative*,financial ,Negative
+struggling,financial ,Negative
+subdued,financial ,Negative
+supervis*,financial ,Negative
+taper*,financial ,Negative
+turbulent ,financial ,Negative
+uncertain*,financial ,Negative
+unfavourabl*,financial ,Negative
+unstable,financial ,Negative
+unsustainable,financial ,Negative
+weak*,financial ,Negative
+worse*,financial ,Negative
+unfavourabl*,financial ,Negative
+accelerat*,financial ,Positive
+accomodate,financial ,Positive
+better,financial ,Positive
+bounce back,financial ,Positive
+enhance,financial ,Positive
+ensure,financial ,Positive
+expand*,financial ,Positive
+fast*,financial ,Positive
+favourabl*,financial ,Positive
+firm*,financial ,Positive
+great*,financial ,Positive
+high ,financial ,Positive
+improv*,financial ,Positive
+increas*,financial ,Positive
+invigorate,financial ,Positive
+larg*,financial ,Positive
+lift,financial ,Positive
+positive ,financial ,Positive
+rais*,financial ,Positive
+rallying,financial ,Positive
+resilient,financial ,Positive
+rise,financial ,Positive
+risi*,financial ,Positive
+robust ,financial ,Positive
+safeguard ,financial ,Positive
+secure,financial ,Positive
+soar,financial ,Positive
+solid ,financial ,Positive
+solvent,financial ,Positive
+sound,financial ,Positive
+stable ,financial ,Positive
+steady,financial ,Positive
+stimul*,financial ,Positive
+strengthen,financial ,Positive
+strong ,financial ,Positive
+success*,financial ,Positive
+support* ,financial ,Positive
+surge,financial ,Positive
+sustainable,financial ,Positive
+swift* ,financial ,Positive
+unconventional*,financial ,Positive
+upward,financial ,Positive
+favorabl*,financial ,Positive
+volitil*,financial ,Negative
+uplifting,financial ,Positive
+cautio*,growth,Negative
+collaps*,growth,Negative
+concern*,growth,Negative
+dampen*,growth,Negative
+decelerat*,growth,Negative
+declin*,growth,Negative
+decreas*,growth,Negative
+delay*,growth,Negative
+depress*,growth,Negative
+destabili*,growth,Negative
+deteriorat*,growth,Negative
+devalu*,growth,Negative
+diffic*,growth,Negative
+diminish*,growth,Negative
+disappear*,growth,Negative
+disorderl*,growth,Negative
+downside,growth,Negative
+downward ,growth,Negative
+fall*,growth,Negative
+fragil*,growth,Negative
+limit ,growth,Negative
+low*,growth,Negative
+negative,growth,Negative
+plummet*,growth,Negative
+poor,growth,Negative
+precaution*,growth,Negative
+regulator,growth,Negative
+scrutinize*,growth,Negative
+severe,growth,Negative
+slack,growth,Negative
+slow,growth,Negative
+sluggish,growth,Negative
+small*,growth,Negative
+speculative*,growth,Negative
+struggling,growth,Negative
+subdued,growth,Negative
+supervis*,growth,Negative
+taper*,growth,Negative
+turbulent ,growth,Negative
+uncertain*,growth,Negative
+unfavourabl*,growth,Negative
+unstable,growth,Negative
+unsustainable,growth,Negative
+weak*,growth,Negative
+worse*,growth,Negative
+unfavourabl*,growth,Negative
+accelerat*,growth,Positive
+accomodate,growth,Positive
+better,growth,Positive
+bounce back,growth,Positive
+enhance,growth,Positive
+ensure,growth,Positive
+expand*,growth,Positive
+fast*,growth,Positive
+favourabl*,growth,Positive
+firm*,growth,Positive
+great*,growth,Positive
+high ,growth,Positive
+improv*,growth,Positive
+increas*,growth,Positive
+invigorate,growth,Positive
+larg*,growth,Positive
+lift,growth,Positive
+positive ,growth,Positive
+rais*,growth,Positive
+rallying,growth,Positive
+resilient,growth,Positive
+rise,growth,Positive
+risi*,growth,Positive
+robust ,growth,Positive
+safeguard ,growth,Positive
+secure,growth,Positive
+soar,growth,Positive
+solid ,growth,Positive
+solvent,growth,Positive
+sound,growth,Positive
+stable ,growth,Positive
+steady,growth,Positive
+stimul*,growth,Positive
+strengthen,growth,Positive
+strong ,growth,Positive
+success*,growth,Positive
+support* ,growth,Positive
+surge,growth,Positive
+sustainable,growth,Positive
+swift* ,growth,Positive
+unconventional*,growth,Positive
+upward,growth,Positive
+favorabl*,growth,Positive
+volitil*,growth,Negative
+uplifting,growth,Positive
+cautio*,instrument* ,Negative
+collaps*,instrument* ,Negative
+concern*,instrument* ,Negative
+dampen*,instrument* ,Negative
+decelerat*,instrument* ,Negative
+declin*,instrument* ,Negative
+decreas*,instrument* ,Negative
+delay*,instrument* ,Negative
+depress*,instrument* ,Negative
+destabili*,instrument* ,Negative
+deteriorat*,instrument* ,Negative
+devalu*,instrument* ,Negative
+diffic*,instrument* ,Negative
+diminish*,instrument* ,Negative
+disappear*,instrument* ,Negative
+disorderl*,instrument* ,Negative
+downside,instrument* ,Negative
+downward ,instrument* ,Negative
+fall*,instrument* ,Negative
+fragil*,instrument* ,Negative
+limit ,instrument* ,Negative
+low*,instrument* ,Negative
+negative,instrument* ,Negative
+plummet*,instrument* ,Negative
+poor,instrument* ,Negative
+precaution*,instrument* ,Negative
+regulator,instrument* ,Negative
+scrutinize*,instrument* ,Negative
+severe,instrument* ,Negative
+slack,instrument* ,Negative
+slow,instrument* ,Negative
+sluggish,instrument* ,Negative
+small*,instrument* ,Negative
+speculative*,instrument* ,Negative
+struggling,instrument* ,Negative
+subdued,instrument* ,Negative
+supervis*,instrument* ,Negative
+taper*,instrument* ,Negative
+turbulent ,instrument* ,Negative
+uncertain*,instrument* ,Negative
+unfavourabl*,instrument* ,Negative
+unstable,instrument* ,Negative
+unsustainable,instrument* ,Negative
+weak*,instrument* ,Negative
+worse*,instrument* ,Negative
+unfavourabl*,instrument* ,Negative
+accelerat*,instrument* ,Positive
+accomodate,instrument* ,Positive
+better,instrument* ,Positive
+bounce back,instrument* ,Positive
+enhance,instrument* ,Positive
+ensure,instrument* ,Positive
+expand*,instrument* ,Positive
+fast*,instrument* ,Positive
+favourabl*,instrument* ,Positive
+firm*,instrument* ,Positive
+great*,instrument* ,Positive
+high ,instrument* ,Positive
+improv*,instrument* ,Positive
+increas*,instrument* ,Positive
+invigorate,instrument* ,Positive
+larg*,instrument* ,Positive
+lift,instrument* ,Positive
+positive ,instrument* ,Positive
+rais*,instrument* ,Positive
+rallying,instrument* ,Positive
+resilient,instrument* ,Positive
+rise,instrument* ,Positive
+risi*,instrument* ,Positive
+robust ,instrument* ,Positive
+safeguard ,instrument* ,Positive
+secure,instrument* ,Positive
+soar,instrument* ,Positive
+solid ,instrument* ,Positive
+solvent,instrument* ,Positive
+sound,instrument* ,Positive
+stable ,instrument* ,Positive
+steady,instrument* ,Positive
+stimul*,instrument* ,Positive
+strengthen,instrument* ,Positive
+strong ,instrument* ,Positive
+success*,instrument* ,Positive
+support* ,instrument* ,Positive
+surge,instrument* ,Positive
+sustainable,instrument* ,Positive
+swift* ,instrument* ,Positive
+unconventional*,instrument* ,Positive
+upward,instrument* ,Positive
+favorabl*,instrument* ,Positive
+volitil*,instrument* ,Negative
+uplifting,instrument* ,Positive
+cautio*,investment,Negative
+collaps*,investment,Negative
+concern*,investment,Negative
+dampen*,investment,Negative
+decelerat*,investment,Negative
+declin*,investment,Negative
+decreas*,investment,Negative
+delay*,investment,Negative
+depress*,investment,Negative
+destabili*,investment,Negative
+deteriorat*,investment,Negative
+devalu*,investment,Negative
+diffic*,investment,Negative
+diminish*,investment,Negative
+disappear*,investment,Negative
+disorderl*,investment,Negative
+downside,investment,Negative
+downward ,investment,Negative
+fall*,investment,Negative
+fragil*,investment,Negative
+limit ,investment,Negative
+low*,investment,Negative
+negative,investment,Negative
+plummet*,investment,Negative
+poor,investment,Negative
+precaution*,investment,Negative
+regulator,investment,Negative
+scrutinize*,investment,Negative
+severe,investment,Negative
+slack,investment,Negative
+slow,investment,Negative
+sluggish,investment,Negative
+small*,investment,Negative
+speculative*,investment,Negative
+struggling,investment,Negative
+subdued,investment,Negative
+supervis*,investment,Negative
+taper*,investment,Negative
+turbulent ,investment,Negative
+uncertain*,investment,Negative
+unfavourabl*,investment,Negative
+unstable,investment,Negative
+unsustainable,investment,Negative
+weak*,investment,Negative
+worse*,investment,Negative
+unfavourabl*,investment,Negative
+accelerat*,investment,Positive
+accomodate,investment,Positive
+better,investment,Positive
+bounce back,investment,Positive
+enhance,investment,Positive
+ensure,investment,Positive
+expand*,investment,Positive
+fast*,investment,Positive
+favourabl*,investment,Positive
+firm*,investment,Positive
+great*,investment,Positive
+high ,investment,Positive
+improv*,investment,Positive
+increas*,investment,Positive
+invigorate,investment,Positive
+larg*,investment,Positive
+lift,investment,Positive
+positive ,investment,Positive
+rais*,investment,Positive
+rallying,investment,Positive
+resilient,investment,Positive
+rise,investment,Positive
+risi*,investment,Positive
+robust ,investment,Positive
+safeguard ,investment,Positive
+secure,investment,Positive
+soar,investment,Positive
+solid ,investment,Positive
+solvent,investment,Positive
+sound,investment,Positive
+stable ,investment,Positive
+steady,investment,Positive
+stimul*,investment,Positive
+strengthen,investment,Positive
+strong ,investment,Positive
+success*,investment,Positive
+support* ,investment,Positive
+surge,investment,Positive
+sustainable,investment,Positive
+swift* ,investment,Positive
+unconventional*,investment,Positive
+upward,investment,Positive
+favorabl*,investment,Positive
+volitil*,investment,Negative
+uplifting,investment,Positive
+cautio*,investor*,Negative
+collaps*,investor*,Negative
+concern*,investor*,Negative
+dampen*,investor*,Negative
+decelerat*,investor*,Negative
+declin*,investor*,Negative
+decreas*,investor*,Negative
+delay*,investor*,Negative
+depress*,investor*,Negative
+destabili*,investor*,Negative
+deteriorat*,investor*,Negative
+devalu*,investor*,Negative
+diffic*,investor*,Negative
+diminish*,investor*,Negative
+disappear*,investor*,Negative
+disorderl*,investor*,Negative
+downside,investor*,Negative
+downward ,investor*,Negative
+fall*,investor*,Negative
+fragil*,investor*,Negative
+limit ,investor*,Negative
+low*,investor*,Negative
+negative,investor*,Negative
+plummet*,investor*,Negative
+poor,investor*,Negative
+precaution*,investor*,Negative
+regulator,investor*,Negative
+scrutinize*,investor*,Negative
+severe,investor*,Negative
+slack,investor*,Negative
+slow,investor*,Negative
+sluggish,investor*,Negative
+small*,investor*,Negative
+speculative*,investor*,Negative
+struggling,investor*,Negative
+subdued,investor*,Negative
+supervis*,investor*,Negative
+taper*,investor*,Negative
+turbulent ,investor*,Negative
+uncertain*,investor*,Negative
+unfavourabl*,investor*,Negative
+unstable,investor*,Negative
+unsustainable,investor*,Negative
+weak*,investor*,Negative
+worse*,investor*,Negative
+unfavourabl*,investor*,Negative
+accelerat*,investor*,Positive
+accomodate,investor*,Positive
+better,investor*,Positive
+bounce back,investor*,Positive
+enhance,investor*,Positive
+ensure,investor*,Positive
+expand*,investor*,Positive
+fast*,investor*,Positive
+favourabl*,investor*,Positive
+firm*,investor*,Positive
+great*,investor*,Positive
+high ,investor*,Positive
+improv*,investor*,Positive
+increas*,investor*,Positive
+invigorate,investor*,Positive
+larg*,investor*,Positive
+lift,investor*,Positive
+positive ,investor*,Positive
+rais*,investor*,Positive
+rallying,investor*,Positive
+resilient,investor*,Positive
+rise,investor*,Positive
+risi*,investor*,Positive
+robust ,investor*,Positive
+safeguard ,investor*,Positive
+secure,investor*,Positive
+soar,investor*,Positive
+solid ,investor*,Positive
+solvent,investor*,Positive
+sound,investor*,Positive
+stable ,investor*,Positive
+steady,investor*,Positive
+stimul*,investor*,Positive
+strengthen,investor*,Positive
+strong ,investor*,Positive
+success*,investor*,Positive
+support* ,investor*,Positive
+surge,investor*,Positive
+sustainable,investor*,Positive
+swift* ,investor*,Positive
+unconventional*,investor*,Positive
+upward,investor*,Positive
+favorabl*,investor*,Positive
+volitil*,investor*,Negative
+uplifting,investor*,Positive
+cautio*,liquidity,Negative
+collaps*,liquidity,Negative
+concern*,liquidity,Negative
+dampen*,liquidity,Negative
+decelerat*,liquidity,Negative
+declin*,liquidity,Negative
+decreas*,liquidity,Negative
+delay*,liquidity,Negative
+depress*,liquidity,Negative
+destabili*,liquidity,Negative
+deteriorat*,liquidity,Negative
+devalu*,liquidity,Negative
+diffic*,liquidity,Negative
+diminish*,liquidity,Negative
+disappear*,liquidity,Negative
+disorderl*,liquidity,Negative
+downside,liquidity,Negative
+downward ,liquidity,Negative
+fall*,liquidity,Negative
+fragil*,liquidity,Negative
+limit ,liquidity,Negative
+low*,liquidity,Negative
+negative,liquidity,Negative
+plummet*,liquidity,Negative
+poor,liquidity,Negative
+precaution*,liquidity,Negative
+regulator,liquidity,Negative
+scrutinize*,liquidity,Negative
+severe,liquidity,Negative
+slack,liquidity,Negative
+slow,liquidity,Negative
+sluggish,liquidity,Negative
+small*,liquidity,Negative
+speculative*,liquidity,Negative
+struggling,liquidity,Negative
+subdued,liquidity,Negative
+supervis*,liquidity,Negative
+taper*,liquidity,Negative
+turbulent ,liquidity,Negative
+uncertain*,liquidity,Negative
+unfavourabl*,liquidity,Negative
+unstable,liquidity,Negative
+unsustainable,liquidity,Negative
+weak*,liquidity,Negative
+worse*,liquidity,Negative
+unfavourabl*,liquidity,Negative
+accelerat*,liquidity,Positive
+accomodate,liquidity,Positive
+better,liquidity,Positive
+bounce back,liquidity,Positive
+enhance,liquidity,Positive
+ensure,liquidity,Positive
+expand*,liquidity,Positive
+fast*,liquidity,Positive
+favourabl*,liquidity,Positive
+firm*,liquidity,Positive
+great*,liquidity,Positive
+high ,liquidity,Positive
+improv*,liquidity,Positive
+increas*,liquidity,Positive
+invigorate,liquidity,Positive
+larg*,liquidity,Positive
+lift,liquidity,Positive
+positive ,liquidity,Positive
+rais*,liquidity,Positive
+rallying,liquidity,Positive
+resilient,liquidity,Positive
+rise,liquidity,Positive
+risi*,liquidity,Positive
+robust ,liquidity,Positive
+safeguard ,liquidity,Positive
+secure,liquidity,Positive
+soar,liquidity,Positive
+solid ,liquidity,Positive
+solvent,liquidity,Positive
+sound,liquidity,Positive
+stable ,liquidity,Positive
+steady,liquidity,Positive
+stimul*,liquidity,Positive
+strengthen,liquidity,Positive
+strong ,liquidity,Positive
+success*,liquidity,Positive
+support* ,liquidity,Positive
+surge,liquidity,Positive
+sustainable,liquidity,Positive
+swift* ,liquidity,Positive
+unconventional*,liquidity,Positive
+upward,liquidity,Positive
+favorabl*,liquidity,Positive
+volitil*,liquidity,Negative
+uplifting,liquidity,Positive
+cautio*,market*,Negative
+collaps*,market*,Negative
+concern*,market*,Negative
+dampen*,market*,Negative
+decelerat*,market*,Negative
+declin*,market*,Negative
+decreas*,market*,Negative
+delay*,market*,Negative
+depress*,market*,Negative
+destabili*,market*,Negative
+deteriorat*,market*,Negative
+devalu*,market*,Negative
+diffic*,market*,Negative
+diminish*,market*,Negative
+disappear*,market*,Negative
+disorderl*,market*,Negative
+downside,market*,Negative
+downward ,market*,Negative
+fall*,market*,Negative
+fragil*,market*,Negative
+limit ,market*,Negative
+low*,market*,Negative
+negative,market*,Negative
+plummet*,market*,Negative
+poor,market*,Negative
+precaution*,market*,Negative
+regulator,market*,Negative
+scrutinize*,market*,Negative
+severe,market*,Negative
+slack,market*,Negative
+slow,market*,Negative
+sluggish,market*,Negative
+small*,market*,Negative
+speculative*,market*,Negative
+struggling,market*,Negative
+subdued,market*,Negative
+supervis*,market*,Negative
+taper*,market*,Negative
+turbulent ,market*,Negative
+uncertain*,market*,Negative
+unfavourabl*,market*,Negative
+unstable,market*,Negative
+unsustainable,market*,Negative
+weak*,market*,Negative
+worse*,market*,Negative
+unfavourabl*,market*,Negative
+accelerat*,market*,Positive
+accomodate,market*,Positive
+better,market*,Positive
+bounce back,market*,Positive
+enhance,market*,Positive
+ensure,market*,Positive
+expand*,market*,Positive
+fast*,market*,Positive
+favourabl*,market*,Positive
+firm*,market*,Positive
+great*,market*,Positive
+high ,market*,Positive
+improv*,market*,Positive
+increas*,market*,Positive
+invigorate,market*,Positive
+larg*,market*,Positive
+lift,market*,Positive
+positive ,market*,Positive
+rais*,market*,Positive
+rallying,market*,Positive
+resilient,market*,Positive
+rise,market*,Positive
+risi*,market*,Positive
+robust ,market*,Positive
+safeguard ,market*,Positive
+secure,market*,Positive
+soar,market*,Positive
+solid ,market*,Positive
+solvent,market*,Positive
+sound,market*,Positive
+stable ,market*,Positive
+steady,market*,Positive
+stimul*,market*,Positive
+strengthen,market*,Positive
+strong ,market*,Positive
+success*,market*,Positive
+support* ,market*,Positive
+surge,market*,Positive
+sustainable,market*,Positive
+swift* ,market*,Positive
+unconventional*,market*,Positive
+upward,market*,Positive
+favorabl*,market*,Positive
+volitil*,market*,Negative
+uplifting,market*,Positive
+,overheat*,Negative
+cautio*,portfolio ,Negative
+collaps*,portfolio ,Negative
+concern*,portfolio ,Negative
+dampen*,portfolio ,Negative
+decelerat*,portfolio ,Negative
+declin*,portfolio ,Negative
+decreas*,portfolio ,Negative
+delay*,portfolio ,Negative
+depress*,portfolio ,Negative
+destabili*,portfolio ,Negative
+deteriorat*,portfolio ,Negative
+devalu*,portfolio ,Negative
+diffic*,portfolio ,Negative
+diminish*,portfolio ,Negative
+disappear*,portfolio ,Negative
+disorderl*,portfolio ,Negative
+downside,portfolio ,Negative
+downward ,portfolio ,Negative
+fall*,portfolio ,Negative
+fragil*,portfolio ,Negative
+limit ,portfolio ,Negative
+low*,portfolio ,Negative
+negative,portfolio ,Negative
+plummet*,portfolio ,Negative
+poor,portfolio ,Negative
+precaution*,portfolio ,Negative
+regulator,portfolio ,Negative
+scrutinize*,portfolio ,Negative
+severe,portfolio ,Negative
+slack,portfolio ,Negative
+slow,portfolio ,Negative
+sluggish,portfolio ,Negative
+small*,portfolio ,Negative
+speculative*,portfolio ,Negative
+struggling,portfolio ,Negative
+subdued,portfolio ,Negative
+supervis*,portfolio ,Negative
+taper*,portfolio ,Negative
+turbulent ,portfolio ,Negative
+uncertain*,portfolio ,Negative
+unfavourabl*,portfolio ,Negative
+unstable,portfolio ,Negative
+unsustainable,portfolio ,Negative
+weak*,portfolio ,Negative
+worse*,portfolio ,Negative
+unfavourabl*,portfolio ,Negative
+accelerat*,portfolio ,Positive
+accomodate,portfolio ,Positive
+better,portfolio ,Positive
+bounce back,portfolio ,Positive
+enhance,portfolio ,Positive
+ensure,portfolio ,Positive
+expand*,portfolio ,Positive
+fast*,portfolio ,Positive
+favourabl*,portfolio ,Positive
+firm*,portfolio ,Positive
+great*,portfolio ,Positive
+high ,portfolio ,Positive
+improv*,portfolio ,Positive
+increas*,portfolio ,Positive
+invigorate,portfolio ,Positive
+larg*,portfolio ,Positive
+lift,portfolio ,Positive
+positive ,portfolio ,Positive
+rais*,portfolio ,Positive
+rallying,portfolio ,Positive
+resilient,portfolio ,Positive
+rise,portfolio ,Positive
+risi*,portfolio ,Positive
+robust ,portfolio ,Positive
+safeguard ,portfolio ,Positive
+secure,portfolio ,Positive
+soar,portfolio ,Positive
+solid ,portfolio ,Positive
+solvent,portfolio ,Positive
+sound,portfolio ,Positive
+stable ,portfolio ,Positive
+steady,portfolio ,Positive
+stimul*,portfolio ,Positive
+strengthen,portfolio ,Positive
+strong ,portfolio ,Positive
+success*,portfolio ,Positive
+support* ,portfolio ,Positive
+surge,portfolio ,Positive
+sustainable,portfolio ,Positive
+swift* ,portfolio ,Positive
+unconventional*,portfolio ,Positive
+upward,portfolio ,Positive
+favorabl*,portfolio ,Positive
+volitil*,portfolio ,Negative
+uplifting,portfolio ,Positive
+cautio*,principal payment,Negative
+collaps*,principal payment,Negative
+concern*,principal payment,Negative
+dampen*,principal payment,Negative
+decelerat*,principal payment,Negative
+declin*,principal payment,Negative
+decreas*,principal payment,Negative
+delay*,principal payment,Negative
+depress*,principal payment,Negative
+destabili*,principal payment,Negative
+deteriorat*,principal payment,Negative
+devalu*,principal payment,Negative
+diffic*,principal payment,Negative
+diminish*,principal payment,Negative
+disappear*,principal payment,Negative
+disorderl*,principal payment,Negative
+downside,principal payment,Negative
+downward ,principal payment,Negative
+fall*,principal payment,Negative
+fragil*,principal payment,Negative
+limit ,principal payment,Negative
+low*,principal payment,Negative
+negative,principal payment,Negative
+plummet*,principal payment,Negative
+poor,principal payment,Negative
+precaution*,principal payment,Negative
+regulator,principal payment,Negative
+scrutinize*,principal payment,Negative
+severe,principal payment,Negative
+slack,principal payment,Negative
+slow,principal payment,Negative
+sluggish,principal payment,Negative
+small*,principal payment,Negative
+speculative*,principal payment,Negative
+struggling,principal payment,Negative
+subdued,principal payment,Negative
+supervis*,principal payment,Negative
+taper*,principal payment,Negative
+turbulent ,principal payment,Negative
+uncertain*,principal payment,Negative
+unfavourabl*,principal payment,Negative
+unstable,principal payment,Negative
+unsustainable,principal payment,Negative
+weak*,principal payment,Negative
+worse*,principal payment,Negative
+unfavourabl*,principal payment,Negative
+accelerat*,principal payment,Positive
+accomodate,principal payment,Positive
+better,principal payment,Positive
+bounce back,principal payment,Positive
+enhance,principal payment,Positive
+ensure,principal payment,Positive
+expand*,principal payment,Positive
+fast*,principal payment,Positive
+favourabl*,principal payment,Positive
+firm*,principal payment,Positive
+great*,principal payment,Positive
+high ,principal payment,Positive
+improv*,principal payment,Positive
+increas*,principal payment,Positive
+invigorate,principal payment,Positive
+larg*,principal payment,Positive
+lift,principal payment,Positive
+positive ,principal payment,Positive
+rais*,principal payment,Positive
+rallying,principal payment,Positive
+resilient,principal payment,Positive
+rise,principal payment,Positive
+risi*,principal payment,Positive
+robust ,principal payment,Positive
+safeguard ,principal payment,Positive
+secure,principal payment,Positive
+soar,principal payment,Positive
+solid ,principal payment,Positive
+solvent,principal payment,Positive
+sound,principal payment,Positive
+stable ,principal payment,Positive
+steady,principal payment,Positive
+stimul*,principal payment,Positive
+strengthen,principal payment,Positive
+strong ,principal payment,Positive
+success*,principal payment,Positive
+support* ,principal payment,Positive
+surge,principal payment,Positive
+sustainable,principal payment,Positive
+swift* ,principal payment,Positive
+unconventional*,principal payment,Positive
+upward,principal payment,Positive
+favorabl*,principal payment,Positive
+volitil*,principal payment,Negative
+uplifting,principal payment,Positive
+cautio*,profit*,Negative
+collaps*,profit*,Negative
+concern*,profit*,Negative
+dampen*,profit*,Negative
+decelerat*,profit*,Negative
+declin*,profit*,Negative
+decreas*,profit*,Negative
+delay*,profit*,Negative
+depress*,profit*,Negative
+destabili*,profit*,Negative
+deteriorat*,profit*,Negative
+devalu*,profit*,Negative
+diffic*,profit*,Negative
+diminish*,profit*,Negative
+disappear*,profit*,Negative
+disorderl*,profit*,Negative
+downside,profit*,Negative
+downward ,profit*,Negative
+fall*,profit*,Negative
+fragil*,profit*,Negative
+limit ,profit*,Negative
+low*,profit*,Negative
+negative,profit*,Negative
+plummet*,profit*,Negative
+poor,profit*,Negative
+precaution*,profit*,Negative
+regulator,profit*,Negative
+scrutinize*,profit*,Negative
+severe,profit*,Negative
+slack,profit*,Negative
+slow,profit*,Negative
+sluggish,profit*,Negative
+small*,profit*,Negative
+speculative*,profit*,Negative
+struggling,profit*,Negative
+subdued,profit*,Negative
+supervis*,profit*,Negative
+taper*,profit*,Negative
+turbulent ,profit*,Negative
+uncertain*,profit*,Negative
+unfavourabl*,profit*,Negative
+unstable,profit*,Negative
+unsustainable,profit*,Negative
+weak*,profit*,Negative
+worse*,profit*,Negative
+unfavourabl*,profit*,Negative
+accelerat*,profit*,Positive
+accomodate,profit*,Positive
+better,profit*,Positive
+bounce back,profit*,Positive
+enhance,profit*,Positive
+ensure,profit*,Positive
+expand*,profit*,Positive
+fast*,profit*,Positive
+favourabl*,profit*,Positive
+firm*,profit*,Positive
+great*,profit*,Positive
+high ,profit*,Positive
+improv*,profit*,Positive
+increas*,profit*,Positive
+invigorate,profit*,Positive
+larg*,profit*,Positive
+lift,profit*,Positive
+positive ,profit*,Positive
+rais*,profit*,Positive
+rallying,profit*,Positive
+resilient,profit*,Positive
+rise,profit*,Positive
+risi*,profit*,Positive
+robust ,profit*,Positive
+safeguard ,profit*,Positive
+secure,profit*,Positive
+soar,profit*,Positive
+solid ,profit*,Positive
+solvent,profit*,Positive
+sound,profit*,Positive
+stable ,profit*,Positive
+steady,profit*,Positive
+stimul*,profit*,Positive
+strengthen,profit*,Positive
+strong ,profit*,Positive
+success*,profit*,Positive
+support* ,profit*,Positive
+surge,profit*,Positive
+sustainable,profit*,Positive
+swift* ,profit*,Positive
+unconventional*,profit*,Positive
+upward,profit*,Positive
+favorabl*,profit*,Positive
+volitil*,profit*,Negative
+uplifting,profit*,Positive
+,recession ,Negative
+cautio*,recovery,Negative
+collaps*,recovery,Negative
+concern*,recovery,Negative
+dampen*,recovery,Negative
+decelerat*,recovery,Negative
+declin*,recovery,Negative
+decreas*,recovery,Negative
+delay*,recovery,Negative
+depress*,recovery,Negative
+destabili*,recovery,Negative
+deteriorat*,recovery,Negative
+devalu*,recovery,Negative
+diffic*,recovery,Negative
+diminish*,recovery,Negative
+disappear*,recovery,Negative
+disorderl*,recovery,Negative
+downside,recovery,Negative
+downward ,recovery,Negative
+fall*,recovery,Negative
+fragil*,recovery,Negative
+limit ,recovery,Negative
+low*,recovery,Negative
+negative,recovery,Negative
+plummet*,recovery,Negative
+poor,recovery,Negative
+precaution*,recovery,Negative
+regulator,recovery,Negative
+scrutinize*,recovery,Negative
+severe,recovery,Negative
+slack,recovery,Negative
+slow,recovery,Negative
+sluggish,recovery,Negative
+small*,recovery,Negative
+speculative*,recovery,Negative
+struggling,recovery,Negative
+subdued,recovery,Negative
+supervis*,recovery,Negative
+taper*,recovery,Negative
+turbulent ,recovery,Negative
+uncertain*,recovery,Negative
+unfavourabl*,recovery,Negative
+unstable,recovery,Negative
+unsustainable,recovery,Negative
+weak*,recovery,Negative
+worse*,recovery,Negative
+unfavourabl*,recovery,Negative
+accelerat*,recovery,Positive
+accomodate,recovery,Positive
+better,recovery,Positive
+bounce back,recovery,Positive
+enhance,recovery,Positive
+ensure,recovery,Positive
+expand*,recovery,Positive
+fast*,recovery,Positive
+favourabl*,recovery,Positive
+firm*,recovery,Positive
+great*,recovery,Positive
+high ,recovery,Positive
+improv*,recovery,Positive
+increas*,recovery,Positive
+invigorate,recovery,Positive
+larg*,recovery,Positive
+lift,recovery,Positive
+positive ,recovery,Positive
+rais*,recovery,Positive
+rallying,recovery,Positive
+resilient,recovery,Positive
+rise,recovery,Positive
+risi*,recovery,Positive
+robust ,recovery,Positive
+safeguard ,recovery,Positive
+secure,recovery,Positive
+soar,recovery,Positive
+solid ,recovery,Positive
+solvent,recovery,Positive
+sound,recovery,Positive
+stable ,recovery,Positive
+steady,recovery,Positive
+stimul*,recovery,Positive
+strengthen,recovery,Positive
+strong ,recovery,Positive
+success*,recovery,Positive
+support* ,recovery,Positive
+surge,recovery,Positive
+sustainable,recovery,Positive
+swift* ,recovery,Positive
+unconventional*,recovery,Positive
+upward,recovery,Positive
+favorabl*,recovery,Positive
+volitil*,recovery,Negative
+uplifting,recovery,Positive
+cautio*,refinancing ,Negative
+collaps*,refinancing ,Negative
+concern*,refinancing ,Negative
+dampen*,refinancing ,Negative
+decelerat*,refinancing ,Negative
+declin*,refinancing ,Negative
+decreas*,refinancing ,Negative
+delay*,refinancing ,Negative
+depress*,refinancing ,Negative
+destabili*,refinancing ,Negative
+deteriorat*,refinancing ,Negative
+devalu*,refinancing ,Negative
+diffic*,refinancing ,Negative
+diminish*,refinancing ,Negative
+disappear*,refinancing ,Negative
+disorderl*,refinancing ,Negative
+downside,refinancing ,Negative
+downward ,refinancing ,Negative
+fall*,refinancing ,Negative
+fragil*,refinancing ,Negative
+limit ,refinancing ,Negative
+low*,refinancing ,Negative
+negative,refinancing ,Negative
+plummet*,refinancing ,Negative
+poor,refinancing ,Negative
+precaution*,refinancing ,Negative
+regulator,refinancing ,Negative
+scrutinize*,refinancing ,Negative
+severe,refinancing ,Negative
+slack,refinancing ,Negative
+slow,refinancing ,Negative
+sluggish,refinancing ,Negative
+small*,refinancing ,Negative
+speculative*,refinancing ,Negative
+struggling,refinancing ,Negative
+subdued,refinancing ,Negative
+supervis*,refinancing ,Negative
+taper*,refinancing ,Negative
+turbulent ,refinancing ,Negative
+uncertain*,refinancing ,Negative
+unfavourabl*,refinancing ,Negative
+unstable,refinancing ,Negative
+unsustainable,refinancing ,Negative
+weak*,refinancing ,Negative
+worse*,refinancing ,Negative
+unfavourabl*,refinancing ,Negative
+accelerat*,refinancing ,Positive
+accomodate,refinancing ,Positive
+better,refinancing ,Positive
+bounce back,refinancing ,Positive
+enhance,refinancing ,Positive
+ensure,refinancing ,Positive
+expand*,refinancing ,Positive
+fast*,refinancing ,Positive
+favourabl*,refinancing ,Positive
+firm*,refinancing ,Positive
+great*,refinancing ,Positive
+high ,refinancing ,Positive
+improv*,refinancing ,Positive
+increas*,refinancing ,Positive
+invigorate,refinancing ,Positive
+larg*,refinancing ,Positive
+lift,refinancing ,Positive
+positive ,refinancing ,Positive
+rais*,refinancing ,Positive
+rallying,refinancing ,Positive
+resilient,refinancing ,Positive
+rise,refinancing ,Positive
+risi*,refinancing ,Positive
+robust ,refinancing ,Positive
+safeguard ,refinancing ,Positive
+secure,refinancing ,Positive
+soar,refinancing ,Positive
+solid ,refinancing ,Positive
+solvent,refinancing ,Positive
+sound,refinancing ,Positive
+stable ,refinancing ,Positive
+steady,refinancing ,Positive
+stimul*,refinancing ,Positive
+strengthen,refinancing ,Positive
+strong ,refinancing ,Positive
+success*,refinancing ,Positive
+support* ,refinancing ,Positive
+surge,refinancing ,Positive
+sustainable,refinancing ,Positive
+swift* ,refinancing ,Positive
+unconventional*,refinancing ,Positive
+upward,refinancing ,Positive
+favorabl*,refinancing ,Positive
+volitil*,refinancing ,Negative
+uplifting,refinancing ,Positive
+cautio*,reinvestment* ,Negative
+collaps*,reinvestment* ,Negative
+concern*,reinvestment* ,Negative
+dampen*,reinvestment* ,Negative
+decelerat*,reinvestment* ,Negative
+declin*,reinvestment* ,Negative
+decreas*,reinvestment* ,Negative
+delay*,reinvestment* ,Negative
+depress*,reinvestment* ,Negative
+destabili*,reinvestment* ,Negative
+deteriorat*,reinvestment* ,Negative
+devalu*,reinvestment* ,Negative
+diffic*,reinvestment* ,Negative
+diminish*,reinvestment* ,Negative
+disappear*,reinvestment* ,Negative
+disorderl*,reinvestment* ,Negative
+downside,reinvestment* ,Negative
+downward ,reinvestment* ,Negative
+fall*,reinvestment* ,Negative
+fragil*,reinvestment* ,Negative
+limit ,reinvestment* ,Negative
+low*,reinvestment* ,Negative
+negative,reinvestment* ,Negative
+plummet*,reinvestment* ,Negative
+poor,reinvestment* ,Negative
+precaution*,reinvestment* ,Negative
+regulator,reinvestment* ,Negative
+scrutinize*,reinvestment* ,Negative
+severe,reinvestment* ,Negative
+slack,reinvestment* ,Negative
+slow,reinvestment* ,Negative
+sluggish,reinvestment* ,Negative
+small*,reinvestment* ,Negative
+speculative*,reinvestment* ,Negative
+struggling,reinvestment* ,Negative
+subdued,reinvestment* ,Negative
+supervis*,reinvestment* ,Negative
+taper*,reinvestment* ,Negative
+turbulent ,reinvestment* ,Negative
+uncertain*,reinvestment* ,Negative
+unfavourabl*,reinvestment* ,Negative
+unstable,reinvestment* ,Negative
+unsustainable,reinvestment* ,Negative
+weak*,reinvestment* ,Negative
+worse*,reinvestment* ,Negative
+unfavourabl*,reinvestment* ,Negative
+accelerat*,reinvestment* ,Positive
+accomodate,reinvestment* ,Positive
+better,reinvestment* ,Positive
+bounce back,reinvestment* ,Positive
+enhance,reinvestment* ,Positive
+ensure,reinvestment* ,Positive
+expand*,reinvestment* ,Positive
+fast*,reinvestment* ,Positive
+favourabl*,reinvestment* ,Positive
+firm*,reinvestment* ,Positive
+great*,reinvestment* ,Positive
+high ,reinvestment* ,Positive
+improv*,reinvestment* ,Positive
+increas*,reinvestment* ,Positive
+invigorate,reinvestment* ,Positive
+larg*,reinvestment* ,Positive
+lift,reinvestment* ,Positive
+positive ,reinvestment* ,Positive
+rais*,reinvestment* ,Positive
+rallying,reinvestment* ,Positive
+resilient,reinvestment* ,Positive
+rise,reinvestment* ,Positive
+risi*,reinvestment* ,Positive
+robust ,reinvestment* ,Positive
+safeguard ,reinvestment* ,Positive
+secure,reinvestment* ,Positive
+soar,reinvestment* ,Positive
+solid ,reinvestment* ,Positive
+solvent,reinvestment* ,Positive
+sound,reinvestment* ,Positive
+stable ,reinvestment* ,Positive
+steady,reinvestment* ,Positive
+stimul*,reinvestment* ,Positive
+strengthen,reinvestment* ,Positive
+strong ,reinvestment* ,Positive
+success*,reinvestment* ,Positive
+support* ,reinvestment* ,Positive
+surge,reinvestment* ,Positive
+sustainable,reinvestment* ,Positive
+swift* ,reinvestment* ,Positive
+unconventional*,reinvestment* ,Positive
+upward,reinvestment* ,Positive
+favorabl*,reinvestment* ,Positive
+volitil*,reinvestment* ,Negative
+uplifting,reinvestment* ,Positive
+cautio*,return,Negative
+collaps*,return,Negative
+concern*,return,Negative
+dampen*,return,Negative
+decelerat*,return,Negative
+declin*,return,Negative
+decreas*,return,Negative
+delay*,return,Negative
+depress*,return,Negative
+destabili*,return,Negative
+deteriorat*,return,Negative
+devalu*,return,Negative
+diffic*,return,Negative
+diminish*,return,Negative
+disappear*,return,Negative
+disorderl*,return,Negative
+downside,return,Negative
+downward ,return,Negative
+fall*,return,Negative
+fragil*,return,Negative
+limit ,return,Negative
+low*,return,Negative
+negative,return,Negative
+plummet*,return,Negative
+poor,return,Negative
+precaution*,return,Negative
+regulator,return,Negative
+scrutinize*,return,Negative
+severe,return,Negative
+slack,return,Negative
+slow,return,Negative
+sluggish,return,Negative
+small*,return,Negative
+speculative*,return,Negative
+struggling,return,Negative
+subdued,return,Negative
+supervis*,return,Negative
+taper*,return,Negative
+turbulent ,return,Negative
+uncertain*,return,Negative
+unfavourabl*,return,Negative
+unstable,return,Negative
+unsustainable,return,Negative
+weak*,return,Negative
+worse*,return,Negative
+unfavourabl*,return,Negative
+accelerat*,return,Positive
+accomodate,return,Positive
+better,return,Positive
+bounce back,return,Positive
+enhance,return,Positive
+ensure,return,Positive
+expand*,return,Positive
+fast*,return,Positive
+favourabl*,return,Positive
+firm*,return,Positive
+great*,return,Positive
+high ,return,Positive
+improv*,return,Positive
+increas*,return,Positive
+invigorate,return,Positive
+larg*,return,Positive
+lift,return,Positive
+positive ,return,Positive
+rais*,return,Positive
+rallying,return,Positive
+resilient,return,Positive
+rise,return,Positive
+risi*,return,Positive
+robust ,return,Positive
+safeguard ,return,Positive
+secure,return,Positive
+soar,return,Positive
+solid ,return,Positive
+solvent,return,Positive
+sound,return,Positive
+stable ,return,Positive
+steady,return,Positive
+stimul*,return,Positive
+strengthen,return,Positive
+strong ,return,Positive
+success*,return,Positive
+support* ,return,Positive
+surge,return,Positive
+sustainable,return,Positive
+swift* ,return,Positive
+unconventional*,return,Positive
+upward,return,Positive
+favorabl*,return,Positive
+volitil*,return,Negative
+uplifting,return,Positive
+,slowdown,Negative
+cautio*,stock* ,Negative
+collaps*,stock* ,Negative
+concern*,stock* ,Negative
+dampen*,stock* ,Negative
+decelerat*,stock* ,Negative
+declin*,stock* ,Negative
+decreas*,stock* ,Negative
+delay*,stock* ,Negative
+depress*,stock* ,Negative
+destabili*,stock* ,Negative
+deteriorat*,stock* ,Negative
+devalu*,stock* ,Negative
+diffic*,stock* ,Negative
+diminish*,stock* ,Negative
+disappear*,stock* ,Negative
+disorderl*,stock* ,Negative
+downside,stock* ,Negative
+downward ,stock* ,Negative
+fall*,stock* ,Negative
+fragil*,stock* ,Negative
+limit ,stock* ,Negative
+low*,stock* ,Negative
+negative,stock* ,Negative
+plummet*,stock* ,Negative
+poor,stock* ,Negative
+precaution*,stock* ,Negative
+regulator,stock* ,Negative
+scrutinize*,stock* ,Negative
+severe,stock* ,Negative
+slack,stock* ,Negative
+slow,stock* ,Negative
+sluggish,stock* ,Negative
+small*,stock* ,Negative
+speculative*,stock* ,Negative
+struggling,stock* ,Negative
+subdued,stock* ,Negative
+supervis*,stock* ,Negative
+taper*,stock* ,Negative
+turbulent ,stock* ,Negative
+uncertain*,stock* ,Negative
+unfavourabl*,stock* ,Negative
+unstable,stock* ,Negative
+unsustainable,stock* ,Negative
+weak*,stock* ,Negative
+worse*,stock* ,Negative
+unfavourabl*,stock* ,Negative
+accelerat*,stock* ,Positive
+accomodate,stock* ,Positive
+better,stock* ,Positive
+bounce back,stock* ,Positive
+enhance,stock* ,Positive
+ensure,stock* ,Positive
+expand*,stock* ,Positive
+fast*,stock* ,Positive
+favourabl*,stock* ,Positive
+firm*,stock* ,Positive
+great*,stock* ,Positive
+high ,stock* ,Positive
+improv*,stock* ,Positive
+increas*,stock* ,Positive
+invigorate,stock* ,Positive
+larg*,stock* ,Positive
+lift,stock* ,Positive
+positive ,stock* ,Positive
+rais*,stock* ,Positive
+rallying,stock* ,Positive
+resilient,stock* ,Positive
+rise,stock* ,Positive
+risi*,stock* ,Positive
+robust ,stock* ,Positive
+safeguard ,stock* ,Positive
+secure,stock* ,Positive
+soar,stock* ,Positive
+solid ,stock* ,Positive
+solvent,stock* ,Positive
+sound,stock* ,Positive
+stable ,stock* ,Positive
+steady,stock* ,Positive
+stimul*,stock* ,Positive
+strengthen,stock* ,Positive
+strong ,stock* ,Positive
+success*,stock* ,Positive
+support* ,stock* ,Positive
+surge,stock* ,Positive
+sustainable,stock* ,Positive
+swift* ,stock* ,Positive
+unconventional*,stock* ,Positive
+upward,stock* ,Positive
+favorabl*,stock* ,Positive
+volitil*,stock* ,Negative
+uplifting,stock* ,Positive
+,turmoil,Negative
+,upsurge,Positive
+,upswing ,Positive
+,upturn ,Positive
+,vigilan*,Negative
+risk,asset*,Negative
+risk,bank*,Negative
+risk,boom,Negative
+risk,boost,Negative
+risk,credit ,Negative
+risk,cyclical position,Negative
+risk,financial ,Negative
+risk,growth,Negative
+risk,instrument* ,Negative
+risk,investment,Negative
+risk,investor*,Negative
+risk,liquidity,Negative
+risk,market*,Negative
+risk,overheat*,Negative
+risk,portfolio ,Negative
+risk,principal payment,Negative
+risk,profit*,Negative
+risk,recession ,Negative
+risk,recovery,Negative
+speculative,asset*,Negative
+speculative,bank*,Negative
+speculative,boom,Negative
+speculative,boost,Negative
+speculative,credit ,Negative
+speculative,cyclical position,Negative
+speculative,financial ,Negative
+speculative,growth,Negative
+speculative,instrument* ,Negative
+speculative,investment,Negative
+speculative,investor*,Negative
+speculative,liquidity,Negative
+speculative,market*,Negative
+speculative,overheat*,Negative
+speculative,portfolio ,Negative
+speculative,principal payment,Negative
+speculative,profit*,Negative
+speculative,recession ,Negative
+speculative,recovery,Negative
+good,asset*,Positive
+good,bank*,Positive
+good,boom,Positive
+good,boost,Positive
+good,credit ,Positive
+good,cyclical position,Positive
+good,financial ,Positive
+good,growth,Positive
+good,instrument* ,Positive
+good,investment,Positive
+good,investor*,Positive
+good,liquidity,Positive
+good,market*,Positive
+good,overheat*,Positive
+good,portfolio ,Positive
+good,principal payment,Positive
+good,profit*,Positive
+good,recession ,Positive
+good,recovery,Positive

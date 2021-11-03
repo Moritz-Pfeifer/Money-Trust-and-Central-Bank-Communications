@@ -1,0 +1,482 @@
+Adjetives_Verbs,Nouns_Dependent,Adjetive_Type
+assist,citizen*,Positive
+benefit*,citizen*,Positive
+boost,citizen*,Positive
+comfort,citizen*,Positive
+cooperative,citizen*,Positive
+enhance,citizen*,Positive
+expand*,citizen*,Positive
+generous*,citizen*,Positive
+grow*,citizen*,Positive
+help ,citizen*,Positive
+high*,citizen*,Positive
+hike,citizen*,Positive
+improv*,citizen*,Positive
+increas*,citizen*,Positive
+lift,citizen*,Positive
+optimistic,citizen*,Positive
+pleased,citizen*,Positive
+positive,citizen*,Positive
+protect*,citizen*,Positive
+rais*,citizen*,Positive
+risi*,citizen*,Positive
+satisified,citizen*,Positive
+strengthen*,citizen*,Positive
+support ,citizen*,Positive
+surge,citizen*,Positive
+sustain,citizen*,Positive
+united,citizen*,Positive
+uplift,citizen*,Positive
+assist,disposable income ,Positive
+benefit*,disposable income ,Positive
+boost,disposable income ,Positive
+comfort,disposable income ,Positive
+cooperative,disposable income ,Positive
+enhance,disposable income ,Positive
+expand*,disposable income ,Positive
+generous*,disposable income ,Positive
+grow*,disposable income ,Positive
+help ,disposable income ,Positive
+high*,disposable income ,Positive
+hike,disposable income ,Positive
+improv*,disposable income ,Positive
+increas*,disposable income ,Positive
+lift,disposable income ,Positive
+optimistic,disposable income ,Positive
+pleased,disposable income ,Positive
+positive,disposable income ,Positive
+protect*,disposable income ,Positive
+rais*,disposable income ,Positive
+risi*,disposable income ,Positive
+satisified,disposable income ,Positive
+strengthen*,disposable income ,Positive
+support ,disposable income ,Positive
+surge,disposable income ,Positive
+sustain,disposable income ,Positive
+united,disposable income ,Positive
+uplift,disposable income ,Positive
+assist,electorate,Positive
+benefit*,electorate,Positive
+boost,electorate,Positive
+comfort,electorate,Positive
+cooperative,electorate,Positive
+enhance,electorate,Positive
+expand*,electorate,Positive
+generous*,electorate,Positive
+grow*,electorate,Positive
+help ,electorate,Positive
+high*,electorate,Positive
+hike,electorate,Positive
+improv*,electorate,Positive
+increas*,electorate,Positive
+lift,electorate,Positive
+optimistic,electorate,Positive
+pleased,electorate,Positive
+positive,electorate,Positive
+protect*,electorate,Positive
+rais*,electorate,Positive
+risi*,electorate,Positive
+satisified,electorate,Positive
+strengthen*,electorate,Positive
+support ,electorate,Positive
+surge,electorate,Positive
+sustain,electorate,Positive
+united,electorate,Positive
+uplift,electorate,Positive
+assist,household*,Positive
+benefit*,household*,Positive
+boost,household*,Positive
+comfort,household*,Positive
+cooperative,household*,Positive
+enhance,household*,Positive
+expand*,household*,Positive
+generous*,household*,Positive
+grow*,household*,Positive
+help ,household*,Positive
+high*,household*,Positive
+hike,household*,Positive
+improv*,household*,Positive
+increas*,household*,Positive
+lift,household*,Positive
+optimistic,household*,Positive
+pleased,household*,Positive
+positive,household*,Positive
+protect*,household*,Positive
+rais*,household*,Positive
+risi*,household*,Positive
+satisified,household*,Positive
+strengthen*,household*,Positive
+support ,household*,Positive
+surge,household*,Positive
+sustain,household*,Positive
+united,household*,Positive
+uplift,household*,Positive
+assist,pension* ,Positive
+benefit*,pension* ,Positive
+boost,pension* ,Positive
+comfort,pension* ,Positive
+cooperative,pension* ,Positive
+enhance,pension* ,Positive
+expand*,pension* ,Positive
+generous*,pension* ,Positive
+grow*,pension* ,Positive
+help ,pension* ,Positive
+high*,pension* ,Positive
+hike,pension* ,Positive
+improv*,pension* ,Positive
+increas*,pension* ,Positive
+lift,pension* ,Positive
+optimistic,pension* ,Positive
+pleased,pension* ,Positive
+positive,pension* ,Positive
+protect*,pension* ,Positive
+rais*,pension* ,Positive
+risi*,pension* ,Positive
+satisified,pension* ,Positive
+strengthen*,pension* ,Positive
+support ,pension* ,Positive
+surge,pension* ,Positive
+sustain,pension* ,Positive
+united,pension* ,Positive
+uplift,pension* ,Positive
+assist,saver*,Positive
+benefit*,saver*,Positive
+boost,saver*,Positive
+comfort,saver*,Positive
+cooperative,saver*,Positive
+enhance,saver*,Positive
+expand*,saver*,Positive
+generous*,saver*,Positive
+grow*,saver*,Positive
+help ,saver*,Positive
+high*,saver*,Positive
+hike,saver*,Positive
+improv*,saver*,Positive
+increas*,saver*,Positive
+lift,saver*,Positive
+optimistic,saver*,Positive
+pleased,saver*,Positive
+positive,saver*,Positive
+protect*,saver*,Positive
+rais*,saver*,Positive
+risi*,saver*,Positive
+satisified,saver*,Positive
+strengthen*,saver*,Positive
+support ,saver*,Positive
+surge,saver*,Positive
+sustain,saver*,Positive
+united,saver*,Positive
+uplift,saver*,Positive
+assist,saving* ,Positive
+benefit*,saving* ,Positive
+boost,saving* ,Positive
+comfort,saving* ,Positive
+cooperative,saving* ,Positive
+enhance,saving* ,Positive
+expand*,saving* ,Positive
+generous*,saving* ,Positive
+grow*,saving* ,Positive
+help ,saving* ,Positive
+high*,saving* ,Positive
+hike,saving* ,Positive
+improv*,saving* ,Positive
+increas*,saving* ,Positive
+lift,saving* ,Positive
+optimistic,saving* ,Positive
+pleased,saving* ,Positive
+positive,saving* ,Positive
+protect*,saving* ,Positive
+rais*,saving* ,Positive
+risi*,saving* ,Positive
+satisified,saving* ,Positive
+strengthen*,saving* ,Positive
+support ,saving* ,Positive
+surge,saving* ,Positive
+sustain,saving* ,Positive
+united,saving* ,Positive
+uplift,saving* ,Positive
+assist,taxp*,Positive
+benefit*,taxp*,Positive
+boost,taxp*,Positive
+comfort,taxp*,Positive
+cooperative,taxp*,Positive
+enhance,taxp*,Positive
+expand*,taxp*,Positive
+generous*,taxp*,Positive
+grow*,taxp*,Positive
+help ,taxp*,Positive
+high*,taxp*,Positive
+hike,taxp*,Positive
+improv*,taxp*,Positive
+increas*,taxp*,Positive
+lift,taxp*,Positive
+optimistic,taxp*,Positive
+pleased,taxp*,Positive
+positive,taxp*,Positive
+protect*,taxp*,Positive
+rais*,taxp*,Positive
+risi*,taxp*,Positive
+satisified,taxp*,Positive
+strengthen*,taxp*,Positive
+support ,taxp*,Positive
+surge,taxp*,Positive
+sustain,taxp*,Positive
+united,taxp*,Positive
+uplift,taxp*,Positive
+angry,citizen*,Negative
+concerned,citizen*,Negative
+damage*,citizen*,Negative
+declin*,citizen*,Negative
+decreas*,citizen*,Negative
+diminish,citizen*,Negative
+disagreeing,citizen*,Negative
+disapprove,citizen*,Negative
+disillusioned,citizen*,Negative
+displease*,citizen*,Negative
+dissatisfied,citizen*,Negative
+fearful,citizen*,Negative
+frustrate,citizen*,Negative
+hinder,citizen*,Negative
+hurt*,citizen*,Negative
+injure,citizen*,Negative
+insufficient,citizen*,Negative
+low*,citizen*,Negative
+not enough,citizen*,Negative
+opposing,citizen*,Negative
+pessimistic,citizen*,Negative
+protest,citizen*,Negative
+small*,citizen*,Negative
+suffer*,citizen*,Negative
+upset,citizen*,Negative
+weak*,citizen*,Negative
+worried,citizen*,Negative
+worse,citizen*,Negative
+angry,disposable income ,Negative
+concerned,disposable income ,Negative
+damage*,disposable income ,Negative
+declin*,disposable income ,Negative
+decreas*,disposable income ,Negative
+diminish,disposable income ,Negative
+disagreeing,disposable income ,Negative
+disapprove,disposable income ,Negative
+disillusioned,disposable income ,Negative
+displease*,disposable income ,Negative
+dissatisfied,disposable income ,Negative
+fearful,disposable income ,Negative
+frustrate,disposable income ,Negative
+hinder,disposable income ,Negative
+hurt*,disposable income ,Negative
+injure,disposable income ,Negative
+insufficient,disposable income ,Negative
+low*,disposable income ,Negative
+not enough,disposable income ,Negative
+opposing,disposable income ,Negative
+pessimistic,disposable income ,Negative
+protest,disposable income ,Negative
+small*,disposable income ,Negative
+suffer*,disposable income ,Negative
+upset,disposable income ,Negative
+weak*,disposable income ,Negative
+worried,disposable income ,Negative
+worse,disposable income ,Negative
+angry,electorate,Negative
+concerned,electorate,Negative
+damage*,electorate,Negative
+declin*,electorate,Negative
+decreas*,electorate,Negative
+diminish,electorate,Negative
+disagreeing,electorate,Negative
+disapprove,electorate,Negative
+disillusioned,electorate,Negative
+displease*,electorate,Negative
+dissatisfied,electorate,Negative
+fearful,electorate,Negative
+frustrate,electorate,Negative
+hinder,electorate,Negative
+hurt*,electorate,Negative
+injure,electorate,Negative
+insufficient,electorate,Negative
+low*,electorate,Negative
+not enough,electorate,Negative
+opposing,electorate,Negative
+pessimistic,electorate,Negative
+protest,electorate,Negative
+small*,electorate,Negative
+suffer*,electorate,Negative
+upset,electorate,Negative
+weak*,electorate,Negative
+worried,electorate,Negative
+worse,electorate,Negative
+angry,household*,Negative
+concerned,household*,Negative
+damage*,household*,Negative
+declin*,household*,Negative
+decreas*,household*,Negative
+diminish,household*,Negative
+disagreeing,household*,Negative
+disapprove,household*,Negative
+disillusioned,household*,Negative
+displease*,household*,Negative
+dissatisfied,household*,Negative
+fearful,household*,Negative
+frustrate,household*,Negative
+hinder,household*,Negative
+hurt*,household*,Negative
+injure,household*,Negative
+insufficient,household*,Negative
+low*,household*,Negative
+not enough,household*,Negative
+opposing,household*,Negative
+pessimistic,household*,Negative
+protest,household*,Negative
+small*,household*,Negative
+suffer*,household*,Negative
+upset,household*,Negative
+weak*,household*,Negative
+worried,household*,Negative
+worse,household*,Negative
+angry,pension* ,Negative
+concerned,pension* ,Negative
+damage*,pension* ,Negative
+declin*,pension* ,Negative
+decreas*,pension* ,Negative
+diminish,pension* ,Negative
+disagreeing,pension* ,Negative
+disapprove,pension* ,Negative
+disillusioned,pension* ,Negative
+displease*,pension* ,Negative
+dissatisfied,pension* ,Negative
+fearful,pension* ,Negative
+frustrate,pension* ,Negative
+hinder,pension* ,Negative
+hurt*,pension* ,Negative
+injure,pension* ,Negative
+insufficient,pension* ,Negative
+low*,pension* ,Negative
+not enough,pension* ,Negative
+opposing,pension* ,Negative
+pessimistic,pension* ,Negative
+protest,pension* ,Negative
+small*,pension* ,Negative
+suffer*,pension* ,Negative
+upset,pension* ,Negative
+weak*,pension* ,Negative
+worried,pension* ,Negative
+worse,pension* ,Negative
+angry,saver*,Negative
+concerned,saver*,Negative
+damage*,saver*,Negative
+declin*,saver*,Negative
+decreas*,saver*,Negative
+diminish,saver*,Negative
+disagreeing,saver*,Negative
+disapprove,saver*,Negative
+disillusioned,saver*,Negative
+displease*,saver*,Negative
+dissatisfied,saver*,Negative
+fearful,saver*,Negative
+frustrate,saver*,Negative
+hinder,saver*,Negative
+hurt*,saver*,Negative
+injure,saver*,Negative
+insufficient,saver*,Negative
+low*,saver*,Negative
+not enough,saver*,Negative
+opposing,saver*,Negative
+pessimistic,saver*,Negative
+protest,saver*,Negative
+small*,saver*,Negative
+suffer*,saver*,Negative
+upset,saver*,Negative
+weak*,saver*,Negative
+worried,saver*,Negative
+worse,saver*,Negative
+angry,saving* ,Negative
+concerned,saving* ,Negative
+damage*,saving* ,Negative
+declin*,saving* ,Negative
+decreas*,saving* ,Negative
+diminish,saving* ,Negative
+disagreeing,saving* ,Negative
+disapprove,saving* ,Negative
+disillusioned,saving* ,Negative
+displease*,saving* ,Negative
+dissatisfied,saving* ,Negative
+fearful,saving* ,Negative
+frustrate,saving* ,Negative
+hinder,saving* ,Negative
+hurt*,saving* ,Negative
+injure,saving* ,Negative
+insufficient,saving* ,Negative
+low*,saving* ,Negative
+not enough,saving* ,Negative
+opposing,saving* ,Negative
+pessimistic,saving* ,Negative
+protest,saving* ,Negative
+small*,saving* ,Negative
+suffer*,saving* ,Negative
+upset,saving* ,Negative
+weak*,saving* ,Negative
+worried,saving* ,Negative
+worse,saving* ,Negative
+angry,taxp*,Negative
+concerned,taxp*,Negative
+damage*,taxp*,Negative
+declin*,taxp*,Negative
+decreas*,taxp*,Negative
+diminish,taxp*,Negative
+disagreeing,taxp*,Negative
+disapprove,taxp*,Negative
+disillusioned,taxp*,Negative
+displease*,taxp*,Negative
+dissatisfied,taxp*,Negative
+fearful,taxp*,Negative
+frustrate,taxp*,Negative
+hinder,taxp*,Negative
+hurt*,taxp*,Negative
+injure,taxp*,Negative
+insufficient,taxp*,Negative
+low*,taxp*,Negative
+not enough,taxp*,Negative
+opposing,taxp*,Negative
+pessimistic,taxp*,Negative
+protest,taxp*,Negative
+small*,taxp*,Negative
+suffer*,taxp*,Negative
+upset,taxp*,Negative
+weak*,taxp*,Negative
+worried,taxp*,Negative
+worse,taxp*,Negative
+,civic solidarity ,Positive
+,civic unity,Positive
+,civil peace,Positive
+,cohesive societ*,Positive
+,common weal*,Positive
+,commonweal*,Positive
+,peace and quiet,Positive
+,public stability ,Positive
+,public tranquility,Positive
+,social balance,Positive
+,social cohesi*,Positive
+,social harmony,Positive
+,social prosberity,Positive
+,social solidarity,Positive
+,social stability ,Positive
+,breakdown of civil,Negative
+,civil conflict*,Negative
+,civil unrest,Negative
+,civil upheaval,Negative
+,disruption of public order,Negative
+,political upheaval,Negative
+,public disturbance,Negative
+,public indignation,Negative
+,social chaos,Negative
+,social discontent,Negative
+,social ills,Negative
+,social inequalit*,Negative
+,social insecurit*,Negative
+,social instabilit*,Negative
+,social strife ,Negative
+,social tension*,Negative
+,social unrest,Negative
+,social upheaval,Negative

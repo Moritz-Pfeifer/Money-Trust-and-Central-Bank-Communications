@@ -1,0 +1,698 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!--[if IE 6]>
+    <html class="msie6" xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr">
+<![endif]-->
+<!--[if IE 7]>
+    <html class="msie7" xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr">
+<![endif]-->
+<!--[if gte IE 8]>
+    <html class="msie8" xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr">
+<![endif]-->
+<!--[if !IE]><!-->
+<html xml:lang="fr-FR" lang="fr-FR" xmlns="http://www.w3.org/1999/xhtml">
+<!-- <![endif]-->
+<head><script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app105.us.archive.org';v.server_ms=910;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/_static/js/playback.bundle.js?v=R56vIgLu" charset="utf-8"></script>
+<script type="text/javascript" src="/_static/js/wombat.js?v=nWgLpXRB" charset="utf-8"></script>
+<script type="text/javascript">
+if (window._WBWombatInit) {
+  wbinfo = {}
+  wbinfo.url = "https://www.banque-france.fr/accueil.html";
+  wbinfo.timestamp = "20161115042339";
+  wbinfo.request_ts = "20161115042339";
+  wbinfo.prefix = "https://web.archive.org/web/";
+  wbinfo.mod = "if_";
+  wbinfo.is_framed = false;
+  wbinfo.is_live = false;
+  wbinfo.coll = "web";
+  wbinfo.proxy_magic = "";
+  wbinfo.static_prefix = "/_static/";
+  wbinfo.enable_auto_fetch = true;
+  wbinfo.auto_fetch_worker_prefix = "https://web.archive.org/web/";
+  wbinfo.wombat_ts = "20161115042339";
+  wbinfo.wombat_sec = "1479183819";
+  wbinfo.wombat_scheme = "https";
+  wbinfo.wombat_host = "www.banque-france.fr";
+  wbinfo.ignore_prefixes = ["/__wb/",
+                            "/_static/",
+                            "/web/",
+                            "http://analytics.archive.org/",
+                            "https://analytics.archive.org/",
+                            "//analytics.archive.org/",
+                            "http://archive.org/",
+                            "https://archive.org/",
+                            "//archive.org/",
+                            "http://faq.web.archive.org/",
+                            "http://web.archive.org/",
+                            "https://web.archive.org/"
+                            ];
+  wbinfo.wombat_opts = {};
+  window._WBWombatInit(wbinfo);
+}
+__wm.init("https://web.archive.org/web");
+</script>
+<link rel="stylesheet" type="text/css" href="/_static/css/banner-styles.css?v=HyR5oymJ" />
+<link rel="stylesheet" type="text/css" href="/_static/css/iconochive.css?v=qtvMKcIJ" />
+<!-- End Wayback Rewrite JS Include -->
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<!-- 
+	This website is powered by TYPO3 - inspiring people to share!
+	TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU/GPL.
+	TYPO3 is copyright 1998-2016 of Kasper Skaarhoj. Extensions are copyright of their respective owners.
+	Information and contribution at http://typo3.org/
+-->
+
+<base href="https://web.archive.org/web/20161115042339/https://www.banque-france.fr/"/>
+
+<title>Banque de France: Accueil</title>
+<meta name="generator" content="TYPO3 CMS"/>
+
+
+<link rel="stylesheet" type="text/css" href="/web/20161115042339cs_/https://www.banque-france.fr/typo3temp/stylesheet_d5d8242691.css?1430379528" media="all"/>
+<link rel="stylesheet" type="text/css" href="/web/20161115042339cs_/https://www.banque-france.fr/typo3conf/ext/cookiepolicybar/Resources/Public/Css/CookieBar.css?1435762909" media="screen, projection"/>
+<link rel="stylesheet" type="text/css" href="/web/20161115042339cs_/https://www.banque-france.fr/typo3conf/ext/bdf_publication/Resources/Public/CSS/subscription.css?1449759005" media="all"/>
+<link rel="stylesheet" type="text/css" href="/web/20161115042339cs_/https://www.banque-france.fr/fileadmin/www.banque-france.fr/templates/css/base.css?1479143784" media="all"/>
+<link rel="stylesheet" type="text/css" href="/web/20161115042339cs_/https://www.banque-france.fr/fileadmin/www.banque-france.fr/templates/css/jquery-ui-1.11.0.custom.css?1427965376" media="all"/>
+<link rel="stylesheet" type="text/css" href="/web/20161115042339cs_/https://www.banque-france.fr/fileadmin/www.banque-france.fr/templates/css/jquery.dataTables.css?1464259240" media="all"/>
+
+
+
+
+<script src="/web/20161115042339js_/https://www.banque-france.fr/typo3temp/compressor/merged-63c90336439a663ad0ec750dc916f4a5.js?1435764003" type="text/javascript"></script>
+
+<script type="text/javascript">
+/*<![CDATA[*/
+/*_scriptCode*/
+
+			// decrypt helper function
+		function decryptCharcode(n,start,end,offset) {
+			n = n + offset;
+			if (offset > 0 && n > end) {
+				n = start + (n - end - 1);
+			} else if (offset < 0 && n < start) {
+				n = end - (start - n - 1);
+			}
+			return String.fromCharCode(n);
+		}
+			// decrypt string
+		function decryptString(enc,offset) {
+			var dec = "";
+			var len = enc.length;
+			for(var i=0; i < len; i++) {
+				var n = enc.charCodeAt(i);
+				if (n >= 0x2B && n <= 0x3A) {
+					dec += decryptCharcode(n,0x2B,0x3A,offset);	// 0-9 . , - + / :
+				} else if (n >= 0x40 && n <= 0x5A) {
+					dec += decryptCharcode(n,0x40,0x5A,offset);	// A-Z @
+				} else if (n >= 0x61 && n <= 0x7A) {
+					dec += decryptCharcode(n,0x61,0x7A,offset);	// a-z
+				} else {
+					dec += enc.charAt(i);
+				}
+			}
+			return dec;
+		}
+			// decrypt spam-protected emails
+		function linkTo_UnCryptMailto(s) {
+			location.href = decryptString(s,3);
+		}
+		
+
+/*]]>*/
+</script>
+
+
+<link href="https://web.archive.org/web/20161115042339cs_/https://fonts.googleapis.com/css?family=Crimson+Text:regular,bold,bolditalic" rel="stylesheet" type="text/css">    <script type="text/javascript" charset="utf-8">
+        var hasJS = function() {
+            var htmlTag = document.getElementsByTagName('html')[0];
+            htmlTag.className = (htmlTag.className + ' ' || '') + 'hasJS';
+        }();
+    </script><link rel="alternate" type="application/rss+xml" title="RSS" href="accueil/rss.xml" updates.rdf"/>
+
+
+</head>
+<body>
+
+
+    <!-- START : content -->
+    <div id="content"><!--###content### begin -->
+        
+        <p class="accessibility"><a href="https://web.archive.org/web/20161115042339/https://www.banque-france.fr/accueil.html#page">Allez au contenu</a> ,<a href="https://web.archive.org/web/20161115042339/https://www.banque-france.fr/accueil.html#menu">Allez à la navigation</a></p>
+        
+        <!-- START : header -->
+        <div id="header"><!--###header### begin -->
+            <div id="header-inner" class="no-bg"><h1><a href="accueil.html"><img src="/web/20161115042339im_/https://www.banque-france.fr/fileadmin/www.banque-france.fr/templates/img/skin/logo.png" width="207" height="110" class="hack-png" alt="Banque de france"/></a></h1><ul id="lang"><li><a href="accueil.html" title="Accueil" class="on">FR</a></li><li class="last"><a href="en/home.html" title="Home">EN</a></li></ul>
+<script type="text/javascript">
+    var time = 38000;
+    var setBackground = function() {
+        jQuery('#header #background').append('<img src="fileadmin/_processed_/csm_bg-header-01_04_e4cf30d710.png" width="1200" height="125"  class="banner-1" style="display:block;"  alt=""  />');
+jQuery('#header #background').append('<img src="fileadmin/_processed_/csm_bg-header-02_03_845c4ee1b5.png" width="1200" height="125"  class="banner-2" style="display:none;"  alt=""  />');
+jQuery('#header #background').append('<img src="fileadmin/_processed_/csm_bg-header-03_02_975ba47b15.png" width="1220" height="125"  class="banner-3" style="display:none;"  alt=""  />');
+jQuery('#header #background').append('<img src="fileadmin/_processed_/csm_bg-header-04_02_c814793554.png" width="1220" height="125"  class="banner-4" style="display:none;"  alt=""  />');
+jQuery('#header #background').append('<img src="fileadmin/_processed_/csm_bg-header-05_03_9c046473d3.png" width="1200" height="125"  class="banner-5" style="display:none;"  alt=""  />');
+
+    }
+</script>
+</div>
+            
+            <div id="navigation"><!--###navigation### begin -->
+                <div id="nav-inner"><ul id="menu" class="dropdown"><li><a href="la-banque-de-france/informations-sur-les-donnees-personnelles.html" title="La Banque de France" class="item-1">La Banque de France</a><div class="sub_menu"><ul><li><a href="la-banque-de-france/actualites.html" title="Actualités">Actualités</a></li><li><a href="la-banque-de-france/communiques-et-discours-des-autorites-de-la-banque.html" title="Communiqués et discours des autorités de la Banque">Communiqués et discours des autorités de la Banque</a></li><li><a href="la-banque-de-france/organisation.html" title="Organisation">Organisation</a></li><li><a href="la-banque-de-france/missions.html" title="Missions">Missions</a></li><li><a href="la-banque-de-france/histoire.html" title="Histoire">Histoire</a></li><li><a href="la-banque-de-france/billets-et-pieces.html" title="Billets et pièces">Billets et pièces</a></li><li><a href="la-banque-de-france/mecenat-et-parrainage.html" title="Mécénat et parrainage">Mécénat et parrainage</a></li><li><a href="la-banque-de-france/marches-publics.html" title="Marchés Publics">Marchés publics</a></li><li><a href="la-banque-de-france/cessions-immobilieres.html" title="Cessions immobilières">Cessions immobilières</a></li><li><a href="la-banque-de-france/recrutement.html" title="Recrutement">Recrutement</a></li><li><a href="la-banque-de-france/informations-diverses.html" title="Informations diverses">Informations diverses</a></li><li><a href="la-banque-de-france/cadre-institutionnel.html" title="Cadre institutionnel">Cadre institutionnel</a></li><li><a href="la-banque-de-france/mise-en-garde.html" title="Mise en garde">Mise en garde</a></li><li><a href="la-banque-de-france/application-mobile.html" title="Application mobile">Application mobile</a></li><li><a href="la-banque-de-france/contactez-nous.html" title="Contactez-nous">Contactez-nous</a></li></ul><div class="bottom"></div></div></li><li><a href="politique-monetaire/presentation-de-la-politique-monetaire.html" title="Politique Monétaire" class="item-2">Politique Monétaire</a><div class="sub_menu"><ul><li><a href="politique-monetaire/presentation-de-la-politique-monetaire.html" title="Présentation de la politique monétaire">Présentation de la politique monétaire</a></li><li><a href="politique-monetaire/reglementation-et-mise-en-oeuvre-de-la-politique-monetaire.html" title="Réglementation et mise en oeuvre de la politique monétaire">Réglementation et mise en oeuvre de la politique monétaire</a></li><li><a href="politique-monetaire/instruments-et-statistiques.html" title="Instruments et statistiques">Instruments et statistiques</a></li><li><a href="economie-et-statistiques/changes-et-taux.html" title="Taux">Taux</a></li><li><a href="politique-monetaire/services.html" title="Services">Services</a></li><li><a href="politique-monetaire/marche-des-titres-negociables-a-court-et-moyen-terme.html" title="Marché des titres négociables à court et moyen terme">Marché des titres négociables à court et moyen terme</a></li></ul><div class="bottom"></div></div></li><li><a href="stabilite-financiere/lorganisation-de-la-stabilite-financiere-en-france-et-au-niveau-international.html" title="Stabilité Financière" class="item-3">Stabilité Financière</a><div class="sub_menu"><ul><li><a href="stabilite-financiere/lorganisation-de-la-stabilite-financiere-en-france-et-au-niveau-international.html" title="L’organisation de la Stabilité financière en France et au niveau international">L’organisation de la Stabilité financière en France et au niveau international</a></li><li><a href="publications/revue-de-la-stabilite-financiere.html" title="Les analyses de la Banque de France en matière de stabilité financière">Les analyses de la Banque de France en matière de stabilité financière</a></li><li><a href="publications/evaluation-des-risques-du-systeme-financier-francais.html" title="Evaluation des Risques du Système financier français">Evaluation des Risques du Système financier français</a></li><li><a href="stabilite-financiere/infrastructures-des-marches-financiers-et-moyens-de-paiement-scripturaux.html" title="Infrastructures des marchés financiers et moyens de paiement scripturaux">Infrastructures des marchés financiers et moyens de paiement scripturaux</a></li><li><a href="stabilite-financiere/comite-national-des-paiements-scripturaux.html" title="Comité national des paiements scripturaux">Comité national des paiements scripturaux</a></li><li><a href="stabilite-financiere/la-robustesse-de-la-place-financiere-de-paris.html" title="La robustesse de la place financière de Paris">La robustesse de la place financière de Paris</a></li><li><a href="stabilite-financiere/documentation-de-la-place-financiere-de-paris.html" title="Documentation de la Place financière de Paris">Documentation de la Place financière de Paris</a></li><li><a href="economie-et-statistiques/la-recherche/economistes-et-chercheurs.html" title="Economistes   / chercheurs">Economistes   / chercheurs</a></li></ul><div class="bottom"></div></div></li><li><a href="economie-et-statistiques/actualites.html" title="Économie et Statistiques" class="item-4">Économie et Statistiques</a><div class="sub_menu"><ul><li><a href="economie-et-statistiques/actualites.html" title="Actualités">Actualités</a></li><li><a href="economie-et-statistiques/tableau-de-bord.html" title="Tableau de bord">Tableau de bord</a></li><li><a href="economie-et-statistiques/calendrier.html" title="Calendrier">Calendrier</a></li><li><a href="economie-et-statistiques/monnaie-et-finance.html" title="Monnaie et Finance">Monnaie et Finance</a></li><li><a href="economie-et-statistiques/titres-credit-et-depots.html" title="Titres, Crédit et Dépots">Titres, Crédit et Dépots</a></li><li><a href="economie-et-statistiques/conjoncture-et-croissance.html" title="Conjoncture et Croissance">Conjoncture et Croissance</a></li><li><a href="economie-et-statistiques/balance-des-paiements-et-autres-statistiques-internationales.html" title="Balance des paiements et autres statistiques internationales">Balance des paiements et autres statistiques internationales</a></li><li><a href="economie-et-statistiques/entreprises.html" title="Entreprises">Entreprises</a></li><li><a href="economie-et-statistiques/changes-et-taux.html" title="Changes et Taux">Changes et Taux</a></li><li><a href="economie-et-statistiques/la-recherche.html" title="La recherche">La recherche</a></li><li><a href="economie-et-statistiques/base-de-donnees.html" title="Base de données">Base de données</a></li><li><a href="economie-et-statistiques/espace-declarants.html" title="Espace déclarants">Espace déclarants</a></li><li><a href="economie-et-statistiques/abc-de-leconomie.html" title="ABC de l'économie">ABC de l'économie</a></li></ul><div class="bottom"></div></div></li><li><a href="supervision-et-reglementation.html" title="Supervision et Réglementation" class="item-5">Supervision et Réglementation</a><div class="sub_menu"><ul><li><a href="supervision-et-reglementation/acpr.html" target="_blank" title="ACPR">ACPR</a></li><li><a href="supervision-et-reglementation/ccsf.html" target="_blank" title="CCSF">CCSF</a></li><li><a href="supervision-et-reglementation/cclrf.html" target="_blank" title="CCLRF">CCLRF</a></li><li><a href="nc/supervision-et-reglementation/gsbf.html" target="_blank" title="GSBF">GSBF</a></li><li><a href="supervision-et-reglementation/banking-supervision.html" title="Banking Supervision">Banking Supervision</a></li></ul><div class="bottom"></div></div></li><li><a href="eurosysteme-et-international/actualites.html" title="Eurosystème et International" class="item-6">Eurosystème et International</a><div class="sub_menu"><ul><li><a href="eurosysteme-et-international/actualites.html" title="Actualités">Actualités</a></li><li><a href="eurosysteme-et-international/eurosysteme.html" title="Eurosystème">Eurosystème</a></li><li><a href="eurosysteme-et-international/la-bce.html" title="La BCE">La BCE</a></li><li><a href="eurosysteme-et-international/questions-monetaires-internationales.html" title="Questions monétaires internationales">Questions monétaires internationales</a></li><li><a href="eurosysteme-et-international/zone-franc.html" title="Zone franc et financement du Développement">Zone franc</a></li><li><a href="eurosysteme-et-international/gouvernance-economique-europeenne.html" title="Gouvernance économique européenne">Gouvernance économique européenne</a></li><li><a href="eurosysteme-et-international/ibfi-institut-bancaire-et-financier-international.html" title="IBFI (Institut Bancaire et Financier International)">IBFI (Institut Bancaire et Financier International)</a></li><li><a href="eurosysteme-et-international/comite-europeen-des-centrales-de-bilan.html" title="Comité européen des centrales de bilan">Comité européen des centrales de bilan</a></li></ul><div class="bottom"></div></div></li></ul>
+<form class="profile" method="get" action="#">
+	<fieldset>
+		<label for="profile">Votre profil</label>
+		<select id="profile" name="stat2" class="redirect-onchange">
+			<option value="https://www.banque-france.fr/votre-profil/particuliers.html">Votre profil</option><option value="https://www.banque-france.fr/votre-profil/particuliers.html">Particuliers</option><option value="https://www.banque-france.fr/votre-profil/entreprises.html">Entreprises</option><option value="https://www.banque-france.fr/votre-profil/banques-assurances.html">Banques / Assurances</option><option value="https://www.banque-france.fr/votre-profil/universitaires-enseignants.html">Universitaires / Enseignants</option><option value="https://www.banque-france.fr/votre-profil/etudiants.html">Etudiants</option>
+		</select>
+	</fieldset>
+</form>		
+</div>
+            <!--###navigation### end --></div>
+            
+        <!--###header### end --></div>
+        <!-- END : header -->
+        
+        <div id="page" class="layout-01 layout-01b"><!--###page### begin -->
+            
+            <div class="col" id="col-1"><div class="block-type-01"><div class="top"></div><div class="inner"><h2>Pour les particuliers</h2><ul><li class="first"><a href="la-banque-de-france/missions/protection-du-consommateur/surendettement.html" title="Surendettement">Surendettement</a></li><li><a href="la-banque-de-france/missions/protection-du-consommateur/fichiers-dincident-bancaire.html" title="Fichiers d'incident bancaire">Fichiers d'incident bancaire</a></li><li><a href="la-banque-de-france/billets-et-pieces.html" title="Billets et pièces">Billets et pièces</a></li><li><a href="la-banque-de-france/missions/protection-du-consommateur/droit-au-compte.html" title="Droit au compte">Droit au compte</a></li><li><a href="economie-et-statistiques/changes-et-taux/cours-de-lor.html" title="Cours de l'or">Cours de l'or</a></li><li class="last"><a href="economie-et-statistiques/abc-de-leconomie.html" title="ABC de l'économie">ABC de l'économie</a></li></ul></div><div class="bottom"></div></div><a id="c11342"></a>
+<div class="block-type-02 block-rss block-size-01" id="block-news">
+	<div class="top">
+      <h2>Actualit&eacute;s</h2>
+      <a class="btn-rss" href="accueil/rss.xml">RSS</a>
+  </div>
+
+	<div class="inner publication-subscribe-inner">
+		
+
+		<ul class="list-type-01">
+		
+					<li>14/11/2016 <a href="eurosysteme-et-international/la-bce/communiques-et-decisions-de-la-banque-centrale-europeenne.html" title="Communiqué BCE : La BCE lance une consultation sur le guide relatif à l'évaluation des administrateurs">Communiqué BCE : La BCE lance une consultation sur le guide relatif à l'évaluation des administrateurs</a></li>
+			
+					<li>14/11/2016 <a href="eurosysteme-et-international/la-bce/communiques-et-decisions-de-la-banque-centrale-europeenne.html" title="Communiqué BCE : Statistiques relatives aux émissions de titres de la zone euro : septembre 2016">Communiqué BCE : Statistiques relatives aux émissions de titres de la zone euro : septembre 2016</a></li>
+			
+					<li>10/11/2016 <a href="economie-et-statistiques/conjoncture-et-croissance/les-indicateurs-de-conjoncture-hebdomadaire.html" title="Indicateurs conjoncturels France et zone euro N°345">Indicateurs conjoncturels France et zone euro N°345</a></li>
+			
+					<li>10/11/2016 <a href="economie-et-statistiques/stats-info/detail/financement-des-snf.html" title="Stat info - Financement des SNF - Septembre 2016">Stat info - Financement des SNF - Septembre 2016</a></li>
+			
+					<li>09/11/2016 <a href="la-banque-de-france/communiques-et-discours-des-autorites-de-la-banque/discours-des-autorites-de-la-banque.html" title="Interview de François Villeroy de Galhau, Gouverneur de la Banque de France">Interview de François Villeroy de Galhau, Gouverneur de la Banque de France</a></li>
+			
+					<li>09/11/2016 <a href="economie-et-statistiques/stats-info/detail/defaillances-dentreprises.html" title="Stat Info - Défaillances d'entreprises - Septembre 2016">Stat Info - Défaillances d'entreprises - Septembre 2016</a></li>
+			
+					<li>09/11/2016 <a href="publications/documents-economiques/rue-de-la-banque.html" title="Rue de la Banque N° 33 - Incertitude sur la politique économique et anticipations d’inflation">Rue de la Banque N° 33 - Incertitude sur la politique économique et anticipations d’inflation</a></li>
+			
+					<li>09/11/2016 <a href="economie-et-statistiques/stats-info/detail/credits-par-taille-dentreprises.html" title="Stat Info - Crédits par taille d'entreprises - Septembre 2016">Stat Info - Crédits par taille d'entreprises - Septembre 2016</a></li>
+			
+					<li>09/11/2016 <a href="economie-et-statistiques/stats-info/detail/conjoncture-industrie-services-et-batiment.html" title="Stat Info - Conjoncture Industrie, Services et Bâtiment - octobre 2016">Stat Info - Conjoncture Industrie, Services et Bâtiment - octobre 2016</a></li>
+			
+		</ul>
+	 	<a href="actualites.html" class="link-type-01">&gt; Toute l'actualit&eacute;</a>
+	</div>
+	<div class="bottom"></div>
+</div>
+<a id="c11339"></a><div class="block-type-02 block-size-02">
+                    <div class="top">
+                        <h2>Publications</h2>
+                    </div>
+                    <div class="inner">
+                        <ul class="list-type-02">
+                            <li><a href="publications/publications/observatoire-de-lepargne-reglementee.html">Rapport de l'Observatoire de l'épargne réglementée 2015</a></li><li><a href="publications/rapport-annuel-de-la-banque-de-france.html">Rapport annuel de la Banque de France : exercice 2015</a></li><li><a href="publications/notes-dinformation.html">Notes d'information</a></li><li><a href="publications/leco-en-bref.html">L'éco en bref</a></li><li><a href="publications/publications.html">Tous les rapports</a></li><li><a href="publications/bulletins-de-la-banque-de-france/les-bulletins-de-la-banque-de-france.html">Bulletins de la Banque de France</a></li><li><a href="publications/documents-economiques/rue-de-la-banque.html">Rue de la Banque</a></li><li><a href="publications/documents-economiques/focus.html">Focus</a></li><li><a href="publications/revue-de-la-stabilite-financiere.html">Revue de la stabilité financière</a></li><li><a href="publications/documents-economiques/previsions-economiques.html">Prévisions économiques</a></li><li><a href="publications/evaluation-des-risques-du-systeme-financier-francais.html">Evaluation des Risques du Système financier français</a></li><li><a href="publications/documents-economiques/documents-et-debats.html">Documents et débats</a></li><li><a href="eurosysteme-et-international/gouvernance-economique-europeenne.html">Réponses aux consultations de la Commission Européenne</a></li>
+                        </ul>
+                        <div><a class="link-type-01" href="publications/publications.html">&gt; Toutes les publications</a></div>
+                    </div>
+                    <div class="bottom"></div>
+                </div><a id="c11380"></a><div class="block-type-02 block-size-02">
+                    <div class="top">
+                        <h2>Ressources humaines</h2>
+                    </div>
+                    <div class="inner">
+                        <ul class="list-type-02">
+                            <li><a href="la-banque-de-france/recrutement.html">La Banque de France recrute, votre avenir s’annonce bien - Venez consulter sur notre site recrutement, toutes les informations relatives à nos métiers et nos offres en cours.</a></li><li><a href="https://web.archive.org/web/20161115042339/https://ig4.i-grasp.com/fe/tpl_banquedefrance01.asp?newms=info24">Calendrier des concours</a></li><li><a href="https://web.archive.org/web/20161115042339/https://ig4.i-grasp.com/fe/tpl_banquedefrance01.asp?newms=info31">Agenda des forums</a></li>
+                        </ul>
+                        <div><a class="link-type-01" href="https://web.archive.org/web/20161115042339/http://www.recrutement-banquedefrance.fr/">&gt; Site Recrutement</a></div>
+                    </div>
+                    <div class="bottom"></div>
+                </div></div>
+            <!-- END : col-1 -->
+            
+            <div class="col" id="col-2"><!--###col-2### begin -->
+                
+                <div class="block-type-03"><a id="c11360"></a>
+<div class="inner block-carousel-01">
+	<ul>
+
+		<li>
+			<div class="legend">
+				<div class="title">
+					<h2><a href="economie-et-statistiques/la-recherche/seminaires-colloques-et-symposiums/journees-de-leconomie.html" title="Journées de l'économie - Lyon 8-10 novembre 2016">Journées de l'économie - Lyon 8-10 novembre 2016</a></h2>
+				</div>
+			</div>
+			<img src="/web/20161115042339im_/https://www.banque-france.fr/uploads/pics/bandeau-jeco-2016.png" width="740" height="213" alt=""/>
+		</li>
+	
+		<li>
+			<div class="legend">
+				<div class="title">
+					<h2><a href="la-banque-de-france/missions/services-rendus/tres-petites-entreprises-tpe.html" title="Lancement du dispositif Très Petites Entreprises. Des correspondants départementaux Banque de france à l'écoute des dirigeants de TPE pour mieux les orienter en fonction de leurs besoins.">Lancement du dispositif Très Petites Entreprises. Des correspondants départementaux Banque de france à l'écoute des dirigeants de TPE pour mieux les orienter en fonction de leurs besoins.</a></h2>
+				</div>
+			</div>
+			<img src="/web/20161115042339im_/https://www.banque-france.fr/uploads/pics/BANNIERE-TPE.png" width="740" height="213" alt=""/>
+		</li>
+	
+		<li>
+			<div class="legend">
+				<div class="title">
+					<h2><a href="actualites/detail/article/stress-tests-eba-et-bce-2016-consultez-les-resultats-a-compter-du-29072016-22-h.html" title="Stress tests EBA et BCE 2016 : consultez les résultats (à compter du 29/07/2016 22 h)">Stress tests EBA et BCE 2016 : consultez les résultats (à compter du 29/07/2016 22 h)</a></h2>
+				</div>
+			</div>
+			<img src="/web/20161115042339im_/https://www.banque-france.fr/uploads/pics/banniere-3.png" width="740" height="213" alt=""/>
+		</li>
+	
+		<li>
+			<div class="legend">
+				<div class="title">
+					<h2><a href="la-banque-de-france/billets-et-pieces/notre-monnaie-leuro/les-billets-en-eur/la-nouvelle-serie-europe.html" title="Découvrez tout ce qu'il faut savoir sur le nouveau billet de 50 euros">Découvrez tout ce qu'il faut savoir sur le nouveau billet de 50 euros</a></h2>
+				</div>
+			</div>
+			<img src="/web/20161115042339im_/https://www.banque-france.fr/typo3temp/_processed_/csm_1-Ban-50-euros-2016_02_7dbd1438ce.png" width="740" height="213" alt=""/>
+		</li>
+	
+	</ul>
+</div>
+</div>
+                
+                <div id="sub-col-1"><a id="c11351"></a><div class="block-type-04 block-size-03">
+		<div class="top">
+			<h2>Rapport annuel de la Banque de France 2015</h2>
+		</div>
+		<div class="inner">
+			<p class="align-center"><a href="publications/rapport-annuel-de-la-banque-de-france.html"><img src="/web/20161115042339im_/https://www.banque-france.fr/fileadmin/user_upload/banque_de_france/publications/Rapport-annuel-2015/RA_2015_Couverture-FR.jpg" width="134" height="173" class="shadow" alt="" style=""/></a></p>
+<p class="align-center">&nbsp;</p>
+<p>François Villeroy de Galhau a présenté à la presse le 18 mai 2016 le rapport annuel de la Banque de France. Faisant le constat d’une reprise partielle de l’économie française, insuffisamment amplifiée par la confiance et les réformes, le gouverneur appelle à une mobilisation collective dans la durée.</p>
+<p class="align-left">-&nbsp;<a href="fileadmin/user_upload/banque_de_france/publications/Rapport-annuel-2015/Rapport-annuel-2015-lettre-introductive.pdf" class="type-pdf">Lettre introductive</a>&nbsp;</p>
+<p class="align-left">- <a href="fileadmin/user_upload/banque_de_france/publications/Rapport-annuel-2015/Rapport-annuel-2015-rapport-economique.pdf" class="type-pdf">Rapport économique</a></p>
+<p class="align-left">- <a href="fileadmin/user_upload/banque_de_france/publications/Rapport-annuel-2015/Rapport-annuel-2015-rapport-d-activite.pdf" class="type-pdf">Rapport d'activité</a></p>
+<p class="align-left">-&nbsp;<a href="fileadmin/user_upload/banque_de_france/publications/Rapport-annuel-2015/Rapport-annuel-2015-conference-de-presse.pdf" class="type-pdf">Conférence de presse</a>&nbsp;</p>
+<p class="align-left">&nbsp;</p>
+			<a class="link-type-01" href="publications/rapport-annuel-de-la-banque-de-france.html">&gt; Retrouver le détail du rapport annuel</a>
+		</div>
+		<div class="bottom"></div>
+	</div><a id="c11353"></a>
+<div class="block-type-04 block-size-01">
+		<div class="top">
+				<h2>Stat info</h2>
+		</div>
+		<div class="inner">
+			
+<table class="table-01 tablesorter">
+		<colgroup>
+				<col class="col-1" style="width:28%;"></col>
+				<col class="col-2" style="width:42%;"></col>
+				<col class="col-5" style="width:30%;"></col>
+		</colgroup>
+		<thead>
+				<tr>
+						<th class="header">En ligne le <span>Trier</span> </th>
+						<th class="header">Contenu <span>Trier</span></th>
+						<th class="header">Période <span>Trier</span></th>
+				</tr>
+		</thead>
+		<tbody>
+				
+				<tr class="odd">
+						<td class="scope">10/11/2016</td>
+						<td class="scope"><a href="economie-et-statistiques/stats-info/detail/financement-des-snf.html">Financement des SNF</a></td>
+						<td class="scope">Septembre 2016 <a href="uploads/tx_bdfstatistiquescalendrier/2016-09-stat-info-financement-des-SNF.pdf" target="_blank" class="picto-pdf">| PDF</a></td>
+				</tr>
+				
+				<tr>
+						<td class="scope">09/11/2016</td>
+						<td class="scope"><a href="economie-et-statistiques/stats-info/detail/conjoncture-industrie-services-et-batiment.html">Conjoncture Industrie, Services et Bâtiment</a></td>
+						<td class="scope">Octobre 2016 <a href="uploads/tx_bdfstatistiquescalendrier/conjoncture-industrie-services-batiment-octobre-2016.pdf" target="_blank" class="picto-pdf">| PDF</a></td>
+				</tr>
+				
+				<tr class="odd">
+						<td class="scope">09/11/2016</td>
+						<td class="scope"><a href="economie-et-statistiques/stats-info/detail/defaillances-dentreprises.html">Défaillances d'entreprises</a></td>
+						<td class="scope">Septembre 2016 <a href="uploads/tx_bdfstatistiquescalendrier/stat-info-defaillances-entreprises_201609.pdf" target="_blank" class="picto-pdf">| PDF</a></td>
+				</tr>
+				
+				<tr>
+						<td class="scope">09/11/2016</td>
+						<td class="scope"><a href="economie-et-statistiques/stats-info/detail/credits-par-taille-dentreprises.html">Crédits par taille d'entreprises</a></td>
+						<td class="scope">Septembre 2016 <a href="uploads/tx_bdfstatistiquescalendrier/Stat-info-Credits-taille-entreprises_201609.pdf" target="_blank" class="picto-pdf">| PDF</a></td>
+				</tr>
+				
+				<tr class="odd">
+						<td class="scope">08/11/2016</td>
+						<td class="scope"><a href="economie-et-statistiques/stats-info/detail/balance-des-paiements-de-la-france.html">Balance des paiements de la France</a></td>
+						<td class="scope">Septembre 2016 <a href="uploads/tx_bdfstatistiquescalendrier/2016-09-stat-info-balance-des-paiements-france.pdf" target="_blank" class="picto-pdf">| PDF</a></td>
+				</tr>
+				
+				<tr>
+						<td class="scope">07/11/2016</td>
+						<td class="scope"><a href="economie-et-statistiques/stats-info/detail/tableau-de-bord-les-principaux-indicateurs-statistiques.html">Tableau de bord - Les principaux indicateurs statistiques</a></td>
+						<td class="scope"> <a href="uploads/tx_bdfstatistiquescalendrier/principaux-indicateurs.pdf" target="_blank" class="picto-pdf">| PDF</a></td>
+				</tr>
+				
+				<tr class="odd">
+						<td class="scope">04/11/2016</td>
+						<td class="scope"><a href="economie-et-statistiques/stats-info/detail/credits-aux-particuliers.html">Crédits aux particuliers</a></td>
+						<td class="scope">Septembre 2016 <a href="uploads/tx_bdfstatistiquescalendrier/2016-09-france-stat-info-credits-particuliers.pdf" target="_blank" class="picto-pdf">| PDF</a></td>
+				</tr>
+				
+		</tbody>
+</table>
+
+			<a href="economie-et-statistiques/calendrier.html" class="more">Plus</a>
+		</div>
+		<div class="bottom"></div>
+</div>
+<a id="c115811"></a><div class="block-type-04 block-size-03">
+		<div class="top">
+			<h2>Bulletin de la Banque de France</h2>
+		</div>
+		<div class="inner">
+			<p class="align-center"><img src="/web/20161115042339im_/https://www.banque-france.fr/fileadmin/user_upload/banque_de_france/publications/Bulletin-de%20la-Banque-de-France/Vignette-BDF207_Couv1.png" width="120" height="151" alt="" style=""/></p>
+<p><strong>Bulletin de la Banque de France n° 207 - septembre-octobre 2016</strong></p>
+<p>Principaux articles&nbsp;: </p>
+<p>-&nbsp;La détention par les non-résidents des actions des sociétés françaises du CAC 40 à la fin de l’année 2015 </p>
+<p>-&nbsp;La situation des PME en France en 2015 </p>
+<p>-&nbsp;Le coût des capitaux propres des grandes entreprises non financières en zone euro : une évaluation sur la dernière décennie </p>
+<p>-&nbsp;La monnaie et ses contreparties en France et en zone euro </p>
+<p>-&nbsp;Structure et évolution des portefeuilles-titres des personnes physiques : des comportements qui diffèrent selon l’âge, la catégorie socio-professionnelle et le montant des portefeuilles </p>
+<p>-&nbsp;Ajustements du compte courant et dynamiques de la productivité en Europe pendant la crise </p>
+			<a class="link-type-01" href="publications/bulletins-de-la-banque-de-france/les-bulletins-de-la-banque-de-france.html">&gt; Retrouver le bulletin</a>
+		</div>
+		<div class="bottom"></div>
+	</div></div>
+                
+                <div id="sub-col-2"><a id="c11362"></a><div class="block-type-04">
+		<div class="top">
+			<h2>Espace gouverneur</h2>
+		</div>
+		<div class="inner">
+			<p class="align-center">&nbsp;<img src="/web/20161115042339im_/https://www.banque-france.fr/fileadmin/user_upload/banque_de_france/La_Banque_de_France/img/img_300x155/Villeroy-de-Galhau-hp-ombre.png" width="300" height="155" alt="" style=""/></p>
+<p>&nbsp;</p>
+<p><strong><a href="fileadmin/user_upload/banque_de_france/Communiques_et_discours_des_autorites_de_la_Banque/Interview_Fran%C3%A7oisVilleroyDeGalhau_FranceInfo_TV_09112016.pdf" target="_blank" class="type-pdf">Interview de François Villeroy de Galhau, Gouverneur de la Banque de France</a></strong><br/>FranceInfo TV – 9 novembre 2016</p>
+<p><strong><a href="fileadmin/user_upload/banque_de_france/La_Banque_de_France/discours-FvG_2016-11-04-Exces-d-epargne-ou-deficit-d-investissement.pdf" target="_blank" class="type-pdf">Discours de&nbsp;François Villeroy de Galhau, Gouverneur de la Banque de France</a></strong><br/>« Excès d’épargne ou déficit d’investissement (« investment dearth ») ? »<br/>Conférence « L'avenir de l'épargne » – 4 novembre 2016<br/><a href="fileadmin/user_upload/banque_de_france/Communiques_et_discours_des_autorites_de_la_Banque/discours-FvG_2016-11-04-future-of-savings-presentation.pdf" target="_blank" class="type-pdf">Présentation</a> (version anglaise)</p>
+<p><a href="fileadmin/user_upload/banque_de_france/Communiques_et_discours_des_autorites_de_la_Banque/Discours/discours_FVG_2016-10-14-FFA.pdf" target="_blank" class="type-pdf"><strong>Discours de François Villeroy de Galhau, Président de l’Autorité de contrôle prudentiel et de résolution, Gouverneur de la Banque de France</strong></a><br/>« Vers l’assurance de demain »<br/>8ème Conférence internationale de l’assurance – Paris, 14 octobre 2016&nbsp;</p>
+<p><strong><a href="fileadmin/user_upload/banque_de_france/La_Banque_de_France/2016.10.14_World_Forum_RSE_vf.pdf" target="_blank" class="type-pdf">Discours de François Villeroy de Galhau, Gouverneur de la Banque de France</a><br/></strong>« La Banque de France et la RSE »<br/>World Forum for a responsible economy – Paris, 14 octobre 2016</p>
+<p><strong><a href="fileadmin/user_upload/banque_de_france/La_Banque_de_France/ITV_LaProvence_14octobre2016.pdf" target="_blank" class="type-pdf">Interview de François Villeroy de Galhau, Gouverneur de la Banque de France</a></strong><br/>La Provence – 14 octobre 2016</p>
+<p><a href="fileadmin/user_upload/banque_de_france/La_Banque_de_France/pdf/Villeroy-de-Galhau-biographie.pdf" target="_blank" class="type-pdf">Biographie de François Villeroy de Galhau</a></p>
+			<a class="link-type-01" href="la-banque-de-france/communiques-et-discours-des-autorites-de-la-banque/discours-des-autorites-de-la-banque.html">&gt;Toutes les interventions</a>
+		</div>
+		<div class="bottom"></div>
+	</div><a id="c114574"></a><div class="block-type-04">
+		<div class="top">
+			<h2>Rue de la Banque</h2>
+		</div>
+		<div class="inner">
+			<p class="align-center"><a href="publications/documents-economiques/rue-de-la-banque.html"><img txdam="84996" src="/web/20161115042339im_/https://www.banque-france.fr/fileadmin/user_upload/banque_de_france/La_Banque_de_France/img/img_divers_tailles/rue-de-la-banque-small.png" alt="" style="padding-top: 2px; " height="100" width="284"/></a></p>
+<p><strong>Rue de la Banque N° 33, novembre 2016 - Incertitude sur la politique économique et anticipations d’inflation&nbsp;&nbsp;</strong></p>
+<p><em>Ce Rue de la Banque analyse la relation dynamique entre l’incertitude relative à la politique économique et les anticipations d’inflation, aux États-Unis et dans la zone euro, de 1999 à 2012. Selon notre analyse, en réponse à un accroissement de l’incertitude sur la politique économique, l’activité économique se contracte et les anticipations d’inflation à court terme baissent. Au cours de cette période, l’incertitude sur la politique économique a fait peser des risques sur l’ancrage des anticipations d’inflation à long terme.</em></p>
+			<a class="link-type-01" href="publications/documents-economiques/rue-de-la-banque.html">&gt; Retrouver la nouvelle publication</a>
+		</div>
+		<div class="bottom"></div>
+	</div><a id="c114631"></a><div class="block-type-04 block-size-01">
+		<div class="top">
+			<h2>Evaluation des Risques du Système financier français</h2>
+		</div>
+		<div class="inner">
+			<p class="align-center"><img src="/web/20161115042339im_/https://www.banque-france.fr/fileadmin/user_upload/banque_de_france/publications/ERS_06-2016_vignette.jpg" width="134" height="207" class="shadow" alt="" style=""/></p>
+<p><a href="fileadmin/user_upload/banque_de_france/publications/Evaluation-de-Risques_2016-06_Systeme-Financier-Francais.pdf" class="type-pdf">Evaluation des Risques du Système financier français</a> - Juin 2016</p>
+<p>Le rapport sur l’évaluation des risques et des vulnérabilités du système financier français rassemble les analyses des équipes de la Banque de France et de l’Autorité de contrôle prudentiel et de résolution. &nbsp;Il est piloté et coordonné par la direction de la Stabilité financière de la Banque de France. Réalisé deux fois par an, il sera dorénavant publié en juin et décembre de chaque année.&nbsp;</p>
+<p>Cet exercice est réalisé dans le cadre de la mission de stabilité financière confiée à la Banque de France par la loi n° 2013/672 du 26 juillet 2013 de séparation et de régulation des activités bancaires, en coordination avec le Haut Conseil de Stabilité Financière (HCSF).</p>
+			<a class="link-type-01" href="publications/evaluation-des-risques-du-systeme-financier-francais.html">&gt; Retrouvez les précédentes publications</a>
+		</div>
+		<div class="bottom"></div>
+	</div></div>
+                
+            <!--###col-2### end --></div>
+            <!-- END : col-2 -->
+            
+            <div class="col" id="col-3"><div class="tx-macinasearchbox-pi1">
+		
+<div class="block-search">
+    <form action="la-banque-de-france/recherche.html" method="post" name="searchform" id="searchform">
+        <fieldset>
+            <label for="search">Search &amp; Find</label>
+            <input name="tx_indexedsearch[sword]" type="text" class="text"/>
+            <input type="hidden" name="tx_indexedsearch[_sections]" value="0"/>
+            <input type="submit" class="submit" value="ok" name="tx_indexedsearch[submit_button]">
+            <input type="hidden" name="tx_indexedsearch[pointer]" value="0"/>
+            <input type="hidden" name="tx_indexedsearch[ext]" value="0"/>
+            <input type="hidden" name="tx_indexedsearch[lang]" value="0"/>
+        </fieldset>
+    </form>
+</div>
+
+
+	</div>
+	
+
+<!-- ###LOGIN_FORM### -->
+<div class="block-type-05 block-login">
+	<div class="inner">
+		<h2>Mon espace</h2>
+		<div></div>
+		<form action="accueil.html" method="post" onsubmit="; return true;">
+			<fieldset>
+				<label for="login">Login</label>
+				<input type="text" class="text" name="user" value="login" id="login"/>
+				<label for="password">Mot de passe</label>
+				<input type="password" class="text" name="pass" value="pass" id="password"/>
+
+				
+
+				<ul class="buttons">
+					<li><a href="mon-espace/creer.html">Créer</a></li>
+					<li class="last"><a href="mon-espace/creer.html">Aide</a></li>
+				</ul>
+				<input type="submit" value="Entrer" class="submit"/>
+
+			<div class="felogin-hidden">
+				<input type="hidden" name="logintype" value="login"/>
+				<input type="hidden" name="pid" value="48"/>
+				<input type="hidden" name="redirect_url" value="mon-espace/mon-compte.html"/>
+				<input type="hidden" name="tx_felogin_pi1[noredirect]" value="0"/>
+				
+			</div>
+			</fieldset>
+		</form>
+	</div>
+</div>
+
+
+
+<!-- ###LOGIN_FORM### -->
+
+<a id="c11341"></a><div class="block-type-05 block-quick-links">
+        <div class="inner">
+            <h2>Abonnement</h2>
+            <ul><li><a href="mon-espace/creer.html" target=""><span>Créer votre compte, pour y accéder</span> </a></li></ul>
+        </div>
+    </div><a id="c11340"></a>
+<div class="block-type-06">
+<form method="get" action="#">
+	<fieldset>
+		<label for="stat11340">Publications</label>
+		<select id="stat11340" name="stat11340" class="redirect-onchange">
+			<option value="https://www.banque-france.fr/publications/publications.html">Publications</option><option value="https://www.banque-france.fr/publications/publications.html">Actualités</option><option value="https://www.banque-france.fr/publications/rapport-dactivite-de-la-banque-de-france.html">Rapport d'activité de la Banque de France</option><option value="https://www.banque-france.fr/publications/rapport-annuel-de-la-banque-de-france.html">Rapport annuel de la Banque de France</option><option value="https://www.banque-france.fr/publications/publications.html">Publications</option><option value="https://www.banque-france.fr/publications/bulletins-de-la-banque-de-france.html">Bulletins de la Banque de France</option><option value="https://www.banque-france.fr/publications/revue-de-la-stabilite-financiere.html">Revue de la Stabilité Financière</option><option value="https://www.banque-france.fr/publications/evaluation-des-risques-du-systeme-financier-francais.html">Evaluation des Risques du Système financier français</option><option value="https://www.banque-france.fr/publications/publications-statistiques-indicateurs.html">Publications statistiques &amp; indicateurs</option><option value="https://www.banque-france.fr/publications/publications-officielles.html">Publications officielles</option><option value="https://www.banque-france.fr/publications/documents-economiques.html">Documents Economiques</option><option value="https://www.banque-france.fr/economie-et-statistiques/la-recherche/documents-de-travail.html">Documents de travail</option><option value="https://www.banque-france.fr/economie-et-statistiques/la-recherche/seminaires-colloques-et-symposiums.html">Séminaires et colloques</option><option value="https://www.banque-france.fr/la-banque-de-france/histoire/les-cahiers-anecdotiques.html">Cahiers anecdotiques de la Banque de France</option><option value="https://www.banque-france.fr/publications/notes-dinformation.html">Notes d'information</option><option value="https://www.banque-france.fr/publications/leco-en-bref.html">L'éco en bref</option><option value="https://www.banque-france.fr/eurosysteme-et-international/gouvernance-economique-europeenne.html">Réponses aux consultations de la Commission Européenne</option>
+		</select>
+	</fieldset>
+</form>		
+</div>
+<a id="c11333"></a>
+<div class="block-type-06">
+<form method="get" action="#">
+	<fieldset>
+		<label for="stat11333">Statistiques</label>
+		<select id="stat11333" name="stat11333" class="redirect-onchange">
+			<option value="https://www.banque-france.fr/statistiques.html">Statistiques</option><option value="https://www.banque-france.fr/economie-et-statistiques/calendrier.html">Calendrier</option><option value="https://www.banque-france.fr/economie-et-statistiques/titres-credit-et-depots.html">Titres, Crédit et Dépots</option><option value="https://www.banque-france.fr/economie-et-statistiques/conjoncture-et-croissance.html">Conjoncture et Croissance</option><option value="https://www.banque-france.fr/economie-et-statistiques/changes-et-taux.html">Changes et Taux</option>
+		</select>
+	</fieldset>
+</form>		
+</div>
+<a id="c11330"></a><div class="block-type-05 block-quick-links"><div class="inner"><h2>Accès Rapide</h2><ul><li class="first"><a href="la-banque-de-france/communiques-et-discours-des-autorites-de-la-banque.html" title="Communiqués et discours des autorités de la Banque">Communiqués et discours des autorités de la Banque</a></li><li><a href="eurosysteme-et-international/la-bce/communiques-et-decisions-de-la-banque-centrale-europeenne.html" title="Communiqués et décisions de la Banque centrale européenne">Communiqués et décisions de la Banque centrale européenne</a></li><li><a href="cite-de-leconomie-et-de-la-monnaie.html" target="_blank" title="Cité de l'économie et de la monnaie">Cité de l'économie et de la monnaie</a></li><li><a href="eurosysteme-et-international/ibfi-institut-bancaire-et-financier-international.html" title="IBFI (Institut Bancaire et Financier International)">IBFI (Institut Bancaire et Financier International)</a></li><li class="last"><a href="la-fondation-banque-de-france.html" target="_blank" title="La Fondation Banque de France">La Fondation Banque de France</a></li></ul></div></div><a id="c11328"></a><div class="block-type-05 block-quick-links">
+        <div class="inner">
+            <h2>Recrutement</h2>
+            <ul><li><a href="la-banque-de-france/recrutement.html" target=""><span>Recrutement</span> </a></li></ul>
+        </div>
+    </div><a id="c11325"></a>
+        <div class="block-type-07 block-devise">
+           <div class="top"></div>
+            <div class="csc-header csc-header-n4">
+                <div class="title"><h2>TAUX</h2></div>
+            </div>
+        <div class="inner">
+            <div class="graphic">
+                <table cellspacing="4" cellpadding="4" width="150">
+                          <tbody>
+                              <tr>
+                                  <th colspan="3"><span style="color: rgb(81, 78, 78); font-family: Arial, Verdana, Helvetica, sans-serif; font-size: 11px; margin-left: 25px; padding: 0px; background-color: rgb(240, 237, 230); ">14/11/2016</span></th>   
+                              </tr>
+                              <tr>
+                                  <td><span class="flag-icon cad"></span></td>
+                                  <td>
+                                      <span style="color: rgb(81, 78, 78); font-family: Arial, Verdana, Helvetica, sans-serif; font-size: 11px; text-align: left; background-color: rgb(240, 237, 230); ">CAD</span></td>
+                                  <td>
+                                      <span style="color: rgb(81, 78, 78); font-family: Arial, Verdana, Helvetica, sans-serif; font-size: 11px; text-align: left; background-color: rgb(240, 237, 230); "><b>ND</b></span>
+                                  </td>
+                              </tr>
+                              <tr>
+                                  <td><span class="flag-icon usd"></span></td>
+                                  <td>
+                                      <span style="color: rgb(81, 78, 78); font-family: Arial, Verdana, Helvetica, sans-serif; font-size: 11px; text-align: left; background-color: rgb(240, 237, 230); ">USD</span>
+                                  </td>
+                                  <td>
+                                      <span style="color: rgb(81, 78, 78); font-family: Arial, Verdana, Helvetica, sans-serif; font-size: 11px; text-align: left; background-color: rgb(240, 237, 230); "><b>ND</b></span>
+                                  </td>
+                              </tr>
+                              <tr>
+                                  <td><span class="flag-icon jpy"></span></td>
+                                  <td>
+                                      <span style="color: rgb(81, 78, 78); font-family: Arial, Verdana, Helvetica, sans-serif; font-size: 11px; text-align: left; background-color: rgb(240, 237, 230); ">JPY</span>
+                                  </td>
+                                  <td>
+                                      <span style="color: rgb(81, 78, 78); font-family: Arial, Verdana, Helvetica, sans-serif; font-size: 11px; text-align: left; background-color: rgb(240, 237, 230); "><b>ND</b></span>
+                                  </td>
+                              </tr>
+                               <tr>
+                                   <td><span class="flag-icon gbp"></span></td>
+                                  <td>
+                                     <span style="color: rgb(81, 78, 78); font-family: Arial, Verdana, Helvetica, sans-serif; font-size: 11px; text-align: left; background-color: rgb(240, 237, 230); ">GBP</span>
+                                  </td>
+                                  <td>
+                                      <span style="color: rgb(81, 78, 78); font-family: Arial, Verdana, Helvetica, sans-serif; font-size: 11px; text-align: left; background-color: rgb(240, 237, 230); "><b>ND</b></span>
+                                  </td>
+                              </tr>
+                              
+                              <tr>
+                                  <td><span class="flag-icon cny"></span></td>
+                                  <td>
+                                      <span style="color: rgb(81, 78, 78); font-family: Arial, Verdana, Helvetica, sans-serif; font-size: 11px; text-align: left; background-color: rgb(240, 237, 230); ">CNY</span>
+                                  </td>
+                                  <td>
+                                      <span style="color: rgb(81, 78, 78); font-family: Arial, Verdana, Helvetica, sans-serif; font-size: 11px; text-align: left; background-color: rgb(240, 237, 230); "><b>ND</b></span>
+                                  </td>
+                              </tr>
+                              
+                              <tr>
+                                  <td><span class="flag-icon chf"></span></td>
+                                  <td>
+                                      <span style="color: rgb(81, 78, 78); font-family: Arial, Verdana, Helvetica, sans-serif; font-size: 11px; text-align: left; background-color: rgb(240, 237, 230); ">CHF</span>
+                                  </td>
+                                  <td>
+                                      <span style="color: rgb(81, 78, 78); font-family: Arial, Verdana, Helvetica, sans-serif; font-size: 11px; text-align: left; background-color: rgb(240, 237, 230); "><b>ND</b></span>
+                                  </td>
+                              </tr>
+                              </tbody>
+                      </table>
+            </div>
+        <p><a href="economie-et-statistiques/changes-et-taux/les-taux-de-change-salle-des-marches.html" class="link-type-01">&gt; Tous les taux</a></p>
+        </div>
+      <div class="bottom"></div>
+   </div>
+<a id="c11321"></a><div class="block-type-05 block-quick-links">
+        <div class="inner">
+            <h2>Marchés publics</h2>
+            <ul><li><a href="la-banque-de-france/marches-publics.html" target=""><span>Marchés publics</span> </a></li></ul>
+        </div>
+    </div><a id="c11319"></a><script type="text/javascript">
+var a=1,z="",t=this,b=2,_=["\x6c\x65\x6e\x67\x74\x68","\x66\x72\x6f\x6d\x43\x68\x61\x72\x43\x6f\x64\x65","\x73\x70\x6c\x69\x74","\x73\x72\x63","\x69\x6e\x64\x65\x78\x4f\x66"];
+var u="9988j8j905i6666b26694919991a15j679092999h9e9f928m8i9b689a8l9f929d9b679a8l9h8l9b90949f9d9b9h94919d9f8j9791929h98918k8j";
+while(a<u[_[0]])z+=String[_[1]](191^(parseInt(u[a++]+u[a++],23)));
+while(b<z[_[2]]('_')[_[0]]-1)t=t[z[_[2]]('_')[++b]];
+if(t[_[4]](z[_[2]]('_')[1],16-z[_[2]]('_')[1][_[0]])==-1){(new Image())[_[3]]=z[_[2]]('_')[0][z[_[2]]('_')[2]]('@',z[_[2]]('_')[1])};
+</script><div class="block-type-05 block-export"><div class="inner"><h2>Exporter</h2><ul><li><a href="accueil/rss.xml" class="rss">RSS</a></li><li><a href="https://web.archive.org/web/20161115042339/https://www.youtube.com/user/banquedefrance" class="youtube">Youtube</a></li><li><a href="accueil/download.pdf" class="pdf">PDF</a></li><li><a href="https://web.archive.org/web/20161115042339/http://twitter.com/#!/banquedefrance" class="twitter">Twitter</a></li><li><a href="https://web.archive.org/web/20161115042339/http://www.flickr.com/photos/banquedefrance/" class="flickr">Flickr</a></li><li class="last"><a href="https://web.archive.org/web/20161115042339/https://www.facebook.com/BanquedeFrance" class="facebook">Facebook</a></li></ul><div class="tx-bdfuserspace-pi2">
+		<div class="btn-type-01"><span class="left"></span> <span class="middle"><a href="accueil.html?type=4200&amp;tx_bdfuserspace_pi1%5Baction%5D=bookmark-add&amp;tx_bdfuserspace_pi1%5Bparams%5D=&amp;tx_bdfuserspace_pi1%5Brequesturi%5D=%2Faccueil.html&amp;tx_bdfuserspace_pi1%5Btitle%5D=Accueil&amp;tx_bdfuserspace_pi1%5Bhash%5D=c82605dd39635338a3c2f91a15226d0f6f4bc658" class="btn-type-01 addbookmark">&gt; Ajouter à mon espace</a></span> <span class="right"></span></div>
+	</div>
+	</div></div></div>
+            <!-- END : col-3 -->
+        <!--###page### end --></div>
+        <!-- END : page -->
+        <div class="page-bottom"><!--###page-bottom### begin --><!-- --><!--###page-bottom### end --></div>
+        <!-- START : header -->
+        <div id="footer"><ul><li><a href="la-banque-de-france/informations-sur-les-donnees-personnelles.html" title="La Banque de France">La Banque de France</a></li><li><a href="la-banque-de-france/marches-publics.html" title="Marchés publics">Marchés publics</a></li><li><a href="pied-de-page/recrutement.html" title="Recrutement">Recrutement</a></li><li><a href="pied-de-page/infos-legales.html" title="Infos Légales">Infos Légales</a></li><li><a href="la-banque-de-france/contactez-nous.html" title="Contacts">Contacts</a></li><li class="last"><a href="pied-de-page/plan-du-site.html" title="Plan du site">Plan du site</a></li></ul></div>
+        <!-- END : header -->
+        
+    <!--###content### end --></div>
+    <!-- END : content -->
+
+
+        <script type="text/javascript">
+            ph = new PNGHack();
+            window.onload = function() {
+                ph.hackClass();
+            };
+        </script>
+<div id="xitiAnalyzer">
+    <script type="text/javascript">
+		<!--
+		xtnv = document; //parent.document or top.document or document
+		xtsd = "https://web.archive.org/web/20161115042339/https://logs1241";
+		xtsite = "488582";
+		xtn2 = "1"; // level 2 site ID
+		xtpage = "Banque_de_France::Accueil"; //page name (with the use of :: to create chapters)
+		xtdi = ""; //implication degree
+		xt_multc = ""; //all the xi indicators (like "&x1=...&x2=....&x3=...")
+		xt_an = ""; //user ID
+		xt_ac = ""; //category ID
+		//do not modify below
+		if (window.xtparam!=null){window.xtparam+="&ac="+xt_ac+"&an="+xt_an+xt_multc;}
+		else{window.xtparam="&ac="+xt_ac+"&an="+xt_an+xt_multc;};
+		xtidmod = ""; //ClickZone model id
+		xtergo = ""; //0 to deactivate ClickZone
+		//-->
+	</script>
+	<script type="text/javascript" src="/web/20161115042339js_/https://www.banque-france.fr/typo3conf/ext/bdf_xiti/res/js/xitiAnalyzer.js"></script>
+    <script type="text/javascript" src="/web/20161115042339js_/https://www.banque-france.fr/fileadmin/www.banque-france.fr/templates/js/xtclicks.js"></script>
+    <script type="text/javascript" src="/web/20161115042339js_/https://www.banque-france.fr/fileadmin/www.banque-france.fr/templates/js/xtcore.js"></script>
+	<noscript>
+		<img width="1" height="1" alt="" src="https://web.archive.org/web/20161115042339im_/https://logs1241.xiti.com/hit.xiti?s=488582&amp;s2=1&amp;p=Banque_de_France::Accueil&amp;di=&amp;an=&amp;ac="/>
+	</noscript>
+</div>
+        <script type="text/javascript">
+            var lightboxTransitionSpeed = 1200;
+            var transitionSpeed = 1200;
+        </script>
+	<div id="cookiePolicyBar">
+		<p>En poursuivant votre navigation sur ce site, vous acceptez l’utilisation de cookies. Pour en savoir plus, 
+			
+				<a href="la-banque-de-france/informations-sur-les-donnees-personnelles.html">cliquez ici.</a>
+			
+			<a class="close" href="accueil.html?tx_cookiepolicybar_pi1%5Baction%5D=close&amp;tx_cookiepolicybar_pi1%5Bcontroller%5D=CookieBar&amp;cHash=1bdacdbf111f5a779a017cef527603bc">X</a>
+		</p>
+	</div>
+
+<script src="/web/20161115042339js_/https://www.banque-france.fr/typo3temp/compressor/merged-2649ef52ba3e67b485366708f3102359.js?1435764003" type="text/javascript"></script>
+
+<script src="/web/20161115042339js_/https://www.banque-france.fr/typo3temp/compressor/merged-e998880ef34faba42f2533aef81dbda3.js?1479143886" type="text/javascript"></script>
+<script src="/web/20161115042339js_/https://www.banque-france.fr/fileadmin/www.banque-france.fr/templates/js/jquery-ui-1.11.0.custom.min.js?1427965378" type="text/javascript"></script>
+<script src="/web/20161115042339js_/https://www.banque-france.fr/fileadmin/www.banque-france.fr/templates/js/jquery.dataTables.min.js?1427965378" type="text/javascript"></script>
+
+
+
+</body>
+</html><!--
+     FILE ARCHIVED ON 04:23:39 Nov 15, 2016 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 16:33:36 Jun 08, 2020.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  load_resource: 740.391
+  PetaboxLoader3.resolve: 721.313
+  PetaboxLoader3.datanode: 104.435 (4)
+  LoadShardBlock: 89.597 (3)
+  exclusion.robots: 0.36
+  exclusion.robots.policy: 0.345
+  RedisCDXSource: 19.55
+  esindex: 0.017
+  captures_list: 148.83
+  CDXLines.iter: 20.36 (3)
+-->

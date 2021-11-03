@@ -1,0 +1,272 @@
+Adjetives_Verbs,Nouns_Dependent,Adjetive_Type
+absence de,confiance,Negative
+affaibli,confiance,Negative
+atténué,confiance,Negative
+baisser,confiance,Negative
+chute de,confiance,Negative
+crise de,confiance,Negative
+diminuer,confiance,Negative
+écroulé,confiance,Negative
+en baisse,confiance,Negative
+endommagé,confiance,Negative
+faible*,confiance,Negative
+fragile ,confiance,Negative
+insuffisant ,confiance,Negative
+limité,confiance,Negative
+manque de,confiance,Negative
+pas assez de,confiance,Negative
+pas de,confiance,Negative
+pénurie,confiance,Negative
+perdre,confiance,Negative
+perdu,confiance,Negative
+perte de,confiance,Negative
+peu de,confiance,Negative
+plonger,confiance,Negative
+rabattre,confiance,Negative
+réduire ,confiance,Negative
+s'effondre,confiance,Negative
+sans,confiance,Negative
+absence de,crédibilité,Negative
+affaibli,crédibilité,Negative
+atténué,crédibilité,Negative
+baisser,crédibilité,Negative
+chute de,crédibilité,Negative
+crise de,crédibilité,Negative
+diminuer,crédibilité,Negative
+écroulé,crédibilité,Negative
+en baisse,crédibilité,Negative
+endommagé,crédibilité,Negative
+faible*,crédibilité,Negative
+fragile ,crédibilité,Negative
+insuffisant ,crédibilité,Negative
+limité,crédibilité,Negative
+manque de,crédibilité,Negative
+pas assez de,crédibilité,Negative
+pas de,crédibilité,Negative
+pénurie,crédibilité,Negative
+perdre,crédibilité,Negative
+perdu,crédibilité,Negative
+perte de,crédibilité,Negative
+peu de,crédibilité,Negative
+plonger,crédibilité,Negative
+rabattre,crédibilité,Negative
+réduire ,crédibilité,Negative
+s'effondre,crédibilité,Negative
+sans,crédibilité,Negative
+absence de,croyance,Negative
+affaibli,croyance,Negative
+atténué,croyance,Negative
+baisser,croyance,Negative
+chute de,croyance,Negative
+crise de,croyance,Negative
+diminuer,croyance,Negative
+écroulé,croyance,Negative
+en baisse,croyance,Negative
+endommagé,croyance,Negative
+faible*,croyance,Negative
+fragile ,croyance,Negative
+insuffisant ,croyance,Negative
+limité,croyance,Negative
+manque de,croyance,Negative
+pas assez de,croyance,Negative
+pas de,croyance,Negative
+pénurie,croyance,Negative
+perdre,croyance,Negative
+perdu,croyance,Negative
+perte de,croyance,Negative
+peu de,croyance,Negative
+plonger,croyance,Negative
+rabattre,croyance,Negative
+réduire ,croyance,Negative
+s'effondre,croyance,Negative
+sans,croyance,Negative
+absence de,espoir,Negative
+affaibli,espoir,Negative
+atténué,espoir,Negative
+baisser,espoir,Negative
+chute de,espoir,Negative
+crise de,espoir,Negative
+diminuer,espoir,Negative
+écroulé,espoir,Negative
+en baisse,espoir,Negative
+endommagé,espoir,Negative
+faible*,espoir,Negative
+fragile ,espoir,Negative
+insuffisant ,espoir,Negative
+limité,espoir,Negative
+manque de,espoir,Negative
+pas assez de,espoir,Negative
+pas de,espoir,Negative
+pénurie,espoir,Negative
+perdre,espoir,Negative
+perdu,espoir,Negative
+perte de,espoir,Negative
+peu de,espoir,Negative
+plonger,espoir,Negative
+rabattre,espoir,Negative
+réduire ,espoir,Negative
+s'effondre,espoir,Negative
+sans,espoir,Negative
+absence de,foi,Negative
+affaibli,foi,Negative
+atténué,foi,Negative
+baisser,foi,Negative
+chute de,foi,Negative
+crise de,foi,Negative
+diminuer,foi,Negative
+écroulé,foi,Negative
+en baisse,foi,Negative
+endommagé,foi,Negative
+faible*,foi,Negative
+fragile ,foi,Negative
+insuffisant ,foi,Negative
+limité,foi,Negative
+manque de,foi,Negative
+pas assez de,foi,Negative
+pas de,foi,Negative
+pénurie,foi,Negative
+perdre,foi,Negative
+perdu,foi,Negative
+perte de,foi,Negative
+peu de,foi,Negative
+plonger,foi,Negative
+rabattre,foi,Negative
+réduire ,foi,Negative
+s'effondre,foi,Negative
+sans,foi,Negative
+assurer ,confiance,Positive
+augmenter,confiance,Positive
+communiquer,confiance,Positive
+confirmer ,confiance,Positive
+construire,confiance,Positive
+créer,confiance,Positive
+donner,confiance,Positive
+élevé,confiance,Positive
+établir,confiance,Positive
+favoriser,confiance,Positive
+forger,confiance,Positive
+grand,confiance,Positive
+immense,confiance,Positive
+infuser,confiance,Positive
+inspirer,confiance,Positive
+instituer,confiance,Positive
+insuffler,confiance,Positive
+montrer,confiance,Positive
+plus,confiance,Positive
+reconstruire,confiance,Positive
+redonner ,confiance,Positive
+relever,confiance,Positive
+remonter ,confiance,Positive
+renforcer,confiance,Positive
+représenter,confiance,Positive
+restaurer,confiance,Positive
+soutenir ,confiance,Positive
+assurer ,crédibilité,Positive
+augmenter,crédibilité,Positive
+communiquer,crédibilité,Positive
+confirmer ,crédibilité,Positive
+construire,crédibilité,Positive
+créer,crédibilité,Positive
+donner,crédibilité,Positive
+élevé,crédibilité,Positive
+établir,crédibilité,Positive
+favoriser,crédibilité,Positive
+forger,crédibilité,Positive
+grand,crédibilité,Positive
+immense,crédibilité,Positive
+infuser,crédibilité,Positive
+inspirer,crédibilité,Positive
+instituer,crédibilité,Positive
+insuffler,crédibilité,Positive
+montrer,crédibilité,Positive
+plus,crédibilité,Positive
+reconstruire,crédibilité,Positive
+redonner ,crédibilité,Positive
+relever,crédibilité,Positive
+remonter ,crédibilité,Positive
+renforcer,crédibilité,Positive
+représenter,crédibilité,Positive
+restaurer,crédibilité,Positive
+soutenir ,crédibilité,Positive
+assurer ,croyance,Positive
+augmenter,croyance,Positive
+communiquer,croyance,Positive
+confirmer ,croyance,Positive
+construire,croyance,Positive
+créer,croyance,Positive
+donner,croyance,Positive
+élevé,croyance,Positive
+établir,croyance,Positive
+favoriser,croyance,Positive
+forger,croyance,Positive
+grand,croyance,Positive
+immense,croyance,Positive
+infuser,croyance,Positive
+inspirer,croyance,Positive
+instituer,croyance,Positive
+insuffler,croyance,Positive
+montrer,croyance,Positive
+plus,croyance,Positive
+reconstruire,croyance,Positive
+redonner ,croyance,Positive
+relever,croyance,Positive
+remonter ,croyance,Positive
+renforcer,croyance,Positive
+représenter,croyance,Positive
+restaurer,croyance,Positive
+soutenir ,croyance,Positive
+assurer ,espoir,Positive
+augmenter,espoir,Positive
+communiquer,espoir,Positive
+confirmer ,espoir,Positive
+construire,espoir,Positive
+créer,espoir,Positive
+donner,espoir,Positive
+élevé,espoir,Positive
+établir,espoir,Positive
+favoriser,espoir,Positive
+forger,espoir,Positive
+grand,espoir,Positive
+immense,espoir,Positive
+infuser,espoir,Positive
+inspirer,espoir,Positive
+instituer,espoir,Positive
+insuffler,espoir,Positive
+montrer,espoir,Positive
+plus,espoir,Positive
+reconstruire,espoir,Positive
+redonner ,espoir,Positive
+relever,espoir,Positive
+remonter ,espoir,Positive
+renforcer,espoir,Positive
+représenter,espoir,Positive
+restaurer,espoir,Positive
+soutenir ,espoir,Positive
+assurer ,foi,Positive
+augmenter,foi,Positive
+communiquer,foi,Positive
+confirmer ,foi,Positive
+construire,foi,Positive
+créer,foi,Positive
+donner,foi,Positive
+élevé,foi,Positive
+établir,foi,Positive
+favoriser,foi,Positive
+forger,foi,Positive
+grand,foi,Positive
+immense,foi,Positive
+infuser,foi,Positive
+inspirer,foi,Positive
+instituer,foi,Positive
+insuffler,foi,Positive
+montrer,foi,Positive
+plus,foi,Positive
+reconstruire,foi,Positive
+redonner ,foi,Positive
+relever,foi,Positive
+remonter ,foi,Positive
+renforcer,foi,Positive
+représenter,foi,Positive
+restaurer,foi,Positive
+soutenir ,foi,Positive
+,méfiance,Negative

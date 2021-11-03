@@ -1,0 +1,1787 @@
+Adjetives_Verbs,Nouns_Dependent,Adjetive_Type
+aggravant,actif*,Negative
+amorti,actif*,Negative
+attentif,actif*,Negative
+bas,actif*,Negative
+chute ,actif*,Negative
+décéléré,actif*,Negative
+défavorable,actif*,Negative
+déprimé,actif*,Negative
+déstabilisant,actif*,Negative
+détérioré,actif*,Negative
+dévalué,actif*,Negative
+difficile,actif*,Negative
+diminuant,actif*,Negative
+disparu,actif*,Negative
+effondré,actif*,Negative
+en baisse,actif*,Negative
+en déclin,actif*,Negative
+en difficulté,actif*,Negative
+faible*,actif*,Negative
+fragile,actif*,Negative
+freiné,actif*,Negative
+incertain*,actif*,Negative
+inconvénient,actif*,Negative
+inférieur,actif*,Negative
+insoutenable,actif*,Negative
+instable,actif*,Negative
+lent,actif*,Negative
+limite ,actif*,Negative
+modéré,actif*,Negative
+négatif,actif*,Negative
+pauvre,actif*,Negative
+petit*,actif*,Negative
+pire*,actif*,Negative
+précautionneux,actif*,Negative
+préoccupé,actif*,Negative
+prudent,actif*,Negative
+ralenti,actif*,Negative
+régulateur,actif*,Negative
+scruter*,actif*,Negative
+sévère,actif*,Negative
+spéculatif*,actif*,Negative
+stagnant,actif*,Negative
+surveillé,actif*,Negative
+turbulent ,actif*,Negative
+vers le bas ,actif*,Negative
+volatile,actif*,Negative
+risque*,actif*,Negative
+aggravant,action ,Negative
+amorti,action ,Negative
+attentif,action ,Negative
+bas,action ,Negative
+chute ,action ,Negative
+décéléré,action ,Negative
+défavorable,action ,Negative
+déprimé,action ,Negative
+déstabilisant,action ,Negative
+détérioré,action ,Negative
+dévalué,action ,Negative
+difficile,action ,Negative
+diminuant,action ,Negative
+disparu,action ,Negative
+effondré,action ,Negative
+en baisse,action ,Negative
+en déclin,action ,Negative
+en difficulté,action ,Negative
+faible*,action ,Negative
+fragile,action ,Negative
+freiné,action ,Negative
+incertain*,action ,Negative
+inconvénient,action ,Negative
+inférieur,action ,Negative
+insoutenable,action ,Negative
+instable,action ,Negative
+lent,action ,Negative
+limite ,action ,Negative
+modéré,action ,Negative
+négatif,action ,Negative
+pauvre,action ,Negative
+petit*,action ,Negative
+pire*,action ,Negative
+précautionneux,action ,Negative
+préoccupé,action ,Negative
+prudent,action ,Negative
+ralenti,action ,Negative
+régulateur,action ,Negative
+scruter*,action ,Negative
+sévère,action ,Negative
+spéculatif*,action ,Negative
+stagnant,action ,Negative
+surveillé,action ,Negative
+turbulent ,action ,Negative
+vers le bas ,action ,Negative
+volatile,action ,Negative
+risque*,action ,Negative
+aggravant,banque*,Negative
+amorti,banque*,Negative
+attentif,banque*,Negative
+bas,banque*,Negative
+chute ,banque*,Negative
+décéléré,banque*,Negative
+défavorable,banque*,Negative
+déprimé,banque*,Negative
+déstabilisant,banque*,Negative
+détérioré,banque*,Negative
+dévalué,banque*,Negative
+difficile,banque*,Negative
+diminuant,banque*,Negative
+disparu,banque*,Negative
+effondré,banque*,Negative
+en baisse,banque*,Negative
+en déclin,banque*,Negative
+en difficulté,banque*,Negative
+faible*,banque*,Negative
+fragile,banque*,Negative
+freiné,banque*,Negative
+incertain*,banque*,Negative
+inconvénient,banque*,Negative
+inférieur,banque*,Negative
+insoutenable,banque*,Negative
+instable,banque*,Negative
+lent,banque*,Negative
+limite ,banque*,Negative
+modéré,banque*,Negative
+négatif,banque*,Negative
+pauvre,banque*,Negative
+petit*,banque*,Negative
+pire*,banque*,Negative
+précautionneux,banque*,Negative
+préoccupé,banque*,Negative
+prudent,banque*,Negative
+ralenti,banque*,Negative
+régulateur,banque*,Negative
+scruter*,banque*,Negative
+sévère,banque*,Negative
+spéculatif*,banque*,Negative
+stagnant,banque*,Negative
+surveillé,banque*,Negative
+turbulent ,banque*,Negative
+vers le bas ,banque*,Negative
+volatile,banque*,Negative
+risque*,banque*,Negative
+aggravant,bénéfice,Negative
+amorti,bénéfice,Negative
+attentif,bénéfice,Negative
+bas,bénéfice,Negative
+chute ,bénéfice,Negative
+décéléré,bénéfice,Negative
+défavorable,bénéfice,Negative
+déprimé,bénéfice,Negative
+déstabilisant,bénéfice,Negative
+détérioré,bénéfice,Negative
+dévalué,bénéfice,Negative
+difficile,bénéfice,Negative
+diminuant,bénéfice,Negative
+disparu,bénéfice,Negative
+effondré,bénéfice,Negative
+en baisse,bénéfice,Negative
+en déclin,bénéfice,Negative
+en difficulté,bénéfice,Negative
+faible*,bénéfice,Negative
+fragile,bénéfice,Negative
+freiné,bénéfice,Negative
+incertain*,bénéfice,Negative
+inconvénient,bénéfice,Negative
+inférieur,bénéfice,Negative
+insoutenable,bénéfice,Negative
+instable,bénéfice,Negative
+lent,bénéfice,Negative
+limite ,bénéfice,Negative
+modéré,bénéfice,Negative
+négatif,bénéfice,Negative
+pauvre,bénéfice,Negative
+petit*,bénéfice,Negative
+pire*,bénéfice,Negative
+précautionneux,bénéfice,Negative
+préoccupé,bénéfice,Negative
+prudent,bénéfice,Negative
+ralenti,bénéfice,Negative
+régulateur,bénéfice,Negative
+scruter*,bénéfice,Negative
+sévère,bénéfice,Negative
+spéculatif*,bénéfice,Negative
+stagnant,bénéfice,Negative
+surveillé,bénéfice,Negative
+turbulent ,bénéfice,Negative
+vers le bas ,bénéfice,Negative
+volatile,bénéfice,Negative
+risque*,bénéfice,Negative
+aggravant,crédit ,Negative
+amorti,crédit ,Negative
+attentif,crédit ,Negative
+bas,crédit ,Negative
+chute ,crédit ,Negative
+décéléré,crédit ,Negative
+défavorable,crédit ,Negative
+déprimé,crédit ,Negative
+déstabilisant,crédit ,Negative
+détérioré,crédit ,Negative
+dévalué,crédit ,Negative
+difficile,crédit ,Negative
+diminuant,crédit ,Negative
+disparu,crédit ,Negative
+effondré,crédit ,Negative
+en baisse,crédit ,Negative
+en déclin,crédit ,Negative
+en difficulté,crédit ,Negative
+faible*,crédit ,Negative
+fragile,crédit ,Negative
+freiné,crédit ,Negative
+incertain*,crédit ,Negative
+inconvénient,crédit ,Negative
+inférieur,crédit ,Negative
+insoutenable,crédit ,Negative
+instable,crédit ,Negative
+lent,crédit ,Negative
+limite ,crédit ,Negative
+modéré,crédit ,Negative
+négatif,crédit ,Negative
+pauvre,crédit ,Negative
+petit*,crédit ,Negative
+pire*,crédit ,Negative
+précautionneux,crédit ,Negative
+préoccupé,crédit ,Negative
+prudent,crédit ,Negative
+ralenti,crédit ,Negative
+régulateur,crédit ,Negative
+scruter*,crédit ,Negative
+sévère,crédit ,Negative
+spéculatif*,crédit ,Negative
+stagnant,crédit ,Negative
+surveillé,crédit ,Negative
+turbulent ,crédit ,Negative
+vers le bas ,crédit ,Negative
+volatile,crédit ,Negative
+risque*,crédit ,Negative
+aggravant,croissance,Negative
+amorti,croissance,Negative
+attentif,croissance,Negative
+bas,croissance,Negative
+chute ,croissance,Negative
+décéléré,croissance,Negative
+défavorable,croissance,Negative
+déprimé,croissance,Negative
+déstabilisant,croissance,Negative
+détérioré,croissance,Negative
+dévalué,croissance,Negative
+difficile,croissance,Negative
+diminuant,croissance,Negative
+disparu,croissance,Negative
+effondré,croissance,Negative
+en baisse,croissance,Negative
+en déclin,croissance,Negative
+en difficulté,croissance,Negative
+faible*,croissance,Negative
+fragile,croissance,Negative
+freiné,croissance,Negative
+incertain*,croissance,Negative
+inconvénient,croissance,Negative
+inférieur,croissance,Negative
+insoutenable,croissance,Negative
+instable,croissance,Negative
+lent,croissance,Negative
+limite ,croissance,Negative
+modéré,croissance,Negative
+négatif,croissance,Negative
+pauvre,croissance,Negative
+petit*,croissance,Negative
+pire*,croissance,Negative
+précautionneux,croissance,Negative
+préoccupé,croissance,Negative
+prudent,croissance,Negative
+ralenti,croissance,Negative
+régulateur,croissance,Negative
+scruter*,croissance,Negative
+sévère,croissance,Negative
+spéculatif*,croissance,Negative
+stagnant,croissance,Negative
+surveillé,croissance,Negative
+turbulent ,croissance,Negative
+vers le bas ,croissance,Negative
+volatile,croissance,Negative
+risque*,croissance,Negative
+aggravant,financier ,Negative
+amorti,financier ,Negative
+attentif,financier ,Negative
+bas,financier ,Negative
+chute ,financier ,Negative
+décéléré,financier ,Negative
+défavorable,financier ,Negative
+déprimé,financier ,Negative
+déstabilisant,financier ,Negative
+détérioré,financier ,Negative
+dévalué,financier ,Negative
+difficile,financier ,Negative
+diminuant,financier ,Negative
+disparu,financier ,Negative
+effondré,financier ,Negative
+en baisse,financier ,Negative
+en déclin,financier ,Negative
+en difficulté,financier ,Negative
+faible*,financier ,Negative
+fragile,financier ,Negative
+freiné,financier ,Negative
+incertain*,financier ,Negative
+inconvénient,financier ,Negative
+inférieur,financier ,Negative
+insoutenable,financier ,Negative
+instable,financier ,Negative
+lent,financier ,Negative
+limite ,financier ,Negative
+modéré,financier ,Negative
+négatif,financier ,Negative
+pauvre,financier ,Negative
+petit*,financier ,Negative
+pire*,financier ,Negative
+précautionneux,financier ,Negative
+préoccupé,financier ,Negative
+prudent,financier ,Negative
+ralenti,financier ,Negative
+régulateur,financier ,Negative
+scruter*,financier ,Negative
+sévère,financier ,Negative
+spéculatif*,financier ,Negative
+stagnant,financier ,Negative
+surveillé,financier ,Negative
+turbulent ,financier ,Negative
+vers le bas ,financier ,Negative
+volatile,financier ,Negative
+risque*,financier ,Negative
+aggravant,instrument* ,Negative
+amorti,instrument* ,Negative
+attentif,instrument* ,Negative
+bas,instrument* ,Negative
+chute ,instrument* ,Negative
+décéléré,instrument* ,Negative
+défavorable,instrument* ,Negative
+déprimé,instrument* ,Negative
+déstabilisant,instrument* ,Negative
+détérioré,instrument* ,Negative
+dévalué,instrument* ,Negative
+difficile,instrument* ,Negative
+diminuant,instrument* ,Negative
+disparu,instrument* ,Negative
+effondré,instrument* ,Negative
+en baisse,instrument* ,Negative
+en déclin,instrument* ,Negative
+en difficulté,instrument* ,Negative
+faible*,instrument* ,Negative
+fragile,instrument* ,Negative
+freiné,instrument* ,Negative
+incertain*,instrument* ,Negative
+inconvénient,instrument* ,Negative
+inférieur,instrument* ,Negative
+insoutenable,instrument* ,Negative
+instable,instrument* ,Negative
+lent,instrument* ,Negative
+limite ,instrument* ,Negative
+modéré,instrument* ,Negative
+négatif,instrument* ,Negative
+pauvre,instrument* ,Negative
+petit*,instrument* ,Negative
+pire*,instrument* ,Negative
+précautionneux,instrument* ,Negative
+préoccupé,instrument* ,Negative
+prudent,instrument* ,Negative
+ralenti,instrument* ,Negative
+régulateur,instrument* ,Negative
+scruter*,instrument* ,Negative
+sévère,instrument* ,Negative
+spéculatif*,instrument* ,Negative
+stagnant,instrument* ,Negative
+surveillé,instrument* ,Negative
+turbulent ,instrument* ,Negative
+vers le bas ,instrument* ,Negative
+volatile,instrument* ,Negative
+risque*,instrument* ,Negative
+aggravant,investissement,Negative
+amorti,investissement,Negative
+attentif,investissement,Negative
+bas,investissement,Negative
+chute ,investissement,Negative
+décéléré,investissement,Negative
+défavorable,investissement,Negative
+déprimé,investissement,Negative
+déstabilisant,investissement,Negative
+détérioré,investissement,Negative
+dévalué,investissement,Negative
+difficile,investissement,Negative
+diminuant,investissement,Negative
+disparu,investissement,Negative
+effondré,investissement,Negative
+en baisse,investissement,Negative
+en déclin,investissement,Negative
+en difficulté,investissement,Negative
+faible*,investissement,Negative
+fragile,investissement,Negative
+freiné,investissement,Negative
+incertain*,investissement,Negative
+inconvénient,investissement,Negative
+inférieur,investissement,Negative
+insoutenable,investissement,Negative
+instable,investissement,Negative
+lent,investissement,Negative
+limite ,investissement,Negative
+modéré,investissement,Negative
+négatif,investissement,Negative
+pauvre,investissement,Negative
+petit*,investissement,Negative
+pire*,investissement,Negative
+précautionneux,investissement,Negative
+préoccupé,investissement,Negative
+prudent,investissement,Negative
+ralenti,investissement,Negative
+régulateur,investissement,Negative
+scruter*,investissement,Negative
+sévère,investissement,Negative
+spéculatif*,investissement,Negative
+stagnant,investissement,Negative
+surveillé,investissement,Negative
+turbulent ,investissement,Negative
+vers le bas ,investissement,Negative
+volatile,investissement,Negative
+risque*,investissement,Negative
+aggravant,investisseur*,Negative
+amorti,investisseur*,Negative
+attentif,investisseur*,Negative
+bas,investisseur*,Negative
+chute ,investisseur*,Negative
+décéléré,investisseur*,Negative
+défavorable,investisseur*,Negative
+déprimé,investisseur*,Negative
+déstabilisant,investisseur*,Negative
+détérioré,investisseur*,Negative
+dévalué,investisseur*,Negative
+difficile,investisseur*,Negative
+diminuant,investisseur*,Negative
+disparu,investisseur*,Negative
+effondré,investisseur*,Negative
+en baisse,investisseur*,Negative
+en déclin,investisseur*,Negative
+en difficulté,investisseur*,Negative
+faible*,investisseur*,Negative
+fragile,investisseur*,Negative
+freiné,investisseur*,Negative
+incertain*,investisseur*,Negative
+inconvénient,investisseur*,Negative
+inférieur,investisseur*,Negative
+insoutenable,investisseur*,Negative
+instable,investisseur*,Negative
+lent,investisseur*,Negative
+limite ,investisseur*,Negative
+modéré,investisseur*,Negative
+négatif,investisseur*,Negative
+pauvre,investisseur*,Negative
+petit*,investisseur*,Negative
+pire*,investisseur*,Negative
+précautionneux,investisseur*,Negative
+préoccupé,investisseur*,Negative
+prudent,investisseur*,Negative
+ralenti,investisseur*,Negative
+régulateur,investisseur*,Negative
+scruter*,investisseur*,Negative
+sévère,investisseur*,Negative
+spéculatif*,investisseur*,Negative
+stagnant,investisseur*,Negative
+surveillé,investisseur*,Negative
+turbulent ,investisseur*,Negative
+vers le bas ,investisseur*,Negative
+volatile,investisseur*,Negative
+risque*,investisseur*,Negative
+aggravant,liquidité,Negative
+amorti,liquidité,Negative
+attentif,liquidité,Negative
+bas,liquidité,Negative
+chute ,liquidité,Negative
+décéléré,liquidité,Negative
+défavorable,liquidité,Negative
+déprimé,liquidité,Negative
+déstabilisant,liquidité,Negative
+détérioré,liquidité,Negative
+dévalué,liquidité,Negative
+difficile,liquidité,Negative
+diminuant,liquidité,Negative
+disparu,liquidité,Negative
+effondré,liquidité,Negative
+en baisse,liquidité,Negative
+en déclin,liquidité,Negative
+en difficulté,liquidité,Negative
+faible*,liquidité,Negative
+fragile,liquidité,Negative
+freiné,liquidité,Negative
+incertain*,liquidité,Negative
+inconvénient,liquidité,Negative
+inférieur,liquidité,Negative
+insoutenable,liquidité,Negative
+instable,liquidité,Negative
+lent,liquidité,Negative
+limite ,liquidité,Negative
+modéré,liquidité,Negative
+négatif,liquidité,Negative
+pauvre,liquidité,Negative
+petit*,liquidité,Negative
+pire*,liquidité,Negative
+précautionneux,liquidité,Negative
+préoccupé,liquidité,Negative
+prudent,liquidité,Negative
+ralenti,liquidité,Negative
+régulateur,liquidité,Negative
+scruter*,liquidité,Negative
+sévère,liquidité,Negative
+spéculatif*,liquidité,Negative
+stagnant,liquidité,Negative
+surveillé,liquidité,Negative
+turbulent ,liquidité,Negative
+vers le bas ,liquidité,Negative
+volatile,liquidité,Negative
+risque*,liquidité,Negative
+aggravant,marché*,Negative
+amorti,marché*,Negative
+attentif,marché*,Negative
+bas,marché*,Negative
+chute ,marché*,Negative
+décéléré,marché*,Negative
+défavorable,marché*,Negative
+déprimé,marché*,Negative
+déstabilisant,marché*,Negative
+détérioré,marché*,Negative
+dévalué,marché*,Negative
+difficile,marché*,Negative
+diminuant,marché*,Negative
+disparu,marché*,Negative
+effondré,marché*,Negative
+en baisse,marché*,Negative
+en déclin,marché*,Negative
+en difficulté,marché*,Negative
+faible*,marché*,Negative
+fragile,marché*,Negative
+freiné,marché*,Negative
+incertain*,marché*,Negative
+inconvénient,marché*,Negative
+inférieur,marché*,Negative
+insoutenable,marché*,Negative
+instable,marché*,Negative
+lent,marché*,Negative
+limite ,marché*,Negative
+modéré,marché*,Negative
+négatif,marché*,Negative
+pauvre,marché*,Negative
+petit*,marché*,Negative
+pire*,marché*,Negative
+précautionneux,marché*,Negative
+préoccupé,marché*,Negative
+prudent,marché*,Negative
+ralenti,marché*,Negative
+régulateur,marché*,Negative
+scruter*,marché*,Negative
+sévère,marché*,Negative
+spéculatif*,marché*,Negative
+stagnant,marché*,Negative
+surveillé,marché*,Negative
+turbulent ,marché*,Negative
+vers le bas ,marché*,Negative
+volatile,marché*,Negative
+risque*,marché*,Negative
+aggravant,paiement du capital,Negative
+amorti,paiement du capital,Negative
+attentif,paiement du capital,Negative
+bas,paiement du capital,Negative
+chute ,paiement du capital,Negative
+décéléré,paiement du capital,Negative
+défavorable,paiement du capital,Negative
+déprimé,paiement du capital,Negative
+déstabilisant,paiement du capital,Negative
+détérioré,paiement du capital,Negative
+dévalué,paiement du capital,Negative
+difficile,paiement du capital,Negative
+diminuant,paiement du capital,Negative
+disparu,paiement du capital,Negative
+effondré,paiement du capital,Negative
+en baisse,paiement du capital,Negative
+en déclin,paiement du capital,Negative
+en difficulté,paiement du capital,Negative
+faible*,paiement du capital,Negative
+fragile,paiement du capital,Negative
+freiné,paiement du capital,Negative
+incertain*,paiement du capital,Negative
+inconvénient,paiement du capital,Negative
+inférieur,paiement du capital,Negative
+insoutenable,paiement du capital,Negative
+instable,paiement du capital,Negative
+lent,paiement du capital,Negative
+limite ,paiement du capital,Negative
+modéré,paiement du capital,Negative
+négatif,paiement du capital,Negative
+pauvre,paiement du capital,Negative
+petit*,paiement du capital,Negative
+pire*,paiement du capital,Negative
+précautionneux,paiement du capital,Negative
+préoccupé,paiement du capital,Negative
+prudent,paiement du capital,Negative
+ralenti,paiement du capital,Negative
+régulateur,paiement du capital,Negative
+scruter*,paiement du capital,Negative
+sévère,paiement du capital,Negative
+spéculatif*,paiement du capital,Negative
+stagnant,paiement du capital,Negative
+surveillé,paiement du capital,Negative
+turbulent ,paiement du capital,Negative
+vers le bas ,paiement du capital,Negative
+volatile,paiement du capital,Negative
+risque*,paiement du capital,Negative
+aggravant,portefeuille ,Negative
+amorti,portefeuille ,Negative
+attentif,portefeuille ,Negative
+bas,portefeuille ,Negative
+chute ,portefeuille ,Negative
+décéléré,portefeuille ,Negative
+défavorable,portefeuille ,Negative
+déprimé,portefeuille ,Negative
+déstabilisant,portefeuille ,Negative
+détérioré,portefeuille ,Negative
+dévalué,portefeuille ,Negative
+difficile,portefeuille ,Negative
+diminuant,portefeuille ,Negative
+disparu,portefeuille ,Negative
+effondré,portefeuille ,Negative
+en baisse,portefeuille ,Negative
+en déclin,portefeuille ,Negative
+en difficulté,portefeuille ,Negative
+faible*,portefeuille ,Negative
+fragile,portefeuille ,Negative
+freiné,portefeuille ,Negative
+incertain*,portefeuille ,Negative
+inconvénient,portefeuille ,Negative
+inférieur,portefeuille ,Negative
+insoutenable,portefeuille ,Negative
+instable,portefeuille ,Negative
+lent,portefeuille ,Negative
+limite ,portefeuille ,Negative
+modéré,portefeuille ,Negative
+négatif,portefeuille ,Negative
+pauvre,portefeuille ,Negative
+petit*,portefeuille ,Negative
+pire*,portefeuille ,Negative
+précautionneux,portefeuille ,Negative
+préoccupé,portefeuille ,Negative
+prudent,portefeuille ,Negative
+ralenti,portefeuille ,Negative
+régulateur,portefeuille ,Negative
+scruter*,portefeuille ,Negative
+sévère,portefeuille ,Negative
+spéculatif*,portefeuille ,Negative
+stagnant,portefeuille ,Negative
+surveillé,portefeuille ,Negative
+turbulent ,portefeuille ,Negative
+vers le bas ,portefeuille ,Negative
+volatile,portefeuille ,Negative
+risque*,portefeuille ,Negative
+aggravant,position cyclique,Negative
+amorti,position cyclique,Negative
+attentif,position cyclique,Negative
+bas,position cyclique,Negative
+chute ,position cyclique,Negative
+décéléré,position cyclique,Negative
+défavorable,position cyclique,Negative
+déprimé,position cyclique,Negative
+déstabilisant,position cyclique,Negative
+détérioré,position cyclique,Negative
+dévalué,position cyclique,Negative
+difficile,position cyclique,Negative
+diminuant,position cyclique,Negative
+disparu,position cyclique,Negative
+effondré,position cyclique,Negative
+en baisse,position cyclique,Negative
+en déclin,position cyclique,Negative
+en difficulté,position cyclique,Negative
+faible*,position cyclique,Negative
+fragile,position cyclique,Negative
+freiné,position cyclique,Negative
+incertain*,position cyclique,Negative
+inconvénient,position cyclique,Negative
+inférieur,position cyclique,Negative
+insoutenable,position cyclique,Negative
+instable,position cyclique,Negative
+lent,position cyclique,Negative
+limite ,position cyclique,Negative
+modéré,position cyclique,Negative
+négatif,position cyclique,Negative
+pauvre,position cyclique,Negative
+petit*,position cyclique,Negative
+pire*,position cyclique,Negative
+précautionneux,position cyclique,Negative
+préoccupé,position cyclique,Negative
+prudent,position cyclique,Negative
+ralenti,position cyclique,Negative
+régulateur,position cyclique,Negative
+scruter*,position cyclique,Negative
+sévère,position cyclique,Negative
+spéculatif*,position cyclique,Negative
+stagnant,position cyclique,Negative
+surveillé,position cyclique,Negative
+turbulent ,position cyclique,Negative
+vers le bas ,position cyclique,Negative
+volatile,position cyclique,Negative
+risque*,position cyclique,Negative
+aggravant,recouvrement,Negative
+amorti,recouvrement,Negative
+attentif,recouvrement,Negative
+bas,recouvrement,Negative
+chute ,recouvrement,Negative
+décéléré,recouvrement,Negative
+défavorable,recouvrement,Negative
+déprimé,recouvrement,Negative
+déstabilisant,recouvrement,Negative
+détérioré,recouvrement,Negative
+dévalué,recouvrement,Negative
+difficile,recouvrement,Negative
+diminuant,recouvrement,Negative
+disparu,recouvrement,Negative
+effondré,recouvrement,Negative
+en baisse,recouvrement,Negative
+en déclin,recouvrement,Negative
+en difficulté,recouvrement,Negative
+faible*,recouvrement,Negative
+fragile,recouvrement,Negative
+freiné,recouvrement,Negative
+incertain*,recouvrement,Negative
+inconvénient,recouvrement,Negative
+inférieur,recouvrement,Negative
+insoutenable,recouvrement,Negative
+instable,recouvrement,Negative
+lent,recouvrement,Negative
+limite ,recouvrement,Negative
+modéré,recouvrement,Negative
+négatif,recouvrement,Negative
+pauvre,recouvrement,Negative
+petit*,recouvrement,Negative
+pire*,recouvrement,Negative
+précautionneux,recouvrement,Negative
+préoccupé,recouvrement,Negative
+prudent,recouvrement,Negative
+ralenti,recouvrement,Negative
+régulateur,recouvrement,Negative
+scruter*,recouvrement,Negative
+sévère,recouvrement,Negative
+spéculatif*,recouvrement,Negative
+stagnant,recouvrement,Negative
+surveillé,recouvrement,Negative
+turbulent ,recouvrement,Negative
+vers le bas ,recouvrement,Negative
+volatile,recouvrement,Negative
+risque*,recouvrement,Negative
+aggravant,refinancement ,Negative
+amorti,refinancement ,Negative
+attentif,refinancement ,Negative
+bas,refinancement ,Negative
+chute ,refinancement ,Negative
+décéléré,refinancement ,Negative
+défavorable,refinancement ,Negative
+déprimé,refinancement ,Negative
+déstabilisant,refinancement ,Negative
+détérioré,refinancement ,Negative
+dévalué,refinancement ,Negative
+difficile,refinancement ,Negative
+diminuant,refinancement ,Negative
+disparu,refinancement ,Negative
+effondré,refinancement ,Negative
+en baisse,refinancement ,Negative
+en déclin,refinancement ,Negative
+en difficulté,refinancement ,Negative
+faible*,refinancement ,Negative
+fragile,refinancement ,Negative
+freiné,refinancement ,Negative
+incertain*,refinancement ,Negative
+inconvénient,refinancement ,Negative
+inférieur,refinancement ,Negative
+insoutenable,refinancement ,Negative
+instable,refinancement ,Negative
+lent,refinancement ,Negative
+limite ,refinancement ,Negative
+modéré,refinancement ,Negative
+négatif,refinancement ,Negative
+pauvre,refinancement ,Negative
+petit*,refinancement ,Negative
+pire*,refinancement ,Negative
+précautionneux,refinancement ,Negative
+préoccupé,refinancement ,Negative
+prudent,refinancement ,Negative
+ralenti,refinancement ,Negative
+régulateur,refinancement ,Negative
+scruter*,refinancement ,Negative
+sévère,refinancement ,Negative
+spéculatif*,refinancement ,Negative
+stagnant,refinancement ,Negative
+surveillé,refinancement ,Negative
+turbulent ,refinancement ,Negative
+vers le bas ,refinancement ,Negative
+volatile,refinancement ,Negative
+risque*,refinancement ,Negative
+aggravant,réinvestissement ,Negative
+amorti,réinvestissement ,Negative
+attentif,réinvestissement ,Negative
+bas,réinvestissement ,Negative
+chute ,réinvestissement ,Negative
+décéléré,réinvestissement ,Negative
+défavorable,réinvestissement ,Negative
+déprimé,réinvestissement ,Negative
+déstabilisant,réinvestissement ,Negative
+détérioré,réinvestissement ,Negative
+dévalué,réinvestissement ,Negative
+difficile,réinvestissement ,Negative
+diminuant,réinvestissement ,Negative
+disparu,réinvestissement ,Negative
+effondré,réinvestissement ,Negative
+en baisse,réinvestissement ,Negative
+en déclin,réinvestissement ,Negative
+en difficulté,réinvestissement ,Negative
+faible*,réinvestissement ,Negative
+fragile,réinvestissement ,Negative
+freiné,réinvestissement ,Negative
+incertain*,réinvestissement ,Negative
+inconvénient,réinvestissement ,Negative
+inférieur,réinvestissement ,Negative
+insoutenable,réinvestissement ,Negative
+instable,réinvestissement ,Negative
+lent,réinvestissement ,Negative
+limite ,réinvestissement ,Negative
+modéré,réinvestissement ,Negative
+négatif,réinvestissement ,Negative
+pauvre,réinvestissement ,Negative
+petit*,réinvestissement ,Negative
+pire*,réinvestissement ,Negative
+précautionneux,réinvestissement ,Negative
+préoccupé,réinvestissement ,Negative
+prudent,réinvestissement ,Negative
+ralenti,réinvestissement ,Negative
+régulateur,réinvestissement ,Negative
+scruter*,réinvestissement ,Negative
+sévère,réinvestissement ,Negative
+spéculatif*,réinvestissement ,Negative
+stagnant,réinvestissement ,Negative
+surveillé,réinvestissement ,Negative
+turbulent ,réinvestissement ,Negative
+vers le bas ,réinvestissement ,Negative
+volatile,réinvestissement ,Negative
+risque*,réinvestissement ,Negative
+aggravant,rendement,Negative
+amorti,rendement,Negative
+attentif,rendement,Negative
+bas,rendement,Negative
+chute ,rendement,Negative
+décéléré,rendement,Negative
+défavorable,rendement,Negative
+déprimé,rendement,Negative
+déstabilisant,rendement,Negative
+détérioré,rendement,Negative
+dévalué,rendement,Negative
+difficile,rendement,Negative
+diminuant,rendement,Negative
+disparu,rendement,Negative
+effondré,rendement,Negative
+en baisse,rendement,Negative
+en déclin,rendement,Negative
+en difficulté,rendement,Negative
+faible*,rendement,Negative
+fragile,rendement,Negative
+freiné,rendement,Negative
+incertain*,rendement,Negative
+inconvénient,rendement,Negative
+inférieur,rendement,Negative
+insoutenable,rendement,Negative
+instable,rendement,Negative
+lent,rendement,Negative
+limite ,rendement,Negative
+modéré,rendement,Negative
+négatif,rendement,Negative
+pauvre,rendement,Negative
+petit*,rendement,Negative
+pire*,rendement,Negative
+précautionneux,rendement,Negative
+préoccupé,rendement,Negative
+prudent,rendement,Negative
+ralenti,rendement,Negative
+régulateur,rendement,Negative
+scruter*,rendement,Negative
+sévère,rendement,Negative
+spéculatif*,rendement,Negative
+stagnant,rendement,Negative
+surveillé,rendement,Negative
+turbulent ,rendement,Negative
+vers le bas ,rendement,Negative
+volatile,rendement,Negative
+risque*,rendement,Negative
+accélérer,actif*,Positive
+accueillir,actif*,Positive
+agrandir,actif*,Positive
+améliorer,actif*,Positive
+assurer,actif*,Positive
+augmenter,actif*,Positive
+augmenter,actif*,Positive
+avantageux,actif*,Positive
+croître,actif*,Positive
+développer,actif*,Positive
+durable,actif*,Positive
+élargir,actif*,Positive
+élévé,actif*,Positive
+en croissance,actif*,Positive
+favorable,actif*,Positive
+ferme*,actif*,Positive
+fort,actif*,Positive
+grand*,actif*,Positive
+haut ,actif*,Positive
+large,actif*,Positive
+mieux,actif*,Positive
+monter,actif*,Positive
+non conventionnel,actif*,Positive
+positif ,actif*,Positive
+puissant,actif*,Positive
+rapide,actif*,Positive
+rapide*,actif*,Positive
+rebondir,actif*,Positive
+rebondir,actif*,Positive
+renforcer,actif*,Positive
+résilient,actif*,Positive
+résistent,actif*,Positive
+revigorer,actif*,Positive
+robuste ,actif*,Positive
+sauvegarder ,actif*,Positive
+sécurisé,actif*,Positive
+solide,actif*,Positive
+solvable,actif*,Positive
+soulever,actif*,Positive
+soutenir,actif*,Positive
+stable,actif*,Positive
+stimuler,actif*,Positive
+succès,actif*,Positive
+sûr,actif*,Positive
+vers le haut,actif*,Positive
+meilleur,actif*,Positive
+mieux,actif*,Positive
+accélérer,action ,Positive
+accueillir,action ,Positive
+agrandir,action ,Positive
+améliorer,action ,Positive
+assurer,action ,Positive
+augmenter,action ,Positive
+augmenter,action ,Positive
+avantageux,action ,Positive
+croître,action ,Positive
+développer,action ,Positive
+durable,action ,Positive
+élargir,action ,Positive
+élévé,action ,Positive
+en croissance,action ,Positive
+favorable,action ,Positive
+ferme*,action ,Positive
+fort,action ,Positive
+grand*,action ,Positive
+haut ,action ,Positive
+large,action ,Positive
+mieux,action ,Positive
+monter,action ,Positive
+non conventionnel,action ,Positive
+positif ,action ,Positive
+puissant,action ,Positive
+rapide,action ,Positive
+rapide*,action ,Positive
+rebondir,action ,Positive
+rebondir,action ,Positive
+renforcer,action ,Positive
+résilient,action ,Positive
+résistent,action ,Positive
+revigorer,action ,Positive
+robuste ,action ,Positive
+sauvegarder ,action ,Positive
+sécurisé,action ,Positive
+solide,action ,Positive
+solvable,action ,Positive
+soulever,action ,Positive
+soutenir,action ,Positive
+stable,action ,Positive
+stimuler,action ,Positive
+succès,action ,Positive
+sûr,action ,Positive
+vers le haut,action ,Positive
+meilleur,action ,Positive
+mieux,action ,Positive
+accélérer,banque*,Positive
+accueillir,banque*,Positive
+agrandir,banque*,Positive
+améliorer,banque*,Positive
+assurer,banque*,Positive
+augmenter,banque*,Positive
+augmenter,banque*,Positive
+avantageux,banque*,Positive
+croître,banque*,Positive
+développer,banque*,Positive
+durable,banque*,Positive
+élargir,banque*,Positive
+élévé,banque*,Positive
+en croissance,banque*,Positive
+favorable,banque*,Positive
+ferme*,banque*,Positive
+fort,banque*,Positive
+grand*,banque*,Positive
+haut ,banque*,Positive
+large,banque*,Positive
+mieux,banque*,Positive
+monter,banque*,Positive
+non conventionnel,banque*,Positive
+positif ,banque*,Positive
+puissant,banque*,Positive
+rapide,banque*,Positive
+rapide*,banque*,Positive
+rebondir,banque*,Positive
+rebondir,banque*,Positive
+renforcer,banque*,Positive
+résilient,banque*,Positive
+résistent,banque*,Positive
+revigorer,banque*,Positive
+robuste ,banque*,Positive
+sauvegarder ,banque*,Positive
+sécurisé,banque*,Positive
+solide,banque*,Positive
+solvable,banque*,Positive
+soulever,banque*,Positive
+soutenir,banque*,Positive
+stable,banque*,Positive
+stimuler,banque*,Positive
+succès,banque*,Positive
+sûr,banque*,Positive
+vers le haut,banque*,Positive
+meilleur,banque*,Positive
+mieux,banque*,Positive
+accélérer,bénéfice,Positive
+accueillir,bénéfice,Positive
+agrandir,bénéfice,Positive
+améliorer,bénéfice,Positive
+assurer,bénéfice,Positive
+augmenter,bénéfice,Positive
+augmenter,bénéfice,Positive
+avantageux,bénéfice,Positive
+croître,bénéfice,Positive
+développer,bénéfice,Positive
+durable,bénéfice,Positive
+élargir,bénéfice,Positive
+élévé,bénéfice,Positive
+en croissance,bénéfice,Positive
+favorable,bénéfice,Positive
+ferme*,bénéfice,Positive
+fort,bénéfice,Positive
+grand*,bénéfice,Positive
+haut ,bénéfice,Positive
+large,bénéfice,Positive
+mieux,bénéfice,Positive
+monter,bénéfice,Positive
+non conventionnel,bénéfice,Positive
+positif ,bénéfice,Positive
+puissant,bénéfice,Positive
+rapide,bénéfice,Positive
+rapide*,bénéfice,Positive
+rebondir,bénéfice,Positive
+rebondir,bénéfice,Positive
+renforcer,bénéfice,Positive
+résilient,bénéfice,Positive
+résistent,bénéfice,Positive
+revigorer,bénéfice,Positive
+robuste ,bénéfice,Positive
+sauvegarder ,bénéfice,Positive
+sécurisé,bénéfice,Positive
+solide,bénéfice,Positive
+solvable,bénéfice,Positive
+soulever,bénéfice,Positive
+soutenir,bénéfice,Positive
+stable,bénéfice,Positive
+stimuler,bénéfice,Positive
+succès,bénéfice,Positive
+sûr,bénéfice,Positive
+vers le haut,bénéfice,Positive
+meilleur,bénéfice,Positive
+mieux,bénéfice,Positive
+accélérer,crédit ,Positive
+accueillir,crédit ,Positive
+agrandir,crédit ,Positive
+améliorer,crédit ,Positive
+assurer,crédit ,Positive
+augmenter,crédit ,Positive
+augmenter,crédit ,Positive
+avantageux,crédit ,Positive
+croître,crédit ,Positive
+développer,crédit ,Positive
+durable,crédit ,Positive
+élargir,crédit ,Positive
+élévé,crédit ,Positive
+en croissance,crédit ,Positive
+favorable,crédit ,Positive
+ferme*,crédit ,Positive
+fort,crédit ,Positive
+grand*,crédit ,Positive
+haut ,crédit ,Positive
+large,crédit ,Positive
+mieux,crédit ,Positive
+monter,crédit ,Positive
+non conventionnel,crédit ,Positive
+positif ,crédit ,Positive
+puissant,crédit ,Positive
+rapide,crédit ,Positive
+rapide*,crédit ,Positive
+rebondir,crédit ,Positive
+rebondir,crédit ,Positive
+renforcer,crédit ,Positive
+résilient,crédit ,Positive
+résistent,crédit ,Positive
+revigorer,crédit ,Positive
+robuste ,crédit ,Positive
+sauvegarder ,crédit ,Positive
+sécurisé,crédit ,Positive
+solide,crédit ,Positive
+solvable,crédit ,Positive
+soulever,crédit ,Positive
+soutenir,crédit ,Positive
+stable,crédit ,Positive
+stimuler,crédit ,Positive
+succès,crédit ,Positive
+sûr,crédit ,Positive
+vers le haut,crédit ,Positive
+meilleur,crédit ,Positive
+mieux,crédit ,Positive
+accélérer,croissance,Positive
+accueillir,croissance,Positive
+agrandir,croissance,Positive
+améliorer,croissance,Positive
+assurer,croissance,Positive
+augmenter,croissance,Positive
+augmenter,croissance,Positive
+avantageux,croissance,Positive
+croître,croissance,Positive
+développer,croissance,Positive
+durable,croissance,Positive
+élargir,croissance,Positive
+élévé,croissance,Positive
+en croissance,croissance,Positive
+favorable,croissance,Positive
+ferme*,croissance,Positive
+fort,croissance,Positive
+grand*,croissance,Positive
+haut ,croissance,Positive
+large,croissance,Positive
+mieux,croissance,Positive
+monter,croissance,Positive
+non conventionnel,croissance,Positive
+positif ,croissance,Positive
+puissant,croissance,Positive
+rapide,croissance,Positive
+rapide*,croissance,Positive
+rebondir,croissance,Positive
+rebondir,croissance,Positive
+renforcer,croissance,Positive
+résilient,croissance,Positive
+résistent,croissance,Positive
+revigorer,croissance,Positive
+robuste ,croissance,Positive
+sauvegarder ,croissance,Positive
+sécurisé,croissance,Positive
+solide,croissance,Positive
+solvable,croissance,Positive
+soulever,croissance,Positive
+soutenir,croissance,Positive
+stable,croissance,Positive
+stimuler,croissance,Positive
+succès,croissance,Positive
+sûr,croissance,Positive
+vers le haut,croissance,Positive
+meilleur,croissance,Positive
+mieux,croissance,Positive
+accélérer,financier ,Positive
+accueillir,financier ,Positive
+agrandir,financier ,Positive
+améliorer,financier ,Positive
+assurer,financier ,Positive
+augmenter,financier ,Positive
+augmenter,financier ,Positive
+avantageux,financier ,Positive
+croître,financier ,Positive
+développer,financier ,Positive
+durable,financier ,Positive
+élargir,financier ,Positive
+élévé,financier ,Positive
+en croissance,financier ,Positive
+favorable,financier ,Positive
+ferme*,financier ,Positive
+fort,financier ,Positive
+grand*,financier ,Positive
+haut ,financier ,Positive
+large,financier ,Positive
+mieux,financier ,Positive
+monter,financier ,Positive
+non conventionnel,financier ,Positive
+positif ,financier ,Positive
+puissant,financier ,Positive
+rapide,financier ,Positive
+rapide*,financier ,Positive
+rebondir,financier ,Positive
+rebondir,financier ,Positive
+renforcer,financier ,Positive
+résilient,financier ,Positive
+résistent,financier ,Positive
+revigorer,financier ,Positive
+robuste ,financier ,Positive
+sauvegarder ,financier ,Positive
+sécurisé,financier ,Positive
+solide,financier ,Positive
+solvable,financier ,Positive
+soulever,financier ,Positive
+soutenir,financier ,Positive
+stable,financier ,Positive
+stimuler,financier ,Positive
+succès,financier ,Positive
+sûr,financier ,Positive
+vers le haut,financier ,Positive
+meilleur,financier ,Positive
+mieux,financier ,Positive
+accélérer,instrument* ,Positive
+accueillir,instrument* ,Positive
+agrandir,instrument* ,Positive
+améliorer,instrument* ,Positive
+assurer,instrument* ,Positive
+augmenter,instrument* ,Positive
+augmenter,instrument* ,Positive
+avantageux,instrument* ,Positive
+croître,instrument* ,Positive
+développer,instrument* ,Positive
+durable,instrument* ,Positive
+élargir,instrument* ,Positive
+élévé,instrument* ,Positive
+en croissance,instrument* ,Positive
+favorable,instrument* ,Positive
+ferme*,instrument* ,Positive
+fort,instrument* ,Positive
+grand*,instrument* ,Positive
+haut ,instrument* ,Positive
+large,instrument* ,Positive
+mieux,instrument* ,Positive
+monter,instrument* ,Positive
+non conventionnel,instrument* ,Positive
+positif ,instrument* ,Positive
+puissant,instrument* ,Positive
+rapide,instrument* ,Positive
+rapide*,instrument* ,Positive
+rebondir,instrument* ,Positive
+rebondir,instrument* ,Positive
+renforcer,instrument* ,Positive
+résilient,instrument* ,Positive
+résistent,instrument* ,Positive
+revigorer,instrument* ,Positive
+robuste ,instrument* ,Positive
+sauvegarder ,instrument* ,Positive
+sécurisé,instrument* ,Positive
+solide,instrument* ,Positive
+solvable,instrument* ,Positive
+soulever,instrument* ,Positive
+soutenir,instrument* ,Positive
+stable,instrument* ,Positive
+stimuler,instrument* ,Positive
+succès,instrument* ,Positive
+sûr,instrument* ,Positive
+vers le haut,instrument* ,Positive
+meilleur,instrument* ,Positive
+mieux,instrument* ,Positive
+accélérer,investissement,Positive
+accueillir,investissement,Positive
+agrandir,investissement,Positive
+améliorer,investissement,Positive
+assurer,investissement,Positive
+augmenter,investissement,Positive
+augmenter,investissement,Positive
+avantageux,investissement,Positive
+croître,investissement,Positive
+développer,investissement,Positive
+durable,investissement,Positive
+élargir,investissement,Positive
+élévé,investissement,Positive
+en croissance,investissement,Positive
+favorable,investissement,Positive
+ferme*,investissement,Positive
+fort,investissement,Positive
+grand*,investissement,Positive
+haut ,investissement,Positive
+large,investissement,Positive
+mieux,investissement,Positive
+monter,investissement,Positive
+non conventionnel,investissement,Positive
+positif ,investissement,Positive
+puissant,investissement,Positive
+rapide,investissement,Positive
+rapide*,investissement,Positive
+rebondir,investissement,Positive
+rebondir,investissement,Positive
+renforcer,investissement,Positive
+résilient,investissement,Positive
+résistent,investissement,Positive
+revigorer,investissement,Positive
+robuste ,investissement,Positive
+sauvegarder ,investissement,Positive
+sécurisé,investissement,Positive
+solide,investissement,Positive
+solvable,investissement,Positive
+soulever,investissement,Positive
+soutenir,investissement,Positive
+stable,investissement,Positive
+stimuler,investissement,Positive
+succès,investissement,Positive
+sûr,investissement,Positive
+vers le haut,investissement,Positive
+meilleur,investissement,Positive
+mieux,investissement,Positive
+accélérer,investisseur*,Positive
+accueillir,investisseur*,Positive
+agrandir,investisseur*,Positive
+améliorer,investisseur*,Positive
+assurer,investisseur*,Positive
+augmenter,investisseur*,Positive
+augmenter,investisseur*,Positive
+avantageux,investisseur*,Positive
+croître,investisseur*,Positive
+développer,investisseur*,Positive
+durable,investisseur*,Positive
+élargir,investisseur*,Positive
+élévé,investisseur*,Positive
+en croissance,investisseur*,Positive
+favorable,investisseur*,Positive
+ferme*,investisseur*,Positive
+fort,investisseur*,Positive
+grand*,investisseur*,Positive
+haut ,investisseur*,Positive
+large,investisseur*,Positive
+mieux,investisseur*,Positive
+monter,investisseur*,Positive
+non conventionnel,investisseur*,Positive
+positif ,investisseur*,Positive
+puissant,investisseur*,Positive
+rapide,investisseur*,Positive
+rapide*,investisseur*,Positive
+rebondir,investisseur*,Positive
+rebondir,investisseur*,Positive
+renforcer,investisseur*,Positive
+résilient,investisseur*,Positive
+résistent,investisseur*,Positive
+revigorer,investisseur*,Positive
+robuste ,investisseur*,Positive
+sauvegarder ,investisseur*,Positive
+sécurisé,investisseur*,Positive
+solide,investisseur*,Positive
+solvable,investisseur*,Positive
+soulever,investisseur*,Positive
+soutenir,investisseur*,Positive
+stable,investisseur*,Positive
+stimuler,investisseur*,Positive
+succès,investisseur*,Positive
+sûr,investisseur*,Positive
+vers le haut,investisseur*,Positive
+meilleur,investisseur*,Positive
+mieux,investisseur*,Positive
+accélérer,liquidité,Positive
+accueillir,liquidité,Positive
+agrandir,liquidité,Positive
+améliorer,liquidité,Positive
+assurer,liquidité,Positive
+augmenter,liquidité,Positive
+augmenter,liquidité,Positive
+avantageux,liquidité,Positive
+croître,liquidité,Positive
+développer,liquidité,Positive
+durable,liquidité,Positive
+élargir,liquidité,Positive
+élévé,liquidité,Positive
+en croissance,liquidité,Positive
+favorable,liquidité,Positive
+ferme*,liquidité,Positive
+fort,liquidité,Positive
+grand*,liquidité,Positive
+haut ,liquidité,Positive
+large,liquidité,Positive
+mieux,liquidité,Positive
+monter,liquidité,Positive
+non conventionnel,liquidité,Positive
+positif ,liquidité,Positive
+puissant,liquidité,Positive
+rapide,liquidité,Positive
+rapide*,liquidité,Positive
+rebondir,liquidité,Positive
+rebondir,liquidité,Positive
+renforcer,liquidité,Positive
+résilient,liquidité,Positive
+résistent,liquidité,Positive
+revigorer,liquidité,Positive
+robuste ,liquidité,Positive
+sauvegarder ,liquidité,Positive
+sécurisé,liquidité,Positive
+solide,liquidité,Positive
+solvable,liquidité,Positive
+soulever,liquidité,Positive
+soutenir,liquidité,Positive
+stable,liquidité,Positive
+stimuler,liquidité,Positive
+succès,liquidité,Positive
+sûr,liquidité,Positive
+vers le haut,liquidité,Positive
+meilleur,liquidité,Positive
+mieux,liquidité,Positive
+accélérer,marché*,Positive
+accueillir,marché*,Positive
+agrandir,marché*,Positive
+améliorer,marché*,Positive
+assurer,marché*,Positive
+augmenter,marché*,Positive
+augmenter,marché*,Positive
+avantageux,marché*,Positive
+croître,marché*,Positive
+développer,marché*,Positive
+durable,marché*,Positive
+élargir,marché*,Positive
+élévé,marché*,Positive
+en croissance,marché*,Positive
+favorable,marché*,Positive
+ferme*,marché*,Positive
+fort,marché*,Positive
+grand*,marché*,Positive
+haut ,marché*,Positive
+large,marché*,Positive
+mieux,marché*,Positive
+monter,marché*,Positive
+non conventionnel,marché*,Positive
+positif ,marché*,Positive
+puissant,marché*,Positive
+rapide,marché*,Positive
+rapide*,marché*,Positive
+rebondir,marché*,Positive
+rebondir,marché*,Positive
+renforcer,marché*,Positive
+résilient,marché*,Positive
+résistent,marché*,Positive
+revigorer,marché*,Positive
+robuste ,marché*,Positive
+sauvegarder ,marché*,Positive
+sécurisé,marché*,Positive
+solide,marché*,Positive
+solvable,marché*,Positive
+soulever,marché*,Positive
+soutenir,marché*,Positive
+stable,marché*,Positive
+stimuler,marché*,Positive
+succès,marché*,Positive
+sûr,marché*,Positive
+vers le haut,marché*,Positive
+meilleur,marché*,Positive
+mieux,marché*,Positive
+accélérer,paiement du capital,Positive
+accueillir,paiement du capital,Positive
+agrandir,paiement du capital,Positive
+améliorer,paiement du capital,Positive
+assurer,paiement du capital,Positive
+augmenter,paiement du capital,Positive
+augmenter,paiement du capital,Positive
+avantageux,paiement du capital,Positive
+croître,paiement du capital,Positive
+développer,paiement du capital,Positive
+durable,paiement du capital,Positive
+élargir,paiement du capital,Positive
+élévé,paiement du capital,Positive
+en croissance,paiement du capital,Positive
+favorable,paiement du capital,Positive
+ferme*,paiement du capital,Positive
+fort,paiement du capital,Positive
+grand*,paiement du capital,Positive
+haut ,paiement du capital,Positive
+large,paiement du capital,Positive
+mieux,paiement du capital,Positive
+monter,paiement du capital,Positive
+non conventionnel,paiement du capital,Positive
+positif ,paiement du capital,Positive
+puissant,paiement du capital,Positive
+rapide,paiement du capital,Positive
+rapide*,paiement du capital,Positive
+rebondir,paiement du capital,Positive
+rebondir,paiement du capital,Positive
+renforcer,paiement du capital,Positive
+résilient,paiement du capital,Positive
+résistent,paiement du capital,Positive
+revigorer,paiement du capital,Positive
+robuste ,paiement du capital,Positive
+sauvegarder ,paiement du capital,Positive
+sécurisé,paiement du capital,Positive
+solide,paiement du capital,Positive
+solvable,paiement du capital,Positive
+soulever,paiement du capital,Positive
+soutenir,paiement du capital,Positive
+stable,paiement du capital,Positive
+stimuler,paiement du capital,Positive
+succès,paiement du capital,Positive
+sûr,paiement du capital,Positive
+vers le haut,paiement du capital,Positive
+meilleur,paiement du capital,Positive
+mieux,paiement du capital,Positive
+accélérer,portefeuille ,Positive
+accueillir,portefeuille ,Positive
+agrandir,portefeuille ,Positive
+améliorer,portefeuille ,Positive
+assurer,portefeuille ,Positive
+augmenter,portefeuille ,Positive
+augmenter,portefeuille ,Positive
+avantageux,portefeuille ,Positive
+croître,portefeuille ,Positive
+développer,portefeuille ,Positive
+durable,portefeuille ,Positive
+élargir,portefeuille ,Positive
+élévé,portefeuille ,Positive
+en croissance,portefeuille ,Positive
+favorable,portefeuille ,Positive
+ferme*,portefeuille ,Positive
+fort,portefeuille ,Positive
+grand*,portefeuille ,Positive
+haut ,portefeuille ,Positive
+large,portefeuille ,Positive
+mieux,portefeuille ,Positive
+monter,portefeuille ,Positive
+non conventionnel,portefeuille ,Positive
+positif ,portefeuille ,Positive
+puissant,portefeuille ,Positive
+rapide,portefeuille ,Positive
+rapide*,portefeuille ,Positive
+rebondir,portefeuille ,Positive
+rebondir,portefeuille ,Positive
+renforcer,portefeuille ,Positive
+résilient,portefeuille ,Positive
+résistent,portefeuille ,Positive
+revigorer,portefeuille ,Positive
+robuste ,portefeuille ,Positive
+sauvegarder ,portefeuille ,Positive
+sécurisé,portefeuille ,Positive
+solide,portefeuille ,Positive
+solvable,portefeuille ,Positive
+soulever,portefeuille ,Positive
+soutenir,portefeuille ,Positive
+stable,portefeuille ,Positive
+stimuler,portefeuille ,Positive
+succès,portefeuille ,Positive
+sûr,portefeuille ,Positive
+vers le haut,portefeuille ,Positive
+meilleur,portefeuille ,Positive
+mieux,portefeuille ,Positive
+accélérer,position cyclique,Positive
+accueillir,position cyclique,Positive
+agrandir,position cyclique,Positive
+améliorer,position cyclique,Positive
+assurer,position cyclique,Positive
+augmenter,position cyclique,Positive
+augmenter,position cyclique,Positive
+avantageux,position cyclique,Positive
+croître,position cyclique,Positive
+développer,position cyclique,Positive
+durable,position cyclique,Positive
+élargir,position cyclique,Positive
+élévé,position cyclique,Positive
+en croissance,position cyclique,Positive
+favorable,position cyclique,Positive
+ferme*,position cyclique,Positive
+fort,position cyclique,Positive
+grand*,position cyclique,Positive
+haut ,position cyclique,Positive
+large,position cyclique,Positive
+mieux,position cyclique,Positive
+monter,position cyclique,Positive
+non conventionnel,position cyclique,Positive
+positif ,position cyclique,Positive
+puissant,position cyclique,Positive
+rapide,position cyclique,Positive
+rapide*,position cyclique,Positive
+rebondir,position cyclique,Positive
+rebondir,position cyclique,Positive
+renforcer,position cyclique,Positive
+résilient,position cyclique,Positive
+résistent,position cyclique,Positive
+revigorer,position cyclique,Positive
+robuste ,position cyclique,Positive
+sauvegarder ,position cyclique,Positive
+sécurisé,position cyclique,Positive
+solide,position cyclique,Positive
+solvable,position cyclique,Positive
+soulever,position cyclique,Positive
+soutenir,position cyclique,Positive
+stable,position cyclique,Positive
+stimuler,position cyclique,Positive
+succès,position cyclique,Positive
+sûr,position cyclique,Positive
+vers le haut,position cyclique,Positive
+meilleur,position cyclique,Positive
+mieux,position cyclique,Positive
+accélérer,recouvrement,Positive
+accueillir,recouvrement,Positive
+agrandir,recouvrement,Positive
+améliorer,recouvrement,Positive
+assurer,recouvrement,Positive
+augmenter,recouvrement,Positive
+augmenter,recouvrement,Positive
+avantageux,recouvrement,Positive
+croître,recouvrement,Positive
+développer,recouvrement,Positive
+durable,recouvrement,Positive
+élargir,recouvrement,Positive
+élévé,recouvrement,Positive
+en croissance,recouvrement,Positive
+favorable,recouvrement,Positive
+ferme*,recouvrement,Positive
+fort,recouvrement,Positive
+grand*,recouvrement,Positive
+haut ,recouvrement,Positive
+large,recouvrement,Positive
+mieux,recouvrement,Positive
+monter,recouvrement,Positive
+non conventionnel,recouvrement,Positive
+positif ,recouvrement,Positive
+puissant,recouvrement,Positive
+rapide,recouvrement,Positive
+rapide*,recouvrement,Positive
+rebondir,recouvrement,Positive
+rebondir,recouvrement,Positive
+renforcer,recouvrement,Positive
+résilient,recouvrement,Positive
+résistent,recouvrement,Positive
+revigorer,recouvrement,Positive
+robuste ,recouvrement,Positive
+sauvegarder ,recouvrement,Positive
+sécurisé,recouvrement,Positive
+solide,recouvrement,Positive
+solvable,recouvrement,Positive
+soulever,recouvrement,Positive
+soutenir,recouvrement,Positive
+stable,recouvrement,Positive
+stimuler,recouvrement,Positive
+succès,recouvrement,Positive
+sûr,recouvrement,Positive
+vers le haut,recouvrement,Positive
+meilleur,recouvrement,Positive
+mieux,recouvrement,Positive
+accélérer,refinancement ,Positive
+accueillir,refinancement ,Positive
+agrandir,refinancement ,Positive
+améliorer,refinancement ,Positive
+assurer,refinancement ,Positive
+augmenter,refinancement ,Positive
+augmenter,refinancement ,Positive
+avantageux,refinancement ,Positive
+croître,refinancement ,Positive
+développer,refinancement ,Positive
+durable,refinancement ,Positive
+élargir,refinancement ,Positive
+élévé,refinancement ,Positive
+en croissance,refinancement ,Positive
+favorable,refinancement ,Positive
+ferme*,refinancement ,Positive
+fort,refinancement ,Positive
+grand*,refinancement ,Positive
+haut ,refinancement ,Positive
+large,refinancement ,Positive
+mieux,refinancement ,Positive
+monter,refinancement ,Positive
+non conventionnel,refinancement ,Positive
+positif ,refinancement ,Positive
+puissant,refinancement ,Positive
+rapide,refinancement ,Positive
+rapide*,refinancement ,Positive
+rebondir,refinancement ,Positive
+rebondir,refinancement ,Positive
+renforcer,refinancement ,Positive
+résilient,refinancement ,Positive
+résistent,refinancement ,Positive
+revigorer,refinancement ,Positive
+robuste ,refinancement ,Positive
+sauvegarder ,refinancement ,Positive
+sécurisé,refinancement ,Positive
+solide,refinancement ,Positive
+solvable,refinancement ,Positive
+soulever,refinancement ,Positive
+soutenir,refinancement ,Positive
+stable,refinancement ,Positive
+stimuler,refinancement ,Positive
+succès,refinancement ,Positive
+sûr,refinancement ,Positive
+vers le haut,refinancement ,Positive
+meilleur,refinancement ,Positive
+mieux,refinancement ,Positive
+accélérer,réinvestissement ,Positive
+accueillir,réinvestissement ,Positive
+agrandir,réinvestissement ,Positive
+améliorer,réinvestissement ,Positive
+assurer,réinvestissement ,Positive
+augmenter,réinvestissement ,Positive
+augmenter,réinvestissement ,Positive
+avantageux,réinvestissement ,Positive
+croître,réinvestissement ,Positive
+développer,réinvestissement ,Positive
+durable,réinvestissement ,Positive
+élargir,réinvestissement ,Positive
+élévé,réinvestissement ,Positive
+en croissance,réinvestissement ,Positive
+favorable,réinvestissement ,Positive
+ferme*,réinvestissement ,Positive
+fort,réinvestissement ,Positive
+grand*,réinvestissement ,Positive
+haut ,réinvestissement ,Positive
+large,réinvestissement ,Positive
+mieux,réinvestissement ,Positive
+monter,réinvestissement ,Positive
+non conventionnel,réinvestissement ,Positive
+positif ,réinvestissement ,Positive
+puissant,réinvestissement ,Positive
+rapide,réinvestissement ,Positive
+rapide*,réinvestissement ,Positive
+rebondir,réinvestissement ,Positive
+rebondir,réinvestissement ,Positive
+renforcer,réinvestissement ,Positive
+résilient,réinvestissement ,Positive
+résistent,réinvestissement ,Positive
+revigorer,réinvestissement ,Positive
+robuste ,réinvestissement ,Positive
+sauvegarder ,réinvestissement ,Positive
+sécurisé,réinvestissement ,Positive
+solide,réinvestissement ,Positive
+solvable,réinvestissement ,Positive
+soulever,réinvestissement ,Positive
+soutenir,réinvestissement ,Positive
+stable,réinvestissement ,Positive
+stimuler,réinvestissement ,Positive
+succès,réinvestissement ,Positive
+sûr,réinvestissement ,Positive
+vers le haut,réinvestissement ,Positive
+meilleur,réinvestissement ,Positive
+mieux,réinvestissement ,Positive
+accélérer,rendement,Positive
+accueillir,rendement,Positive
+agrandir,rendement,Positive
+améliorer,rendement,Positive
+assurer,rendement,Positive
+augmenter,rendement,Positive
+augmenter,rendement,Positive
+avantageux,rendement,Positive
+croître,rendement,Positive
+développer,rendement,Positive
+durable,rendement,Positive
+élargir,rendement,Positive
+élévé,rendement,Positive
+en croissance,rendement,Positive
+favorable,rendement,Positive
+ferme*,rendement,Positive
+fort,rendement,Positive
+grand*,rendement,Positive
+haut ,rendement,Positive
+large,rendement,Positive
+mieux,rendement,Positive
+monter,rendement,Positive
+non conventionnel,rendement,Positive
+positif ,rendement,Positive
+puissant,rendement,Positive
+rapide,rendement,Positive
+rapide*,rendement,Positive
+rebondir,rendement,Positive
+rebondir,rendement,Positive
+renforcer,rendement,Positive
+résilient,rendement,Positive
+résistent,rendement,Positive
+revigorer,rendement,Positive
+robuste ,rendement,Positive
+sauvegarder ,rendement,Positive
+sécurisé,rendement,Positive
+solide,rendement,Positive
+solvable,rendement,Positive
+soulever,rendement,Positive
+soutenir,rendement,Positive
+stable,rendement,Positive
+stimuler,rendement,Positive
+succès,rendement,Positive
+sûr,rendement,Positive
+vers le haut,rendement,Positive
+meilleur,rendement,Positive
+mieux,rendement,Positive

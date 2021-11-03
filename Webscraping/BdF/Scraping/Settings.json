@@ -1,0 +1,6 @@
+{
+  "chromeDriverLocation": "//Users/MoritzPfeifer/Documents/GitHub/TASA-and-Central-Bank-Communication/Data/Banque_de_France/Scraping/chromedriver_mac64/chromedriver",
+  "headlessDriver": false,
+  "reDownloadExistingFiles": false
+}
+

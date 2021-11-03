@@ -1,0 +1,555 @@
+Adjetives_Verbs,Nouns_Dependent,Adjetive_Type
+allarmé ,citoyen *,Negative
+baisse,citoyen *,Negative
+blesser,citoyen *,Negative
+bouleversé,citoyen *,Negative
+craintif,citoyen *,Negative
+craintif,citoyen *,Negative
+décliner*,citoyen *,Negative
+déçu,citoyen *,Negative
+défavoriser,citoyen *,Negative
+désapprouver,citoyen *,Negative
+désservir ,citoyen *,Negative
+diminuer,citoyen *,Negative
+en colère,citoyen *,Negative
+en désaccord,citoyen *,Negative
+endommagé*,citoyen *,Negative
+faible*,citoyen *,Negative
+frustrer,citoyen *,Negative
+gêner,citoyen *,Negative
+indigné,citoyen *,Negative
+inquiet,citoyen *,Negative
+insatisfait,citoyen *,Negative
+insuffisant,citoyen *,Negative
+manifesté,citoyen *,Negative
+manque de,citoyen *,Negative
+mécontent*.,citoyen *,Negative
+negatif,citoyen *,Negative
+opposé,citoyen *,Negative
+pas assez,citoyen *,Negative
+pessimiste,citoyen *,Negative
+pire,citoyen *,Negative
+sans,citoyen *,Negative
+soucieux,citoyen *,Negative
+subir*,citoyen *,Negative
+allarmé ,contribuable*,Negative
+baisse,contribuable*,Negative
+blesser,contribuable*,Negative
+bouleversé,contribuable*,Negative
+craintif,contribuable*,Negative
+craintif,contribuable*,Negative
+décliner*,contribuable*,Negative
+déçu,contribuable*,Negative
+défavoriser,contribuable*,Negative
+désapprouver,contribuable*,Negative
+désservir ,contribuable*,Negative
+diminuer,contribuable*,Negative
+en colère,contribuable*,Negative
+en désaccord,contribuable*,Negative
+endommagé*,contribuable*,Negative
+faible*,contribuable*,Negative
+frustrer,contribuable*,Negative
+gêner,contribuable*,Negative
+indigné,contribuable*,Negative
+inquiet,contribuable*,Negative
+insatisfait,contribuable*,Negative
+insuffisant,contribuable*,Negative
+manifesté,contribuable*,Negative
+manque de,contribuable*,Negative
+mécontent*.,contribuable*,Negative
+negatif,contribuable*,Negative
+opposé,contribuable*,Negative
+pas assez,contribuable*,Negative
+pessimiste,contribuable*,Negative
+pire,contribuable*,Negative
+sans,contribuable*,Negative
+soucieux,contribuable*,Negative
+subir*,contribuable*,Negative
+allarmé ,électorat,Negative
+baisse,électorat,Negative
+blesser,électorat,Negative
+bouleversé,électorat,Negative
+craintif,électorat,Negative
+craintif,électorat,Negative
+décliner*,électorat,Negative
+déçu,électorat,Negative
+défavoriser,électorat,Negative
+désapprouver,électorat,Negative
+désservir ,électorat,Negative
+diminuer,électorat,Negative
+en colère,électorat,Negative
+en désaccord,électorat,Negative
+endommagé*,électorat,Negative
+faible*,électorat,Negative
+frustrer,électorat,Negative
+gêner,électorat,Negative
+indigné,électorat,Negative
+inquiet,électorat,Negative
+insatisfait,électorat,Negative
+insuffisant,électorat,Negative
+manifesté,électorat,Negative
+manque de,électorat,Negative
+mécontent*.,électorat,Negative
+negatif,électorat,Negative
+opposé,électorat,Negative
+pas assez,électorat,Negative
+pessimiste,électorat,Negative
+pire,électorat,Negative
+sans,électorat,Negative
+soucieux,électorat,Negative
+subir*,électorat,Negative
+allarmé ,épargne* ,Negative
+baisse,épargne* ,Negative
+blesser,épargne* ,Negative
+bouleversé,épargne* ,Negative
+craintif,épargne* ,Negative
+craintif,épargne* ,Negative
+décliner*,épargne* ,Negative
+déçu,épargne* ,Negative
+défavoriser,épargne* ,Negative
+désapprouver,épargne* ,Negative
+désservir ,épargne* ,Negative
+diminuer,épargne* ,Negative
+en colère,épargne* ,Negative
+en désaccord,épargne* ,Negative
+endommagé*,épargne* ,Negative
+faible*,épargne* ,Negative
+frustrer,épargne* ,Negative
+gêner,épargne* ,Negative
+indigné,épargne* ,Negative
+inquiet,épargne* ,Negative
+insatisfait,épargne* ,Negative
+insuffisant,épargne* ,Negative
+manifesté,épargne* ,Negative
+manque de,épargne* ,Negative
+mécontent*.,épargne* ,Negative
+negatif,épargne* ,Negative
+opposé,épargne* ,Negative
+pas assez,épargne* ,Negative
+pessimiste,épargne* ,Negative
+pire,épargne* ,Negative
+sans,épargne* ,Negative
+soucieux,épargne* ,Negative
+subir*,épargne* ,Negative
+allarmé ,foyer ,Negative
+baisse,foyer ,Negative
+blesser,foyer ,Negative
+bouleversé,foyer ,Negative
+craintif,foyer ,Negative
+craintif,foyer ,Negative
+décliner*,foyer ,Negative
+déçu,foyer ,Negative
+défavoriser,foyer ,Negative
+désapprouver,foyer ,Negative
+désservir ,foyer ,Negative
+diminuer,foyer ,Negative
+en colère,foyer ,Negative
+en désaccord,foyer ,Negative
+endommagé*,foyer ,Negative
+faible*,foyer ,Negative
+frustrer,foyer ,Negative
+gêner,foyer ,Negative
+indigné,foyer ,Negative
+inquiet,foyer ,Negative
+insatisfait,foyer ,Negative
+insuffisant,foyer ,Negative
+manifesté,foyer ,Negative
+manque de,foyer ,Negative
+mécontent*.,foyer ,Negative
+negatif,foyer ,Negative
+opposé,foyer ,Negative
+pas assez,foyer ,Negative
+pessimiste,foyer ,Negative
+pire,foyer ,Negative
+sans,foyer ,Negative
+soucieux,foyer ,Negative
+subir*,foyer ,Negative
+allarmé ,ménage*,Negative
+baisse,ménage*,Negative
+blesser,ménage*,Negative
+bouleversé,ménage*,Negative
+craintif,ménage*,Negative
+craintif,ménage*,Negative
+décliner*,ménage*,Negative
+déçu,ménage*,Negative
+défavoriser,ménage*,Negative
+désapprouver,ménage*,Negative
+désservir ,ménage*,Negative
+diminuer,ménage*,Negative
+en colère,ménage*,Negative
+en désaccord,ménage*,Negative
+endommagé*,ménage*,Negative
+faible*,ménage*,Negative
+frustrer,ménage*,Negative
+gêner,ménage*,Negative
+indigné,ménage*,Negative
+inquiet,ménage*,Negative
+insatisfait,ménage*,Negative
+insuffisant,ménage*,Negative
+manifesté,ménage*,Negative
+manque de,ménage*,Negative
+mécontent*.,ménage*,Negative
+negatif,ménage*,Negative
+opposé,ménage*,Negative
+pas assez,ménage*,Negative
+pessimiste,ménage*,Negative
+pire,ménage*,Negative
+sans,ménage*,Negative
+soucieux,ménage*,Negative
+subir*,ménage*,Negative
+allarmé ,retraite* ,Negative
+baisse,retraite* ,Negative
+blesser,retraite* ,Negative
+bouleversé,retraite* ,Negative
+craintif,retraite* ,Negative
+craintif,retraite* ,Negative
+décliner*,retraite* ,Negative
+déçu,retraite* ,Negative
+défavoriser,retraite* ,Negative
+désapprouver,retraite* ,Negative
+désservir ,retraite* ,Negative
+diminuer,retraite* ,Negative
+en colère,retraite* ,Negative
+en désaccord,retraite* ,Negative
+endommagé*,retraite* ,Negative
+faible*,retraite* ,Negative
+frustrer,retraite* ,Negative
+gêner,retraite* ,Negative
+indigné,retraite* ,Negative
+inquiet,retraite* ,Negative
+insatisfait,retraite* ,Negative
+insuffisant,retraite* ,Negative
+manifesté,retraite* ,Negative
+manque de,retraite* ,Negative
+mécontent*.,retraite* ,Negative
+negatif,retraite* ,Negative
+opposé,retraite* ,Negative
+pas assez,retraite* ,Negative
+pessimiste,retraite* ,Negative
+pire,retraite* ,Negative
+sans,retraite* ,Negative
+soucieux,retraite* ,Negative
+subir*,retraite* ,Negative
+allarmé ,revenu disponible ,Negative
+baisse,revenu disponible ,Negative
+blesser,revenu disponible ,Negative
+bouleversé,revenu disponible ,Negative
+craintif,revenu disponible ,Negative
+craintif,revenu disponible ,Negative
+décliner*,revenu disponible ,Negative
+déçu,revenu disponible ,Negative
+défavoriser,revenu disponible ,Negative
+désapprouver,revenu disponible ,Negative
+désservir ,revenu disponible ,Negative
+diminuer,revenu disponible ,Negative
+en colère,revenu disponible ,Negative
+en désaccord,revenu disponible ,Negative
+endommagé*,revenu disponible ,Negative
+faible*,revenu disponible ,Negative
+frustrer,revenu disponible ,Negative
+gêner,revenu disponible ,Negative
+indigné,revenu disponible ,Negative
+inquiet,revenu disponible ,Negative
+insatisfait,revenu disponible ,Negative
+insuffisant,revenu disponible ,Negative
+manifesté,revenu disponible ,Negative
+manque de,revenu disponible ,Negative
+mécontent*.,revenu disponible ,Negative
+negatif,revenu disponible ,Negative
+opposé,revenu disponible ,Negative
+pas assez,revenu disponible ,Negative
+pessimiste,revenu disponible ,Negative
+pire,revenu disponible ,Negative
+sans,revenu disponible ,Negative
+soucieux,revenu disponible ,Negative
+subir*,revenu disponible ,Negative
+aider,citoyen *,Positive
+améliorer,citoyen *,Positive
+assurer,citoyen *,Positive
+augmenter*,citoyen *,Positive
+avantageux*,citoyen *,Positive
+content ,citoyen *,Positive
+coopérer ,citoyen *,Positive
+croitre,citoyen *,Positive
+élevé*,citoyen *,Positive
+encourager,citoyen *,Positive
+favoriser,citoyen *,Positive
+fortifier,citoyen *,Positive
+généreux*,citoyen *,Positive
+grandir,citoyen *,Positive
+hausse,citoyen *,Positive
+heureux,citoyen *,Positive
+lever,citoyen *,Positive
+monter,citoyen *,Positive
+optimiste,citoyen *,Positive
+positif,citoyen *,Positive
+privilégier,citoyen *,Positive
+protéger*,citoyen *,Positive
+rassasié,citoyen *,Positive
+rassurer,citoyen *,Positive
+reconfort,citoyen *,Positive
+renforcer*,citoyen *,Positive
+satsifait ,citoyen *,Positive
+sécuriser,citoyen *,Positive
+servir,citoyen *,Positive
+solidifier,citoyen *,Positive
+soutenir,citoyen *,Positive
+stimuler,citoyen *,Positive
+unis,citoyen *,Positive
+aider,contribuable*,Positive
+améliorer,contribuable*,Positive
+assurer,contribuable*,Positive
+augmenter*,contribuable*,Positive
+avantageux*,contribuable*,Positive
+content ,contribuable*,Positive
+coopérer ,contribuable*,Positive
+croitre,contribuable*,Positive
+élevé*,contribuable*,Positive
+encourager,contribuable*,Positive
+favoriser,contribuable*,Positive
+fortifier,contribuable*,Positive
+généreux*,contribuable*,Positive
+grandir,contribuable*,Positive
+hausse,contribuable*,Positive
+heureux,contribuable*,Positive
+lever,contribuable*,Positive
+monter,contribuable*,Positive
+optimiste,contribuable*,Positive
+positif,contribuable*,Positive
+privilégier,contribuable*,Positive
+protéger*,contribuable*,Positive
+rassasié,contribuable*,Positive
+rassurer,contribuable*,Positive
+reconfort,contribuable*,Positive
+renforcer*,contribuable*,Positive
+satsifait ,contribuable*,Positive
+sécuriser,contribuable*,Positive
+servir,contribuable*,Positive
+solidifier,contribuable*,Positive
+soutenir,contribuable*,Positive
+stimuler,contribuable*,Positive
+unis,contribuable*,Positive
+aider,électorat,Positive
+améliorer,électorat,Positive
+assurer,électorat,Positive
+augmenter*,électorat,Positive
+avantageux*,électorat,Positive
+content ,électorat,Positive
+coopérer ,électorat,Positive
+croitre,électorat,Positive
+élevé*,électorat,Positive
+encourager,électorat,Positive
+favoriser,électorat,Positive
+fortifier,électorat,Positive
+généreux*,électorat,Positive
+grandir,électorat,Positive
+hausse,électorat,Positive
+heureux,électorat,Positive
+lever,électorat,Positive
+monter,électorat,Positive
+optimiste,électorat,Positive
+positif,électorat,Positive
+privilégier,électorat,Positive
+protéger*,électorat,Positive
+rassasié,électorat,Positive
+rassurer,électorat,Positive
+reconfort,électorat,Positive
+renforcer*,électorat,Positive
+satsifait ,électorat,Positive
+sécuriser,électorat,Positive
+servir,électorat,Positive
+solidifier,électorat,Positive
+soutenir,électorat,Positive
+stimuler,électorat,Positive
+unis,électorat,Positive
+aider,épargne* ,Positive
+améliorer,épargne* ,Positive
+assurer,épargne* ,Positive
+augmenter*,épargne* ,Positive
+avantageux*,épargne* ,Positive
+content ,épargne* ,Positive
+coopérer ,épargne* ,Positive
+croitre,épargne* ,Positive
+élevé*,épargne* ,Positive
+encourager,épargne* ,Positive
+favoriser,épargne* ,Positive
+fortifier,épargne* ,Positive
+généreux*,épargne* ,Positive
+grandir,épargne* ,Positive
+hausse,épargne* ,Positive
+heureux,épargne* ,Positive
+lever,épargne* ,Positive
+monter,épargne* ,Positive
+optimiste,épargne* ,Positive
+positif,épargne* ,Positive
+privilégier,épargne* ,Positive
+protéger*,épargne* ,Positive
+rassasié,épargne* ,Positive
+rassurer,épargne* ,Positive
+reconfort,épargne* ,Positive
+renforcer*,épargne* ,Positive
+satsifait ,épargne* ,Positive
+sécuriser,épargne* ,Positive
+servir,épargne* ,Positive
+solidifier,épargne* ,Positive
+soutenir,épargne* ,Positive
+stimuler,épargne* ,Positive
+unis,épargne* ,Positive
+aider,foyer ,Positive
+améliorer,foyer ,Positive
+assurer,foyer ,Positive
+augmenter*,foyer ,Positive
+avantageux*,foyer ,Positive
+content ,foyer ,Positive
+coopérer ,foyer ,Positive
+croitre,foyer ,Positive
+élevé*,foyer ,Positive
+encourager,foyer ,Positive
+favoriser,foyer ,Positive
+fortifier,foyer ,Positive
+généreux*,foyer ,Positive
+grandir,foyer ,Positive
+hausse,foyer ,Positive
+heureux,foyer ,Positive
+lever,foyer ,Positive
+monter,foyer ,Positive
+optimiste,foyer ,Positive
+positif,foyer ,Positive
+privilégier,foyer ,Positive
+protéger*,foyer ,Positive
+rassasié,foyer ,Positive
+rassurer,foyer ,Positive
+reconfort,foyer ,Positive
+renforcer*,foyer ,Positive
+satsifait ,foyer ,Positive
+sécuriser,foyer ,Positive
+servir,foyer ,Positive
+solidifier,foyer ,Positive
+soutenir,foyer ,Positive
+stimuler,foyer ,Positive
+unis,foyer ,Positive
+aider,ménage*,Positive
+améliorer,ménage*,Positive
+assurer,ménage*,Positive
+augmenter*,ménage*,Positive
+avantageux*,ménage*,Positive
+content ,ménage*,Positive
+coopérer ,ménage*,Positive
+croitre,ménage*,Positive
+élevé*,ménage*,Positive
+encourager,ménage*,Positive
+favoriser,ménage*,Positive
+fortifier,ménage*,Positive
+généreux*,ménage*,Positive
+grandir,ménage*,Positive
+hausse,ménage*,Positive
+heureux,ménage*,Positive
+lever,ménage*,Positive
+monter,ménage*,Positive
+optimiste,ménage*,Positive
+positif,ménage*,Positive
+privilégier,ménage*,Positive
+protéger*,ménage*,Positive
+rassasié,ménage*,Positive
+rassurer,ménage*,Positive
+reconfort,ménage*,Positive
+renforcer*,ménage*,Positive
+satsifait ,ménage*,Positive
+sécuriser,ménage*,Positive
+servir,ménage*,Positive
+solidifier,ménage*,Positive
+soutenir,ménage*,Positive
+stimuler,ménage*,Positive
+unis,ménage*,Positive
+aider,retraite* ,Positive
+améliorer,retraite* ,Positive
+assurer,retraite* ,Positive
+augmenter*,retraite* ,Positive
+avantageux*,retraite* ,Positive
+content ,retraite* ,Positive
+coopérer ,retraite* ,Positive
+croitre,retraite* ,Positive
+élevé*,retraite* ,Positive
+encourager,retraite* ,Positive
+favoriser,retraite* ,Positive
+fortifier,retraite* ,Positive
+généreux*,retraite* ,Positive
+grandir,retraite* ,Positive
+hausse,retraite* ,Positive
+heureux,retraite* ,Positive
+lever,retraite* ,Positive
+monter,retraite* ,Positive
+optimiste,retraite* ,Positive
+positif,retraite* ,Positive
+privilégier,retraite* ,Positive
+protéger*,retraite* ,Positive
+rassasié,retraite* ,Positive
+rassurer,retraite* ,Positive
+reconfort,retraite* ,Positive
+renforcer*,retraite* ,Positive
+satsifait ,retraite* ,Positive
+sécuriser,retraite* ,Positive
+servir,retraite* ,Positive
+solidifier,retraite* ,Positive
+soutenir,retraite* ,Positive
+stimuler,retraite* ,Positive
+unis,retraite* ,Positive
+aider,revenu disponible ,Positive
+améliorer,revenu disponible ,Positive
+assurer,revenu disponible ,Positive
+augmenter*,revenu disponible ,Positive
+avantageux*,revenu disponible ,Positive
+content ,revenu disponible ,Positive
+coopérer ,revenu disponible ,Positive
+croitre,revenu disponible ,Positive
+élevé*,revenu disponible ,Positive
+encourager,revenu disponible ,Positive
+favoriser,revenu disponible ,Positive
+fortifier,revenu disponible ,Positive
+généreux*,revenu disponible ,Positive
+grandir,revenu disponible ,Positive
+hausse,revenu disponible ,Positive
+heureux,revenu disponible ,Positive
+lever,revenu disponible ,Positive
+monter,revenu disponible ,Positive
+optimiste,revenu disponible ,Positive
+positif,revenu disponible ,Positive
+privilégier,revenu disponible ,Positive
+protéger*,revenu disponible ,Positive
+rassasié,revenu disponible ,Positive
+rassurer,revenu disponible ,Positive
+reconfort,revenu disponible ,Positive
+renforcer*,revenu disponible ,Positive
+satsifait ,revenu disponible ,Positive
+sécuriser,revenu disponible ,Positive
+servir,revenu disponible ,Positive
+solidifier,revenu disponible ,Positive
+soutenir,revenu disponible ,Positive
+stimuler,revenu disponible ,Positive
+unis,revenu disponible ,Positive
+,bien commun,Positive
+,cohésion sociale,Positive
+,égalité sociale,Positive
+,équilibre social,Positive
+,harmonie sociale,Positive
+,paix et tranquillité,Positive
+,paix sociale,Positive
+,prospérité sociale,Positive
+,solidarité sociale ,Positive
+,stabilité sociale ,Positive
+,tranquillité publique,Positive
+,unité sociale,Positive
+,bouleversement social,Negative
+,conflit social ,Negative
+,indignation scoaile,Negative
+,inégalité sociale,Negative
+,insécurité sociale,Negative
+,instabilité sociale,Negative
+,maux sociaux,Negative
+,mécontentement social,Negative
+,perturbation de l'ordre public,Negative
+,répartition des conflits civils,Negative
+,tension sociale,Negative
+,troubles sociaux,Negative
+,désillusionné,Negative
+,décevoir,Negative

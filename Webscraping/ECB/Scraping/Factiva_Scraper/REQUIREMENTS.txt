@@ -1,0 +1,9 @@
+selenium
+pandas
+re
+bs4
+sqlalchemy
+mysql-connector-python
+PyMySQL
+
+Wim Duisenberg, Christian Noyer, Sirkka Hämäläinen, Eugenio Domingo Solans, Tommaso Padoa-Schioppa, Otmar Issing, Lucas Papademos, Jean-Claude Trichet, Gertrude Tumpel-Gugerell, José Manuel González Paramo, Lorenzo Bini Smaghi, Jürgen Stark

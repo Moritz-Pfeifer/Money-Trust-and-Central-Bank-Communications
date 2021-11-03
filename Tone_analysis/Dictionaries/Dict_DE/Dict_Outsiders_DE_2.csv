@@ -1,0 +1,608 @@
+Adjetives_Verbs,Nouns_Dependent,Adjetive_Type
+*festigen*,Bürger*,Positive
+*schütz*,Bürger*,Positive
+*stärke*,Bürger*,Positive
+*stützen* ,Bürger*,Positive
+*wachs*,Bürger*,Positive
+angestieg*,Bürger*,Positive
+ansteigend*,Bürger*,Positive
+aufbauen,Bürger*,Positive
+befriedigt,Bürger*,Positive
+begeistert,Bürger*,Positive
+begünstigt,Bürger*,Positive
+einsetzen,Bürger*,Positive
+einwillig,Bürger*,Positive
+erhöh*,Bürger*,Positive
+erweiter*,Bürger*,Positive
+fördern,Bürger*,Positive
+groß*,Bürger*,Positive
+großzügig*,Bürger*,Positive
+guttun,Bürger*,Positive
+helfen,Bürger*,Positive
+herstellen,Bürger*,Positive
+hohe*,Bürger*,Positive
+nützen,Bürger*,Positive
+optimistisch,Bürger*,Positive
+positiv,Bürger*,Positive
+profitier*,Bürger*,Positive
+sicher,Bürger*,Positive
+unterstützen,Bürger*,Positive
+verbesser*,Bürger*,Positive
+wiederherstellen,Bürger*,Positive
+zufrieden,Bürger*,Positive
+zugenommen*,Bürger*,Positive
+zugute kommen,Bürger*,Positive
+zunehmen*,Bürger*,Positive
+zustimmen,Bürger*,Positive
+zuversichtlich,Bürger*,Positive
+*festigen*,Ersparnis* ,Positive
+*schütz*,Ersparnis* ,Positive
+*stärke*,Ersparnis* ,Positive
+*stützen* ,Ersparnis* ,Positive
+*wachs*,Ersparnis* ,Positive
+angestieg*,Ersparnis* ,Positive
+ansteigend*,Ersparnis* ,Positive
+aufbauen,Ersparnis* ,Positive
+befriedigt,Ersparnis* ,Positive
+begeistert,Ersparnis* ,Positive
+begünstigt,Ersparnis* ,Positive
+einsetzen,Ersparnis* ,Positive
+einwillig,Ersparnis* ,Positive
+erhöh*,Ersparnis* ,Positive
+erweiter*,Ersparnis* ,Positive
+fördern,Ersparnis* ,Positive
+groß*,Ersparnis* ,Positive
+großzügig*,Ersparnis* ,Positive
+guttun,Ersparnis* ,Positive
+helfen,Ersparnis* ,Positive
+herstellen,Ersparnis* ,Positive
+hohe*,Ersparnis* ,Positive
+nützen,Ersparnis* ,Positive
+optimistisch,Ersparnis* ,Positive
+positiv,Ersparnis* ,Positive
+profitier*,Ersparnis* ,Positive
+sicher,Ersparnis* ,Positive
+unterstützen,Ersparnis* ,Positive
+verbesser*,Ersparnis* ,Positive
+wiederherstellen,Ersparnis* ,Positive
+zufrieden,Ersparnis* ,Positive
+zugenommen*,Ersparnis* ,Positive
+zugute kommen,Ersparnis* ,Positive
+zunehmen*,Ersparnis* ,Positive
+zustimmen,Ersparnis* ,Positive
+zuversichtlich,Ersparnis* ,Positive
+*festigen*,Haushalt*,Positive
+*schütz*,Haushalt*,Positive
+*stärke*,Haushalt*,Positive
+*stützen* ,Haushalt*,Positive
+*wachs*,Haushalt*,Positive
+angestieg*,Haushalt*,Positive
+ansteigend*,Haushalt*,Positive
+aufbauen,Haushalt*,Positive
+befriedigt,Haushalt*,Positive
+begeistert,Haushalt*,Positive
+begünstigt,Haushalt*,Positive
+einsetzen,Haushalt*,Positive
+einwillig,Haushalt*,Positive
+erhöh*,Haushalt*,Positive
+erweiter*,Haushalt*,Positive
+fördern,Haushalt*,Positive
+groß*,Haushalt*,Positive
+großzügig*,Haushalt*,Positive
+guttun,Haushalt*,Positive
+helfen,Haushalt*,Positive
+herstellen,Haushalt*,Positive
+hohe*,Haushalt*,Positive
+nützen,Haushalt*,Positive
+optimistisch,Haushalt*,Positive
+positiv,Haushalt*,Positive
+profitier*,Haushalt*,Positive
+sicher,Haushalt*,Positive
+unterstützen,Haushalt*,Positive
+verbesser*,Haushalt*,Positive
+wiederherstellen,Haushalt*,Positive
+zufrieden,Haushalt*,Positive
+zugenommen*,Haushalt*,Positive
+zugute kommen,Haushalt*,Positive
+zunehmen*,Haushalt*,Positive
+zustimmen,Haushalt*,Positive
+zuversichtlich,Haushalt*,Positive
+*festigen*,Sparer*,Positive
+*schütz*,Sparer*,Positive
+*stärke*,Sparer*,Positive
+*stützen* ,Sparer*,Positive
+*wachs*,Sparer*,Positive
+angestieg*,Sparer*,Positive
+ansteigend*,Sparer*,Positive
+aufbauen,Sparer*,Positive
+befriedigt,Sparer*,Positive
+begeistert,Sparer*,Positive
+begünstigt,Sparer*,Positive
+einsetzen,Sparer*,Positive
+einwillig,Sparer*,Positive
+erhöh*,Sparer*,Positive
+erweiter*,Sparer*,Positive
+fördern,Sparer*,Positive
+groß*,Sparer*,Positive
+großzügig*,Sparer*,Positive
+guttun,Sparer*,Positive
+helfen,Sparer*,Positive
+herstellen,Sparer*,Positive
+hohe*,Sparer*,Positive
+nützen,Sparer*,Positive
+optimistisch,Sparer*,Positive
+positiv,Sparer*,Positive
+profitier*,Sparer*,Positive
+sicher,Sparer*,Positive
+unterstützen,Sparer*,Positive
+verbesser*,Sparer*,Positive
+wiederherstellen,Sparer*,Positive
+zufrieden,Sparer*,Positive
+zugenommen*,Sparer*,Positive
+zugute kommen,Sparer*,Positive
+zunehmen*,Sparer*,Positive
+zustimmen,Sparer*,Positive
+zuversichtlich,Sparer*,Positive
+*festigen*,Staatsbürger*,Positive
+*schütz*,Staatsbürger*,Positive
+*stärke*,Staatsbürger*,Positive
+*stützen* ,Staatsbürger*,Positive
+*wachs*,Staatsbürger*,Positive
+angestieg*,Staatsbürger*,Positive
+ansteigend*,Staatsbürger*,Positive
+aufbauen,Staatsbürger*,Positive
+befriedigt,Staatsbürger*,Positive
+begeistert,Staatsbürger*,Positive
+begünstigt,Staatsbürger*,Positive
+einsetzen,Staatsbürger*,Positive
+einwillig,Staatsbürger*,Positive
+erhöh*,Staatsbürger*,Positive
+erweiter*,Staatsbürger*,Positive
+fördern,Staatsbürger*,Positive
+groß*,Staatsbürger*,Positive
+großzügig*,Staatsbürger*,Positive
+guttun,Staatsbürger*,Positive
+helfen,Staatsbürger*,Positive
+herstellen,Staatsbürger*,Positive
+hohe*,Staatsbürger*,Positive
+nützen,Staatsbürger*,Positive
+optimistisch,Staatsbürger*,Positive
+positiv,Staatsbürger*,Positive
+profitier*,Staatsbürger*,Positive
+sicher,Staatsbürger*,Positive
+unterstützen,Staatsbürger*,Positive
+verbesser*,Staatsbürger*,Positive
+wiederherstellen,Staatsbürger*,Positive
+zufrieden,Staatsbürger*,Positive
+zugenommen*,Staatsbürger*,Positive
+zugute kommen,Staatsbürger*,Positive
+zunehmen*,Staatsbürger*,Positive
+zustimmen,Staatsbürger*,Positive
+zuversichtlich,Staatsbürger*,Positive
+*festigen*,Steuerzahler*,Positive
+*schütz*,Steuerzahler*,Positive
+*stärke*,Steuerzahler*,Positive
+*stützen* ,Steuerzahler*,Positive
+*wachs*,Steuerzahler*,Positive
+angestieg*,Steuerzahler*,Positive
+ansteigend*,Steuerzahler*,Positive
+aufbauen,Steuerzahler*,Positive
+befriedigt,Steuerzahler*,Positive
+begeistert,Steuerzahler*,Positive
+begünstigt,Steuerzahler*,Positive
+einsetzen,Steuerzahler*,Positive
+einwillig,Steuerzahler*,Positive
+erhöh*,Steuerzahler*,Positive
+erweiter*,Steuerzahler*,Positive
+fördern,Steuerzahler*,Positive
+groß*,Steuerzahler*,Positive
+großzügig*,Steuerzahler*,Positive
+guttun,Steuerzahler*,Positive
+helfen,Steuerzahler*,Positive
+herstellen,Steuerzahler*,Positive
+hohe*,Steuerzahler*,Positive
+nützen,Steuerzahler*,Positive
+optimistisch,Steuerzahler*,Positive
+positiv,Steuerzahler*,Positive
+profitier*,Steuerzahler*,Positive
+sicher,Steuerzahler*,Positive
+unterstützen,Steuerzahler*,Positive
+verbesser*,Steuerzahler*,Positive
+wiederherstellen,Steuerzahler*,Positive
+zufrieden,Steuerzahler*,Positive
+zugenommen*,Steuerzahler*,Positive
+zugute kommen,Steuerzahler*,Positive
+zunehmen*,Steuerzahler*,Positive
+zustimmen,Steuerzahler*,Positive
+zuversichtlich,Steuerzahler*,Positive
+*festigen*,verfügbare* Einkommen*,Positive
+*schütz*,verfügbare* Einkommen*,Positive
+*stärke*,verfügbare* Einkommen*,Positive
+*stützen* ,verfügbare* Einkommen*,Positive
+*wachs*,verfügbare* Einkommen*,Positive
+angestieg*,verfügbare* Einkommen*,Positive
+ansteigend*,verfügbare* Einkommen*,Positive
+aufbauen,verfügbare* Einkommen*,Positive
+befriedigt,verfügbare* Einkommen*,Positive
+begeistert,verfügbare* Einkommen*,Positive
+begünstigt,verfügbare* Einkommen*,Positive
+einsetzen,verfügbare* Einkommen*,Positive
+einwillig,verfügbare* Einkommen*,Positive
+erhöh*,verfügbare* Einkommen*,Positive
+erweiter*,verfügbare* Einkommen*,Positive
+fördern,verfügbare* Einkommen*,Positive
+groß*,verfügbare* Einkommen*,Positive
+großzügig*,verfügbare* Einkommen*,Positive
+guttun,verfügbare* Einkommen*,Positive
+helfen,verfügbare* Einkommen*,Positive
+herstellen,verfügbare* Einkommen*,Positive
+hohe*,verfügbare* Einkommen*,Positive
+nützen,verfügbare* Einkommen*,Positive
+optimistisch,verfügbare* Einkommen*,Positive
+positiv,verfügbare* Einkommen*,Positive
+profitier*,verfügbare* Einkommen*,Positive
+sicher,verfügbare* Einkommen*,Positive
+unterstützen,verfügbare* Einkommen*,Positive
+verbesser*,verfügbare* Einkommen*,Positive
+wiederherstellen,verfügbare* Einkommen*,Positive
+zufrieden,verfügbare* Einkommen*,Positive
+zugenommen*,verfügbare* Einkommen*,Positive
+zugute kommen,verfügbare* Einkommen*,Positive
+zunehmen*,verfügbare* Einkommen*,Positive
+zustimmen,verfügbare* Einkommen*,Positive
+zuversichtlich,verfügbare* Einkommen*,Positive
+*festigen*,Volk*,Positive
+*schütz*,Volk*,Positive
+*stärke*,Volk*,Positive
+*stützen* ,Volk*,Positive
+*wachs*,Volk*,Positive
+angestieg*,Volk*,Positive
+ansteigend*,Volk*,Positive
+aufbauen,Volk*,Positive
+befriedigt,Volk*,Positive
+begeistert,Volk*,Positive
+begünstigt,Volk*,Positive
+einsetzen,Volk*,Positive
+einwillig,Volk*,Positive
+erhöh*,Volk*,Positive
+erweiter*,Volk*,Positive
+fördern,Volk*,Positive
+groß*,Volk*,Positive
+großzügig*,Volk*,Positive
+guttun,Volk*,Positive
+helfen,Volk*,Positive
+herstellen,Volk*,Positive
+hohe*,Volk*,Positive
+nützen,Volk*,Positive
+optimistisch,Volk*,Positive
+positiv,Volk*,Positive
+profitier*,Volk*,Positive
+sicher,Volk*,Positive
+unterstützen,Volk*,Positive
+verbesser*,Volk*,Positive
+wiederherstellen,Volk*,Positive
+zufrieden,Volk*,Positive
+zugenommen*,Volk*,Positive
+zugute kommen,Volk*,Positive
+zunehmen*,Volk*,Positive
+zustimmen,Volk*,Positive
+zuversichtlich,Volk*,Positive
+ängstlich*,Bürger*,Negative
+bangen,Bürger*,Negative
+beschädigt*,Bürger*,Negative
+besorgt*,Bürger*,Negative
+desillusioniert,Bürger*,Negative
+empört*,Bürger*,Negative
+enttäuscht,Bürger*,Negative
+frustriert,Bürger*,Negative
+gering*,Bürger*,Negative
+heftig*,Bürger*,Negative
+klein*,Bürger*,Negative
+leiden*,Bürger*,Negative
+missbilligen,Bürger*,Negative
+missfallen*,Bürger*,Negative
+negativ,Bürger*,Negative
+nicht genug,Bürger*,Negative
+nicht zustimmen,Bürger*,Negative
+niedrig*,Bürger*,Negative
+pessimistisch,Bürger*,Negative
+protestieren,Bürger*,Negative
+schaden,Bürger*,Negative
+schlecht*,Bürger*,Negative
+schwach*,Bürger*,Negative
+senken,Bürger*,Negative
+sinkend*,Bürger*,Negative
+sorgenvoll,Bürger*,Negative
+sorgsam,Bürger*,Negative
+unzufrieden,Bürger*,Negative
+unzureichend*,Bürger*,Negative
+verärgert*,Bürger*,Negative
+verhindern,Bürger*,Negative
+verletzt,Bürger*,Negative
+vermindern,Bürger*,Negative
+verringern,Bürger*,Negative
+widersprechen,Bürger*,Negative
+wütend,Bürger*,Negative
+ängstlich*,Ersparnis* ,Negative
+bangen,Ersparnis* ,Negative
+beschädigt*,Ersparnis* ,Negative
+besorgt*,Ersparnis* ,Negative
+desillusioniert,Ersparnis* ,Negative
+empört*,Ersparnis* ,Negative
+enttäuscht,Ersparnis* ,Negative
+frustriert,Ersparnis* ,Negative
+gering*,Ersparnis* ,Negative
+heftig*,Ersparnis* ,Negative
+klein*,Ersparnis* ,Negative
+leiden*,Ersparnis* ,Negative
+missbilligen,Ersparnis* ,Negative
+missfallen*,Ersparnis* ,Negative
+negativ,Ersparnis* ,Negative
+nicht genug,Ersparnis* ,Negative
+nicht zustimmen,Ersparnis* ,Negative
+niedrig*,Ersparnis* ,Negative
+pessimistisch,Ersparnis* ,Negative
+protestieren,Ersparnis* ,Negative
+schaden,Ersparnis* ,Negative
+schlecht*,Ersparnis* ,Negative
+schwach*,Ersparnis* ,Negative
+senken,Ersparnis* ,Negative
+sinkend*,Ersparnis* ,Negative
+sorgenvoll,Ersparnis* ,Negative
+sorgsam,Ersparnis* ,Negative
+unzufrieden,Ersparnis* ,Negative
+unzureichend*,Ersparnis* ,Negative
+verärgert*,Ersparnis* ,Negative
+verhindern,Ersparnis* ,Negative
+verletzt,Ersparnis* ,Negative
+vermindern,Ersparnis* ,Negative
+verringern,Ersparnis* ,Negative
+widersprechen,Ersparnis* ,Negative
+wütend,Ersparnis* ,Negative
+ängstlich*,Haushalt*,Negative
+bangen,Haushalt*,Negative
+beschädigt*,Haushalt*,Negative
+besorgt*,Haushalt*,Negative
+desillusioniert,Haushalt*,Negative
+empört*,Haushalt*,Negative
+enttäuscht,Haushalt*,Negative
+frustriert,Haushalt*,Negative
+gering*,Haushalt*,Negative
+heftig*,Haushalt*,Negative
+klein*,Haushalt*,Negative
+leiden*,Haushalt*,Negative
+missbilligen,Haushalt*,Negative
+missfallen*,Haushalt*,Negative
+negativ,Haushalt*,Negative
+nicht genug,Haushalt*,Negative
+nicht zustimmen,Haushalt*,Negative
+niedrig*,Haushalt*,Negative
+pessimistisch,Haushalt*,Negative
+protestieren,Haushalt*,Negative
+schaden,Haushalt*,Negative
+schlecht*,Haushalt*,Negative
+schwach*,Haushalt*,Negative
+senken,Haushalt*,Negative
+sinkend*,Haushalt*,Negative
+sorgenvoll,Haushalt*,Negative
+sorgsam,Haushalt*,Negative
+unzufrieden,Haushalt*,Negative
+unzureichend*,Haushalt*,Negative
+verärgert*,Haushalt*,Negative
+verhindern,Haushalt*,Negative
+verletzt,Haushalt*,Negative
+vermindern,Haushalt*,Negative
+verringern,Haushalt*,Negative
+widersprechen,Haushalt*,Negative
+wütend,Haushalt*,Negative
+ängstlich*,Sparer*,Negative
+bangen,Sparer*,Negative
+beschädigt*,Sparer*,Negative
+besorgt*,Sparer*,Negative
+desillusioniert,Sparer*,Negative
+empört*,Sparer*,Negative
+enttäuscht,Sparer*,Negative
+frustriert,Sparer*,Negative
+gering*,Sparer*,Negative
+heftig*,Sparer*,Negative
+klein*,Sparer*,Negative
+leiden*,Sparer*,Negative
+missbilligen,Sparer*,Negative
+missfallen*,Sparer*,Negative
+negativ,Sparer*,Negative
+nicht genug,Sparer*,Negative
+nicht zustimmen,Sparer*,Negative
+niedrig*,Sparer*,Negative
+pessimistisch,Sparer*,Negative
+protestieren,Sparer*,Negative
+schaden,Sparer*,Negative
+schlecht*,Sparer*,Negative
+schwach*,Sparer*,Negative
+senken,Sparer*,Negative
+sinkend*,Sparer*,Negative
+sorgenvoll,Sparer*,Negative
+sorgsam,Sparer*,Negative
+unzufrieden,Sparer*,Negative
+unzureichend*,Sparer*,Negative
+verärgert*,Sparer*,Negative
+verhindern,Sparer*,Negative
+verletzt,Sparer*,Negative
+vermindern,Sparer*,Negative
+verringern,Sparer*,Negative
+widersprechen,Sparer*,Negative
+wütend,Sparer*,Negative
+ängstlich*,Staatsbürger*,Negative
+bangen,Staatsbürger*,Negative
+beschädigt*,Staatsbürger*,Negative
+besorgt*,Staatsbürger*,Negative
+desillusioniert,Staatsbürger*,Negative
+empört*,Staatsbürger*,Negative
+enttäuscht,Staatsbürger*,Negative
+frustriert,Staatsbürger*,Negative
+gering*,Staatsbürger*,Negative
+heftig*,Staatsbürger*,Negative
+klein*,Staatsbürger*,Negative
+leiden*,Staatsbürger*,Negative
+missbilligen,Staatsbürger*,Negative
+missfallen*,Staatsbürger*,Negative
+negativ,Staatsbürger*,Negative
+nicht genug,Staatsbürger*,Negative
+nicht zustimmen,Staatsbürger*,Negative
+niedrig*,Staatsbürger*,Negative
+pessimistisch,Staatsbürger*,Negative
+protestieren,Staatsbürger*,Negative
+schaden,Staatsbürger*,Negative
+schlecht*,Staatsbürger*,Negative
+schwach*,Staatsbürger*,Negative
+senken,Staatsbürger*,Negative
+sinkend*,Staatsbürger*,Negative
+sorgenvoll,Staatsbürger*,Negative
+sorgsam,Staatsbürger*,Negative
+unzufrieden,Staatsbürger*,Negative
+unzureichend*,Staatsbürger*,Negative
+verärgert*,Staatsbürger*,Negative
+verhindern,Staatsbürger*,Negative
+verletzt,Staatsbürger*,Negative
+vermindern,Staatsbürger*,Negative
+verringern,Staatsbürger*,Negative
+widersprechen,Staatsbürger*,Negative
+wütend,Staatsbürger*,Negative
+ängstlich*,Steuerzahler*,Negative
+bangen,Steuerzahler*,Negative
+beschädigt*,Steuerzahler*,Negative
+besorgt*,Steuerzahler*,Negative
+desillusioniert,Steuerzahler*,Negative
+empört*,Steuerzahler*,Negative
+enttäuscht,Steuerzahler*,Negative
+frustriert,Steuerzahler*,Negative
+gering*,Steuerzahler*,Negative
+heftig*,Steuerzahler*,Negative
+klein*,Steuerzahler*,Negative
+leiden*,Steuerzahler*,Negative
+missbilligen,Steuerzahler*,Negative
+missfallen*,Steuerzahler*,Negative
+negativ,Steuerzahler*,Negative
+nicht genug,Steuerzahler*,Negative
+nicht zustimmen,Steuerzahler*,Negative
+niedrig*,Steuerzahler*,Negative
+pessimistisch,Steuerzahler*,Negative
+protestieren,Steuerzahler*,Negative
+schaden,Steuerzahler*,Negative
+schlecht*,Steuerzahler*,Negative
+schwach*,Steuerzahler*,Negative
+senken,Steuerzahler*,Negative
+sinkend*,Steuerzahler*,Negative
+sorgenvoll,Steuerzahler*,Negative
+sorgsam,Steuerzahler*,Negative
+unzufrieden,Steuerzahler*,Negative
+unzureichend*,Steuerzahler*,Negative
+verärgert*,Steuerzahler*,Negative
+verhindern,Steuerzahler*,Negative
+verletzt,Steuerzahler*,Negative
+vermindern,Steuerzahler*,Negative
+verringern,Steuerzahler*,Negative
+widersprechen,Steuerzahler*,Negative
+wütend,Steuerzahler*,Negative
+ängstlich*,verfügbare* Einkommen*,Negative
+bangen,verfügbare* Einkommen*,Negative
+beschädigt*,verfügbare* Einkommen*,Negative
+besorgt*,verfügbare* Einkommen*,Negative
+desillusioniert,verfügbare* Einkommen*,Negative
+empört*,verfügbare* Einkommen*,Negative
+enttäuscht,verfügbare* Einkommen*,Negative
+frustriert,verfügbare* Einkommen*,Negative
+gering*,verfügbare* Einkommen*,Negative
+heftig*,verfügbare* Einkommen*,Negative
+klein*,verfügbare* Einkommen*,Negative
+leiden*,verfügbare* Einkommen*,Negative
+missbilligen,verfügbare* Einkommen*,Negative
+missfallen*,verfügbare* Einkommen*,Negative
+negativ,verfügbare* Einkommen*,Negative
+nicht genug,verfügbare* Einkommen*,Negative
+nicht zustimmen,verfügbare* Einkommen*,Negative
+niedrig*,verfügbare* Einkommen*,Negative
+pessimistisch,verfügbare* Einkommen*,Negative
+protestieren,verfügbare* Einkommen*,Negative
+schaden,verfügbare* Einkommen*,Negative
+schlecht*,verfügbare* Einkommen*,Negative
+schwach*,verfügbare* Einkommen*,Negative
+senken,verfügbare* Einkommen*,Negative
+sinkend*,verfügbare* Einkommen*,Negative
+sorgenvoll,verfügbare* Einkommen*,Negative
+sorgsam,verfügbare* Einkommen*,Negative
+unzufrieden,verfügbare* Einkommen*,Negative
+unzureichend*,verfügbare* Einkommen*,Negative
+verärgert*,verfügbare* Einkommen*,Negative
+verhindern,verfügbare* Einkommen*,Negative
+verletzt,verfügbare* Einkommen*,Negative
+vermindern,verfügbare* Einkommen*,Negative
+verringern,verfügbare* Einkommen*,Negative
+widersprechen,verfügbare* Einkommen*,Negative
+wütend,verfügbare* Einkommen*,Negative
+ängstlich*,Volk*,Negative
+bangen,Volk*,Negative
+beschädigt*,Volk*,Negative
+besorgt*,Volk*,Negative
+desillusioniert,Volk*,Negative
+empört*,Volk*,Negative
+enttäuscht,Volk*,Negative
+frustriert,Volk*,Negative
+gering*,Volk*,Negative
+heftig*,Volk*,Negative
+klein*,Volk*,Negative
+leiden*,Volk*,Negative
+missbilligen,Volk*,Negative
+missfallen*,Volk*,Negative
+negativ,Volk*,Negative
+nicht genug,Volk*,Negative
+nicht zustimmen,Volk*,Negative
+niedrig*,Volk*,Negative
+pessimistisch,Volk*,Negative
+protestieren,Volk*,Negative
+schaden,Volk*,Negative
+schlecht*,Volk*,Negative
+schwach*,Volk*,Negative
+senken,Volk*,Negative
+sinkend*,Volk*,Negative
+sorgenvoll,Volk*,Negative
+sorgsam,Volk*,Negative
+unzufrieden,Volk*,Negative
+unzureichend*,Volk*,Negative
+verärgert*,Volk*,Negative
+verhindern,Volk*,Negative
+verletzt,Volk*,Negative
+vermindern,Volk*,Negative
+verringern,Volk*,Negative
+widersprechen,Volk*,Negative
+wütend,Volk*,Negative
+,Gemeinwohl,Positive
+,politisch* Einheit,Positive
+,politisch* Gleichgewicht*,Positive
+,Solidarität,Positive
+,soziale* Frieden*,Positive
+,soziale* Gleichgewicht*,Positive
+,soziale* Stabilität ,Positive
+,soziale* Wohlstand*,Positive
+,soziale* Zusammenhalt*,Positive
+,Austerität* ,Negative
+,öffentliche* Aufreg*,Negative
+,öffentliche* Empörung*,Negative
+,politische* Konflikt*,Negative
+,politische* Spannung*,Negative
+,politische* Unfrieden*,Negative
+,politische* Unruhen*,Negative
+,politsche* Chaos*,Negative
+,soziale* Empörung*,Negative
+,soziale* Instabilität*,Negative
+,soziale* Missst*,Negative
+,soziale* Spannungen*,Negative
+,soziale* Unfrieden* ,Negative
+,soziale* Ungleichheit* ,Negative
+,soziale* Unruhen*,Negative
+,soziale* Unsicherheit*,Negative
+,soziale* Unzufriedenheit*,Negative
+,Störung der öffentlichen Ordnung,Negative
+,zivile* Unruhen*,Negative
+,Zusammenbruch des zivilen,Negative
+,soziale Kohäsion,Positive
+,Zusammengehörigkeitsgefühl,Positive
