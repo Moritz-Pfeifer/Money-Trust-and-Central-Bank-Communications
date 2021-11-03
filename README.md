@@ -1,5 +1,5 @@
 
-<img src="https://i.ibb.co/gtYf4Dg/1920px-Logo-Universite-Paris-Nanterre.png" width="400" height="790">
+<img src="https://i.ibb.co/gtYf4Dg/1920px-Logo-Universite-Paris-Nanterre.png" width="700" height="100">
 
 # Money, Trust and Central Bank Communication
 ### Data and Scripts PhD Nanterre University  
